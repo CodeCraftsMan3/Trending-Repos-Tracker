@@ -2,7 +2,7 @@ import requests
 import os
 
 def fetch_trending_repositories():
-    url = "https://api.github.com/search/repositories?q=created:>2021-01-01&sort=stars&order=desc"
+    url = "https://api.github.com/search/repositories?q=created:>2023-01-01&sort=stars&order=desc"
     response = requests.get(url)
     return response.json().get("items", [])
 
