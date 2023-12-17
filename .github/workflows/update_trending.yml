@@ -11,6 +11,9 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v2
+        with:
+          ssh-key: ${{ secrets.TheKey }}
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v2
@@ -26,10 +29,9 @@ jobs:
         run: python update_trending.py
 
       - name: Commit and Push Changes
-  if: github.event_name != 'schedule'
-  run: |
-    git config user.name "r0cketp0wer"
-    git config user.email "wuuprogrammers@gmail.com"
-    git add README.md
-    git commit -m "Update trending repositories"
-    git push https://r0cketp0wer:${{ secrets.GH_TOKEN }}@github.com/r0cketp0wer/Trending-Repos-Tracker.git HEAD:main
+        run: |
+          git config user.name "r0cketp0wer"
+          git config user.email "wuuprogrammers@gmail.com"
+          git add README.md
+          git commit -m "Update trending repositories"
+          git push origin HEAD:main
