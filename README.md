@@ -1,4 +1,5 @@
 # Trending Repositories
+## Please leave a ⭐ as motivation if you liked the implementation 😄
 
 - [AirCtrl](https://github.com/pentilm/AirCtrl): 🤙 Control Your Mouse with Hand Gestures in the Air 🤙
 - [resource-hint-webpack-plugin](https://github.com/Ruimve/resource-hint-webpack-plugin): ✨ 快速配置 Resource Hints 的 Webpack 插件，实现资源预加载，利用空闲时间对可能访问的服务器进行 DNS 解析和提前建立 👋 连接。
