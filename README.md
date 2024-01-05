@@ -1,11 +1,32 @@
 # Trending Repositories
 
-This repository automatically updates to showcase trending GitHub repositories.
-
-## Trending Repositories
-
-- [Repository 1](https://github.com/username/repository1): Description for repository 1
-- [Repository 2](https://github.com/username/repository2): Description for repository 2
-- [Repository 3](https://github.com/username/repository3): Description for repository 3
-
-...
+- [AirCtrl](https://github.com/pentilm/AirCtrl): 🤙 Control Your Mouse with Hand Gestures in the Air 🤙
+- [resource-hint-webpack-plugin](https://github.com/Ruimve/resource-hint-webpack-plugin): ✨ 快速配置 Resource Hints 的 Webpack 插件，实现资源预加载，利用空闲时间对可能访问的服务器进行 DNS 解析和提前建立 👋 连接。
+- [microspot](https://github.com/Ruimve/microspot): 🐱 🐱 轻量级前端异常监控和性能监控系统，帮助工程师定位并解决各种线上问题 🐞，使项目保持高性能运行的同时拥有健康良好的 🚗 代码环境。
+- [TypeShuffleAnimation](https://github.com/codrops/TypeShuffleAnimation): A shuffling type animation based on the effect seen on LCD 1.
+- [contract](https://github.com/HipoFinance/contract): hTON: Hipo liquid staking protocol
+- [blog](https://github.com/xxsoftware/blog): None
+- [spider](https://github.com/Yac87300/spider): 自动化运维/数据采集/Api转发/活接口调用
+- [pretty-cache-header](https://github.com/jjenzz/pretty-cache-header): Cache-control header utility that parses human readable time strings into seconds.
+- [nuxt-lego](https://github.com/zernonia/nuxt-lego): NuxtLego is an open source UI component layer for building your Nuxt content quick & beautiful.
+- [Hexo-Theme-Acrylic-Next](https://github.com/hexo-theme-Acrylic/Hexo-Theme-Acrylic-Next): 下一代Acrylic何必是butterfly
+- [zkPoEX](https://github.com/zkoranges/zkPoEX): zkPoEX enables white hat hackers to report live vulnerabilities in smart contracts while maintaining the confidentiality of the exploit, facilitating efficient communication and collaboration between hackers and project owners for a more secure DeFi ecosystem.
+- [awesome-load-management](https://github.com/StanzaSystems/awesome-load-management): A repo of links to articles, papers, conference talks, and tooling related to load management in software services.
+- [app-space-android](https://github.com/appspa/app-space-android): 应用内网发布分发测试部署管理平台版本管理类似蒲公英蒲公英 类似fir.im fir App publish IOS超级签名免签 开源| https://app-space.up.railway.app |APP增量热更新| 支持iOS、Android、flutter、 react-native更新摇一摇提Bug SDK 提供自动化部署jenkins fastlane 丰富组件库 安卓苹果发布发版publish 管理发发布适用于企业手机应用内测服务应用内测托管的平台开源
+- [aperiodic-monotile](https://github.com/christianp/aperiodic-monotile): Smith, Myers, Kaplan and Goodman-Strauss's aperiodic monotile, in a variety of formats
+- [HackerBar](https://github.com/HackerBar-Sec/HackerBar): None
+- [Segaro_Dream](https://github.com/GFW-knocker/Segaro_Dream): internet for every one or no one
+- [ThemePark](https://github.com/MatthewBJane/ThemePark): Fun ggplot themes for popular culture 
+- [PlaticaBot](https://github.com/migueldeicaza/PlaticaBot): MacOS, iOS and watchOS ChatGPT client using your own OpenAI key
+- [Cheatsheets](https://github.com/poonam-adlakha/Cheatsheets): None
+- [nonebot-plugin-bing-chat](https://github.com/Harry-Jing/nonebot-plugin-bing-chat): 一个可以使用新版Bing进行聊天的NoneBot插件
+- [ruby-glossary](https://github.com/tenderlove/ruby-glossary): Just a glossary of terms I've found in Ruby source code
+- [ChatGIF](https://github.com/hellovigoss/ChatGIF): search GIFs with AI
+- [harmony-react-native-boilerplate](https://github.com/harmony-framework/harmony-react-native-boilerplate): React Native Boilerplate
+- [reflective_ui_flutter](https://github.com/sbis04/reflective_ui_flutter): Reflective UI implementation using Flutter
+- [OpenCV](https://github.com/sksalahuddin2828/OpenCV): Easy face detection using openCV
+- [Auto-GPT-sandbox-wizard](https://github.com/rgalloni/Auto-GPT-sandbox-wizard): AutoGPT-easy-install is a bash/powershell script designed for non-experts to easily install and run the AutoGPT application in a Docker container. The script checks if Docker is installed and installs it if necessary. It prompts the user for API keys, workspace folder path, and whether to run AutoGPT in continuous mode
+- [jolt](https://github.com/Dan6erbond/jolt): The social hub for your media server. Rate, review and recommend movies and shows, as well as manage your watchlist, follow friends and more.
+- [locust-grasshopper](https://github.com/alteryx/locust-grasshopper): a load testing tool extended from locust
+- [next-13-layout-transitions](https://github.com/lmatteis/next-13-layout-transitions): None
+- [rtz](https://github.com/twitchax/rtz): A tool to easily work with timezone lookups via a binary, a library, or a server.
