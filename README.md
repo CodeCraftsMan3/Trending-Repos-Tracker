@@ -1,32 +1,32 @@
 # Trending Repositories
 
+- [template](https://github.com/retrohacker/template): A simple framework for webapps
+- [hack-together-teams](https://github.com/microsoft/hack-together-teams): HackTogether: The Microsoft Teams Global Hack | Register, Hack, Win 👇
+- [NimExec](https://github.com/frkngksl/NimExec): Fileless Command Execution for Lateral Movement in Nim
+- [MaskFreeVIS](https://github.com/SysCV/MaskFreeVIS): Mask-Free Video Instance Segmentation [CVPR 2023]
+- [SallyBot](https://github.com/DeSinc/SallyBot): AI Chatbot coded in Discord.net C#
+- [yeni-yazilimcilar-icin](https://github.com/alicangunduz/yeni-yazilimcilar-icin): 👋🏻  Merhabalar bu kaynak yazılıma yeni başlamış geliştiriciler için tamamen ücretsiz türkçe kaynaklardan oluşturulmuştur. Kaynağı daha rahat bulmak için sağ üstte yer alan ⭐ butonunu kullanabilirsiniz. 
+- [p4vfs](https://github.com/microsoft/p4vfs): Microsoft Virtual File System for Perforce
 - [spider](https://github.com/Yac87300/spider): 自动化运维/数据采集/Api转发/活接口调用
+- [sybil-detection](https://github.com/ArbitrumFoundation/sybil-detection): None
+- [chatgpt-code-plugin](https://github.com/kesor/chatgpt-code-plugin): Code ChatGPT Plugin is a TypeScript Code Analyzer that enables ChatGPT to "talk" with YOUR code
+- [PayCheck3](https://github.com/SlejmUr/PayCheck3): PayDay 3 Server Emulator Attempt
+- [ChatGPT](https://github.com/EthanForAi/ChatGPT): ChatGPT
+- [git-backdate](https://github.com/rixx/git-backdate): Backdate a commit or range of commit to a date or range of dates.
+- [selectedColumn](https://github.com/OpenGithubs/selectedColumn): Github开源项目精选栏目,不定期更新
+- [UTC_LiquidShader](https://github.com/UniversalToolCompiler/UTC_LiquidShader): Dynamic liquid shader for UE5 using Substrate material.
+- [CBook-150K](https://github.com/FudanNLPLAB/CBook-150K): 中文图书语料MD5链接
+- [Document_QA](https://github.com/fierceX/Document_QA): 类似于chatpdf的简化demo版
+- [PiWrite](https://github.com/rberenguel/PiWrite): Use your Kindle Paperwhite as a writing device
 - [app-space-android](https://github.com/appspa/app-space-android): 应用内网发布分发测试部署管理平台版本管理类似蒲公英蒲公英 类似fir.im fir App publish IOS超级签名免签 开源| https://app-space.up.railway.app |APP增量热更新| 支持iOS、Android、flutter、 react-native更新摇一摇提Bug SDK 提供自动化部署jenkins fastlane 丰富组件库 安卓苹果发布发版publish 管理发发布适用于企业手机应用内测服务应用内测托管的平台开源
 - [HackerBar](https://github.com/HackerBar-Sec/HackerBar): None
+- [docc-gpt](https://github.com/gonzalonunez/docc-gpt): 🧹 Self-documenting Swift code with GPT and DocC
+- [manitas](https://github.com/nacmartin/manitas): Move your fingers in the air to interact with a computer ☝️☝️
 - [ruby-glossary](https://github.com/tenderlove/ruby-glossary): Just a glossary of terms I've found in Ruby source code
 - [ChatGIF](https://github.com/hellovigoss/ChatGIF): search GIFs with AI
+- [harmony-react-native-boilerplate](https://github.com/harmony-framework/harmony-react-native-boilerplate): React Native Boilerplate
+- [saf](https://github.com/dusanx/saf): Rsync-based time machine for Linux, written in Python, for local and remote backups.
+- [persian-twitch-client](https://github.com/alikhalilifar/persian-twitch-client): Watch your favorite persian streamer, without a hassle.
+- [MisConfig_HTTP_Proxy_Scanner](https://github.com/lijiejie/MisConfig_HTTP_Proxy_Scanner): The scanner helps to scan misconfigured reverse proxy servers and misconfigured forward proxy servers
 - [next-13-layout-transitions](https://github.com/lmatteis/next-13-layout-transitions): None
-- [multidiffusion-img-demo](https://github.com/pkuliyi2015/multidiffusion-img-demo): The img demo repo for multidiffusion, to avoid large images automatic downloading by webui
 - [ChatNote](https://github.com/OpenSourceDavy/ChatNote): AI powered tools playground
-- [fe-2022-in-china](https://github.com/i5ting/fe-2022-in-china): 2022大前端总结和2023就业分析
-- [CVE-2022-44666](https://github.com/j00sean/CVE-2022-44666): Write-up for another forgotten Windows vulnerability (0day): Microsoft Windows Contacts (VCF/Contact/LDAP) syslink control href attribute escape, which was not fully fixed as CVE-2022-44666 in the patches released on December, 2022.
-- [ESP32-COOP-DOC](https://github.com/ESP32-COOP/ESP32-COOP-DOC): Create an affordable and accessible automatic coop door using ESP32. DIY your chicken coop with customizable behavior based on time and light levels. Control it through a dedicated Bluetooth-enabled app. Find comprehensive build instructions, wiring diagrams.
-- [TinyTensor](https://github.com/haobosang/TinyTensor): TinyTensor is a tool for running already trained NN (Neural Network) models to be able to use them for inference of various tasks such as image classification, semantic segmentation, etc.
-- [ChatGPT-Web](https://github.com/SmileBuild/ChatGPT-Web): ChatGPT page with API instand of offical pages. You can modify params, save and download the result as txt with prompt.
-- [kitsec-core](https://github.com/kitsec-labs/kitsec-core): Ethical hacking, made easy.
-- [Tour-de-Go](https://github.com/FuenRob/Tour-de-Go): Guía para aprender Go desde lo más básico hasta lo más complejo
-- [primestack](https://github.com/ThePrimeagen/primestack): None
-- [UserRegEnum_0x727](https://github.com/0x727/UserRegEnum_0x727): 域内普通域用户权限查找域内所有计算机上登录的用户
-- [alpaca-glassoff](https://github.com/WuJunde/alpaca-glassoff): Image Acceptable Alpaca (Image-Text Chat AI). 
-- [Canopy](https://github.com/tact/Canopy): A library that helps you isolate CloudKit dependency and write testable code using CloudKit.
-- [css-tricks](https://github.com/muhammedanaskhan/css-tricks): None
-- [IS-KnowledgeBase](https://github.com/RobertWeijie/IS-KnowledgeBase): 来华留学生共享库 Foreign Students in China
-- [datetime233](https://github.com/SolarisNeko/datetime233): DateTime233 is a zero-designed DateTime API. 从零开始设计的整个 DateTime. 
-- [128iid](https://github.com/aleshevdenis/128iid): Intuitive Initialized Development (IID) Chatbot Assistant for Your GitHub Repositories
-- [LIPs](https://github.com/lens-protocol/LIPs): This is the repo which defines the open standards for Lens Protocol
-- [lolbin-poc](https://github.com/mrexodia/lolbin-poc): Small PoC of using a Microsoft signed executable as a lolbin.
-- [dockbar](https://github.com/CatsJuice/dockbar): A macOS-like dock component made with WebComponents
-- [KD](https://github.com/HiangX/KD): None
-- [neverflow](https://github.com/skullchap/neverflow): Set of macros that guard against buffer overflows. Based on C99 VLA feature.
-- [core](https://github.com/react-hook-form/core): Framework agnostic hook form core lib
-- [demo](https://github.com/wasimmahamod/demo): None
