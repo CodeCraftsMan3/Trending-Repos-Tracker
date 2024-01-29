@@ -1,32 +1,32 @@
 # Trending Repositories
 
-- [node](https://github.com/base-org/node): Everything required to run your own Base node
-- [gpt4all](https://github.com/nomic-ai/gpt4all): gpt4all: open-source LLM chatbots that you can run anywhere
-- [gpt4free](https://github.com/xtekky/gpt4free): The official gpt4free repository | various collection of powerful language models
-- [privateGPT](https://github.com/imartinez/privateGPT): Interact with your documents using the power of GPT, 100% privately, no data leaks
-- [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B): ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型
-- [JARVIS](https://github.com/microsoft/JARVIS): JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf
-- [gpt-pilot](https://github.com/Pythagora-io/gpt-pilot): Dev tool that writes scalable apps from scratch while the developer oversees the implementation
-- [Flowise](https://github.com/FlowiseAI/Flowise): Drag & drop UI to build your customized LLM flow
-- [cursor](https://github.com/getcursor/cursor): An AI-powered code editor based on VSCode 🤖
-- [babyagi](https://github.com/yoheinakajima/babyagi): None
-- [ChatPaper](https://github.com/kaixindelele/ChatPaper): Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文全文总结+专业翻译+润色+审稿+审稿回复
-- [mojo](https://github.com/modularml/mojo): The Mojo Programming Language
-- [Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca): 中文LLaMA&Alpaca大语言模型+本地CPU/GPU训练部署 (Chinese LLaMA & Alpaca LLMs)
-- [langflow](https://github.com/logspace-ai/langflow): ⛓️ Langflow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.
-- [AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone): Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation
-- [LLaVA](https://github.com/haotian-liu/LLaVA): [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
-- [mlx](https://github.com/ml-explore/mlx): MLX: An array framework for Apple silicon
-- [GPT_API_free](https://github.com/chatanywhere/GPT_API_free): Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（免费），ChatGPT国内可用免费转发API，直连无需代理。可以搭配ChatBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。
-- [MOSS](https://github.com/OpenLMLab/MOSS): An open-source tool-augmented conversational language model from Fudan University
-- [Chat2DB](https://github.com/chat2db/Chat2DB): 🔥 🔥 🔥 An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.
-- [deploy](https://github.com/pandora-next/deploy): Pandora Cloud + Pandora Server + Shared Chat + BackendAPI Proxy + Chat2API + Signup Free = PandoraNext. New GPTs(Gizmo) UI, All in one!
-- [facefusion](https://github.com/facefusion/facefusion): Next generation face swapper and enhancer
-- [chatGPTBox](https://github.com/josStorer/chatGPTBox): Integrating ChatGPT into your browser deeply, everything you need is here
-- [magic-animate](https://github.com/magic-research/magic-animate): MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model
-- [pygwalker](https://github.com/Kanaries/pygwalker): PyGWalker: Turn your pandas dataframe into an interactive UI for visual analysis
-- [Qwen](https://github.com/QwenLM/Qwen): The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud.
-- [jan](https://github.com/janhq/jan): Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
-- [dm-ticket](https://github.com/ClassmateLin/dm-ticket): 大麦网自动购票, 支持docker一键部署。Damai automatically purchases tickets, running in docker container.
-- [LMFlow](https://github.com/OptimalScale/LMFlow): An Extensible Toolkit for Finetuning and Inference of Large Foundation Models. Large Models for All.
-- [prompt-engineering](https://github.com/brexhq/prompt-engineering): Tips and tricks for working with Large Language Models like OpenAI's GPT-4.
+- [the-algorithm](https://github.com/twitter/the-algorithm): Source code for Twitter's Recommendation Algorithm
+- [gpt_academic](https://github.com/binary-husky/gpt_academic): 为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss等。
+- [llama.cpp](https://github.com/ggerganov/llama.cpp): Port of Facebook's LLaMA model in C/C++
+- [ui](https://github.com/shadcn-ui/ui): Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
+- [segment-anything](https://github.com/facebookresearch/segment-anything): The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
+- [screenshot-to-code](https://github.com/abi/screenshot-to-code): Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
+- [TaskMatrix](https://github.com/moymix/TaskMatrix): None
+- [MetaGPT](https://github.com/geekan/MetaGPT): 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
+- [Fooocus](https://github.com/lllyasviel/Fooocus): Focus on prompting and generating
+- [chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web): 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
+- [AgentGPT](https://github.com/reworkd/AgentGPT): 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
+- [stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca): Code and documentation to train Stanford's Alpaca models, and generate the data.
+- [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui): The open-source AI chat app for everyone.
+- [so-vits-svc](https://github.com/svc-develop-team/so-vits-svc): SoftVC VITS Singing Voice Conversion
+- [llm-course](https://github.com/mlabonne/llm-course): Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
+- [WeChatMsg](https://github.com/LC044/WeChatMsg): 提取微信聊天记录，将其导出成HTML、Word、CSV文档永久保存，对聊天记录进行分析生成年度聊天报告
+- [openai-translator](https://github.com/openai-translator/openai-translator): 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
+- [generative-models](https://github.com/Stability-AI/generative-models): Generative Models by Stability AI
+- [audiocraft](https://github.com/facebookresearch/audiocraft): Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning.
+- [localGPT](https://github.com/PromtEngineer/localGPT): Chat with your documents on your local device using GPT models. No data leaves your device and 100% private. 
+- [alpaca-lora](https://github.com/tloen/alpaca-lora): Instruct-tune LLaMA on consumer hardware
+- [gpt-crawler](https://github.com/BuilderIO/gpt-crawler): Crawl a site to generate knowledge files to create your own custom GPT from a URL
+- [LocalAI](https://github.com/mudler/LocalAI): :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GPTQ, onnx, TF compatible models: llama, llama2, rwkv, whisper, vicuna, koala, cerebras, falcon, dolly, starcoder, and many others
+- [Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI): Voice data <= 10 mins can also be used to train a good VC model!
+- [carrot](https://github.com/xx025/carrot): Free ChatGPT Site List 这儿为你准备了众多免费好用的ChatGPT镜像站点
+- [tabby](https://github.com/TabbyML/tabby): Self-hosted AI coding assistant
+- [ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B): ChatGLM2-6B: An Open Bilingual Chat LLM | 开源双语对话语言模型
+- [awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt): 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated. 
+- [dify](https://github.com/langgenius/dify): An Open-Source Assistants API and GPTs alternative. Dify.AI is an LLM application development platform. It integrates the concepts of Backend as a Service and LLMOps, covering the core tech stack required for building generative AI-native applications, including a built-in RAG engine.
+- [gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain): GPT4 & LangChain Chatbot for large PDF docs
