@@ -1,32 +1,32 @@
 # Trending Repositories
 
-- [gpt4all](https://github.com/nomic-ai/gpt4all): gpt4all: open-source LLM chatbots that you can run anywhere
-- [gpt4free](https://github.com/xtekky/gpt4free): The official gpt4free repository | various collection of powerful language models
-- [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B): ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型
-- [gpt-pilot](https://github.com/Pythagora-io/gpt-pilot): Dev tool that writes scalable apps from scratch while the developer oversees the implementation
-- [Flowise](https://github.com/FlowiseAI/Flowise): Drag & drop UI to build your customized LLM flow
-- [babyagi](https://github.com/yoheinakajima/babyagi): None
-- [ChatPaper](https://github.com/kaixindelele/ChatPaper): Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文全文总结+专业翻译+润色+审稿+审稿回复
-- [mojo](https://github.com/modularml/mojo): The Mojo Programming Language
-- [langflow](https://github.com/logspace-ai/langflow): ⛓️ Langflow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.
-- [LLaVA](https://github.com/haotian-liu/LLaVA): [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
-- [mlx](https://github.com/ml-explore/mlx): MLX: An array framework for Apple silicon
-- [facefusion](https://github.com/facefusion/facefusion): Next generation face swapper and enhancer
-- [chatGPTBox](https://github.com/josStorer/chatGPTBox): Integrating ChatGPT into your browser deeply, everything you need is here
-- [magic-animate](https://github.com/magic-research/magic-animate): MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model
-- [pygwalker](https://github.com/Kanaries/pygwalker): PyGWalker: Turn your pandas dataframe into an interactive UI for visual analysis
-- [jan](https://github.com/janhq/jan): Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
-- [prompt-engineering](https://github.com/brexhq/prompt-engineering): Tips and tricks for working with Large Language Models like OpenAI's GPT-4.
-- [promptflow](https://github.com/microsoft/promptflow): Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.
-- [PowerInfer](https://github.com/SJTU-IPADS/PowerInfer): High-speed Large Language Model Serving on PCs with Consumer-grade GPUs
-- [openplayground](https://github.com/nat/openplayground): An LLM playground you can run on your laptop
-- [TinyLlama](https://github.com/jzhang38/TinyLlama): The TinyLlama project is an open endeavor to pretrain a 1.1B Llama model on 3 trillion tokens.
-- [aidea](https://github.com/mylxsw/aidea): AIdea 是一款支持 GPT  以及国产大语言模型通义千问、文心一言等，支持 Stable Diffusion 文生图、图生图、 SDXL1.0、超分辨率、图片上色的全能型 APP。
-- [freegpt-webui](https://github.com/ramonvc/freegpt-webui): GPT 3.5/4 with a Chat Web UI. No API key required.
-- [RealChar](https://github.com/Shaunwei/RealChar): 🎙️🤖Create, Customize and Talk to your AI Character/Companion in Realtime (All in One Codebase!). Have a natural seamless conversation with AI everywhere (mobile, web and terminal) using LLM OpenAI GPT3.5/4, Anthropic Claude2, Chroma Vector DB, Whisper Speech2Text, ElevenLabs Text2Speech🎙️🤖
-- [Bert-VITS2](https://github.com/fishaudio/Bert-VITS2): vits2 backbone with multilingual-bert
-- [awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api): Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota.
-- [Mindmap](https://github.com/Ignitetechnologies/Mindmap): This repository will contain many mindmaps for cyber security technologies, methodologies, courses, and certifications in a tree structure to give brief details about them
-- [serge](https://github.com/serge-chat/serge): A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
-- [try](https://github.com/binpash/try): Inspect a command's effects before modifying your live system
-- [background-removal-js](https://github.com/imgly/background-removal-js): Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns. Explore an interactive demo.
+- [node](https://github.com/base-org/node): Everything required to run your own Base node
+- [llama.cpp](https://github.com/ggerganov/llama.cpp): Port of Facebook's LLaMA model in C/C++
+- [privateGPT](https://github.com/imartinez/privateGPT): Interact with your documents using the power of GPT, 100% privately, no data leaks
+- [chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web): 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
+- [JARVIS](https://github.com/microsoft/JARVIS): JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf
+- [so-vits-svc](https://github.com/svc-develop-team/so-vits-svc): SoftVC VITS Singing Voice Conversion
+- [cursor](https://github.com/getcursor/cursor): An AI-powered code editor based on VSCode 🤖
+- [Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca): 中文LLaMA&Alpaca大语言模型+本地CPU/GPU训练部署 (Chinese LLaMA & Alpaca LLMs)
+- [AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone): Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation
+- [GPT_API_free](https://github.com/chatanywhere/GPT_API_free): Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（免费），ChatGPT国内可用免费转发API，直连无需代理。可以搭配ChatBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。
+- [MOSS](https://github.com/OpenLMLab/MOSS): An open-source tool-augmented conversational language model from Fudan University
+- [Chat2DB](https://github.com/chat2db/Chat2DB): 🔥 🔥 🔥 An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.
+- [Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch): ISG lets you use YouTube as cloud storage for ANY files, not just video
+- [deploy](https://github.com/pandora-next/deploy): Pandora Cloud + Pandora Server + Shared Chat + BackendAPI Proxy + Chat2API + Signup Free = PandoraNext. New GPTs(Gizmo) UI, All in one!
+- [python-mastery](https://github.com/dabeaz-course/python-mastery): Advanced Python Mastery (course by @dabeaz)
+- [FastGPT](https://github.com/labring/FastGPT): FastGPT is a knowledge-based platform built on the LLM, offers out-of-the-box data processing and model invocation capabilities, allows for workflow orchestration through Flow visualization!
+- [chathub](https://github.com/chathub-dev/chathub): All-in-one chatbot client
+- [Qwen](https://github.com/QwenLM/Qwen): The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud.
+- [Llama2-Chinese](https://github.com/LlamaFamily/Llama2-Chinese): Llama中文社区，最好的中文Llama大模型，完全开源可商用
+- [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS): 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
+- [so-vits-svc-fork](https://github.com/voicepaw/so-vits-svc-fork): so-vits-svc fork with realtime support, improved interface and more features.
+- [dm-ticket](https://github.com/ClassmateLin/dm-ticket): 大麦网自动购票, 支持docker一键部署。Damai automatically purchases tickets, running in docker container.
+- [LMFlow](https://github.com/OptimalScale/LMFlow): An Extensible Toolkit for Finetuning and Inference of Large Foundation Models. Large Models for All.
+- [pot-desktop](https://github.com/pot-app/pot-desktop): 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition.
+- [AnimateDiff](https://github.com/guoyww/AnimateDiff): Official implementation of AnimateDiff.
+- [DARC](https://github.com/Project-DARC/DARC): Decentralized Autonomous Regulated Company (DARC), a company virtual machine that runs on any EVM-compatible blockchain, with on-chain law system, multi-level tokens and dividends mechanism.
+- [gpt4free-ts](https://github.com/xiangsx/gpt4free-ts): Providing a free OpenAI GPT-4 API !   This is a replication project for the typescript version of xtekky/gpt4free
+- [faster-whisper](https://github.com/SYSTRAN/faster-whisper): Faster Whisper transcription with CTranslate2
+- [BetterChatGPT](https://github.com/ztjhz/BetterChatGPT): An amazing UI for OpenAI's ChatGPT (Website + Windows + MacOS + Linux)
+- [gpt-migrate](https://github.com/joshpxyne/gpt-migrate): Easily migrate your codebase from one framework or language to another.
