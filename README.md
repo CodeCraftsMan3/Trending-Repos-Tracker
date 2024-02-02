@@ -1,32 +1,32 @@
 # Trending Repositories
 
-- [node](https://github.com/base-org/node): Everything required to run your own Base node
+- [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT): AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
+- [gpt4all](https://github.com/nomic-ai/gpt4all): gpt4all: open-source LLM chatbots that you can run anywhere
+- [gpt4free](https://github.com/xtekky/gpt4free): The official gpt4free repository | various collection of powerful language models
+- [gpt_academic](https://github.com/binary-husky/gpt_academic): 为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss等。
 - [llama.cpp](https://github.com/ggerganov/llama.cpp): Port of Facebook's LLaMA model in C/C++
-- [privateGPT](https://github.com/imartinez/privateGPT): Interact with your documents using the power of GPT, 100% privately, no data leaks
+- [gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer): Specify what you want it to build, the AI asks for clarification, and then builds it.
+- [ui](https://github.com/shadcn-ui/ui): Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
+- [open-interpreter](https://github.com/KillianLucas/open-interpreter): A natural language interface for computers.
+- [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B): ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型
+- [manifesto](https://github.com/opentofu/manifesto): The OpenTF Manifesto expresses concern over HashiCorp's switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool's return to a truly open-source license.
+- [ollama](https://github.com/ollama/ollama): Get up and running with Llama 2, Mistral, and other large language models locally.
+- [TaskMatrix](https://github.com/moymix/TaskMatrix): None
+- [DragGAN](https://github.com/XingangPan/DragGAN): Official Code for DragGAN (SIGGRAPH 2023)
+- [MetaGPT](https://github.com/geekan/MetaGPT): 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
 - [chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web): 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
-- [JARVIS](https://github.com/microsoft/JARVIS): JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf
+- [stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca): Code and documentation to train Stanford's Alpaca models, and generate the data.
+- [GPTs](https://github.com/linexjlin/GPTs): leaked prompts of GPTs
+- [Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor): A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.
 - [so-vits-svc](https://github.com/svc-develop-team/so-vits-svc): SoftVC VITS Singing Voice Conversion
-- [cursor](https://github.com/getcursor/cursor): An AI-powered code editor based on VSCode 🤖
-- [Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca): 中文LLaMA&Alpaca大语言模型+本地CPU/GPU训练部署 (Chinese LLaMA & Alpaca LLMs)
-- [AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone): Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation
-- [GPT_API_free](https://github.com/chatanywhere/GPT_API_free): Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（免费），ChatGPT国内可用免费转发API，直连无需代理。可以搭配ChatBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。
-- [MOSS](https://github.com/OpenLMLab/MOSS): An open-source tool-augmented conversational language model from Fudan University
-- [Chat2DB](https://github.com/chat2db/Chat2DB): 🔥 🔥 🔥 An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.
-- [Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch): ISG lets you use YouTube as cloud storage for ANY files, not just video
-- [deploy](https://github.com/pandora-next/deploy): Pandora Cloud + Pandora Server + Shared Chat + BackendAPI Proxy + Chat2API + Signup Free = PandoraNext. New GPTs(Gizmo) UI, All in one!
-- [python-mastery](https://github.com/dabeaz-course/python-mastery): Advanced Python Mastery (course by @dabeaz)
-- [FastGPT](https://github.com/labring/FastGPT): FastGPT is a knowledge-based platform built on the LLM, offers out-of-the-box data processing and model invocation capabilities, allows for workflow orchestration through Flow visualization!
-- [chathub](https://github.com/chathub-dev/chathub): All-in-one chatbot client
-- [Qwen](https://github.com/QwenLM/Qwen): The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud.
-- [Llama2-Chinese](https://github.com/LlamaFamily/Llama2-Chinese): Llama中文社区，最好的中文Llama大模型，完全开源可商用
-- [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS): 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
-- [so-vits-svc-fork](https://github.com/voicepaw/so-vits-svc-fork): so-vits-svc fork with realtime support, improved interface and more features.
-- [dm-ticket](https://github.com/ClassmateLin/dm-ticket): 大麦网自动购票, 支持docker一键部署。Damai automatically purchases tickets, running in docker container.
-- [LMFlow](https://github.com/OptimalScale/LMFlow): An Extensible Toolkit for Finetuning and Inference of Large Foundation Models. Large Models for All.
-- [pot-desktop](https://github.com/pot-app/pot-desktop): 🌈一个跨平台的划词翻译和OCR软件 | A cross-platform software for text translation and recognition.
-- [AnimateDiff](https://github.com/guoyww/AnimateDiff): Official implementation of AnimateDiff.
-- [DARC](https://github.com/Project-DARC/DARC): Decentralized Autonomous Regulated Company (DARC), a company virtual machine that runs on any EVM-compatible blockchain, with on-chain law system, multi-level tokens and dividends mechanism.
-- [gpt4free-ts](https://github.com/xiangsx/gpt4free-ts): Providing a free OpenAI GPT-4 API !   This is a replication project for the typescript version of xtekky/gpt4free
-- [faster-whisper](https://github.com/SYSTRAN/faster-whisper): Faster Whisper transcription with CTranslate2
-- [BetterChatGPT](https://github.com/ztjhz/BetterChatGPT): An amazing UI for OpenAI's ChatGPT (Website + Windows + MacOS + Linux)
-- [gpt-migrate](https://github.com/joshpxyne/gpt-migrate): Easily migrate your codebase from one framework or language to another.
+- [autogen](https://github.com/microsoft/autogen): Enable Next-Gen Large Language Model Applications. Join our Discord: https://discord.gg/pAbnFJrkgZ
+- [gpt-pilot](https://github.com/Pythagora-io/gpt-pilot): Dev tool that writes scalable apps from scratch while the developer oversees the implementation
+- [Flowise](https://github.com/FlowiseAI/Flowise): Drag & drop UI to build your customized LLM flow
+- [openai-translator](https://github.com/openai-translator/openai-translator): 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
+- [audiocraft](https://github.com/facebookresearch/audiocraft): Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning.
+- [babyagi](https://github.com/yoheinakajima/babyagi): None
+- [opentofu](https://github.com/opentofu/opentofu): OpenTofu lets you declaratively manage your cloud infrastructure.
+- [alpaca-lora](https://github.com/tloen/alpaca-lora): Instruct-tune LLaMA on consumer hardware
+- [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF): locally hosted web application that allows you to perform various operations on PDF files
+- [ChatPaper](https://github.com/kaixindelele/ChatPaper): Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文全文总结+专业翻译+润色+审稿+审稿回复
+- [chatbox](https://github.com/Bin-Huang/chatbox): Chatbox is a desktop client for ChatGPT, Claude and other LLMs, available on Windows, Mac, Linux
