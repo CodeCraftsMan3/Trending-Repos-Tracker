@@ -1,32 +1,32 @@
 # Trending Repositories
 
-- [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT): AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
-- [gpt4all](https://github.com/nomic-ai/gpt4all): gpt4all: open-source LLM chatbots that you can run anywhere
-- [gpt4free](https://github.com/xtekky/gpt4free): The official gpt4free repository | various collection of powerful language models
-- [gpt_academic](https://github.com/binary-husky/gpt_academic): 为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss等。
-- [llama.cpp](https://github.com/ggerganov/llama.cpp): Port of Facebook's LLaMA model in C/C++
-- [gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer): Specify what you want it to build, the AI asks for clarification, and then builds it.
-- [ui](https://github.com/shadcn-ui/ui): Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
-- [open-interpreter](https://github.com/KillianLucas/open-interpreter): A natural language interface for computers.
-- [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B): ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型
-- [manifesto](https://github.com/opentofu/manifesto): The OpenTF Manifesto expresses concern over HashiCorp's switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool's return to a truly open-source license.
-- [ollama](https://github.com/ollama/ollama): Get up and running with Llama 2, Mistral, and other large language models locally.
-- [TaskMatrix](https://github.com/moymix/TaskMatrix): None
-- [DragGAN](https://github.com/XingangPan/DragGAN): Official Code for DragGAN (SIGGRAPH 2023)
-- [MetaGPT](https://github.com/geekan/MetaGPT): 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
-- [chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web): 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
-- [stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca): Code and documentation to train Stanford's Alpaca models, and generate the data.
-- [GPTs](https://github.com/linexjlin/GPTs): leaked prompts of GPTs
-- [Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor): A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.
-- [so-vits-svc](https://github.com/svc-develop-team/so-vits-svc): SoftVC VITS Singing Voice Conversion
-- [autogen](https://github.com/microsoft/autogen): Enable Next-Gen Large Language Model Applications. Join our Discord: https://discord.gg/pAbnFJrkgZ
-- [gpt-pilot](https://github.com/Pythagora-io/gpt-pilot): Dev tool that writes scalable apps from scratch while the developer oversees the implementation
-- [Flowise](https://github.com/FlowiseAI/Flowise): Drag & drop UI to build your customized LLM flow
-- [openai-translator](https://github.com/openai-translator/openai-translator): 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
-- [audiocraft](https://github.com/facebookresearch/audiocraft): Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning.
-- [babyagi](https://github.com/yoheinakajima/babyagi): None
-- [opentofu](https://github.com/opentofu/opentofu): OpenTofu lets you declaratively manage your cloud infrastructure.
-- [alpaca-lora](https://github.com/tloen/alpaca-lora): Instruct-tune LLaMA on consumer hardware
-- [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF): locally hosted web application that allows you to perform various operations on PDF files
-- [ChatPaper](https://github.com/kaixindelele/ChatPaper): Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文全文总结+专业翻译+润色+审稿+审稿回复
-- [chatbox](https://github.com/Bin-Huang/chatbox): Chatbox is a desktop client for ChatGPT, Claude and other LLMs, available on Windows, Mac, Linux
+- [babyagi-ui](https://github.com/miurla/babyagi-ui): BabyAGI UI is designed to make it easier to run and develop with babyagi in a web app, like a ChatGPT.
+- [Fomos](https://github.com/Ruddle/Fomos): Experimental OS, built with rust
+- [BugChecker](https://github.com/vitoplantamura/BugChecker): SoftICE-like kernel debugger for Windows 11
+- [idify](https://github.com/zhbhun/idify): Make ID photo right in the browser.
+- [CVE-2023-38831-winrar-exploit](https://github.com/b1tg/CVE-2023-38831-winrar-exploit): CVE-2023-38831 winrar exploit generator
+- [ChatGPT-Plugins-Collection](https://github.com/logankilpatrick/ChatGPT-Plugins-Collection): An unofficial collection of Plugins for ChatGPT, in any programming language!
+- [learn-rust-101](https://github.com/plabayo/learn-rust-101): A guide to aid you in your journey of becoming a Rustacean (Rust developer). 
+- [lawyer-llama](https://github.com/AndrewZhe/lawyer-llama): 中文法律LLaMA (LLaMA for Chinese legel domain)
+- [nodebox-runtime](https://github.com/Sandpack/nodebox-runtime): Nodebox is a runtime for executing Node.js modules in the browser.
+- [chat-flow](https://github.com/prompt-engineering/chat-flow):  ChatFlow  - AI-based chat flow framework, personalize your ChatGPT workflows and build the road to automation。ChatFlow —— 打造个性化 ChatGPT 流程，构建自动化之路 
+- [Squirrel](https://github.com/aheze/Squirrel): Enable scrolling in the Xcode Simulator!
+- [MCC](https://github.com/facebookresearch/MCC): Multiview Compressive Coding for 3D Reconstruction
+- [bark-voice-cloning-HuBERT-quantizer](https://github.com/gitmylo/bark-voice-cloning-HuBERT-quantizer): The code for the bark-voicecloning model. Training and inference.
+- [sd-webui-deoldify](https://github.com/SpenserCai/sd-webui-deoldify): DeOldify for Stable Diffusion WebUI：This is an extension for StableDiffusion's AUTOMATIC1111 web-ui that allows colorize of old photos and old video. It is based on deoldify.
+- [cicada](https://github.com/Cicada-Software/cicada): A FOSS, cross-platform version of GitHub Actions and Gitlab CI
+- [autopilot](https://github.com/fjrdomingues/autopilot): Code Autopilot, a tool that uses GPT to read a codebase, create context and solve tasks.
+- [StellarSolver](https://github.com/pentilm/StellarSolver): 🌌 High-Performance N-Body Simulation with CUDA and Barnes-Hut Algorithm. 一个努力的，一个延续了近二百个文明的努力，为解决三体问题的努力，寻找太阳运行规律的努力。
+- [gpt-macro](https://github.com/retrage/gpt-macro): ChatGPT powered Rust proc macro that generates code at compile-time.
+- [WavJourney](https://github.com/Audio-AGI/WavJourney): WavJourney: Compositional Audio Creation with LLMs
+- [OffensiveCpp](https://github.com/lsecqt/OffensiveCpp): This repo contains C/C++ snippets that can be handy in specific offensive scenarios.
+- [PatrikZeros-ChatGPT-API-UI](https://github.com/patrikzudel/PatrikZeros-ChatGPT-API-UI): Static webpage that allows you to use your OpenAI API key for the same experience as you get with ChatGPT!
+- [poastal](https://github.com/jakecreps/poastal): Poastal - the Email OSINT tool
+- [stable-diffusion-webui-model-toolkit](https://github.com/arenasys/stable-diffusion-webui-model-toolkit): A Multipurpose toolkit for managing, editing and creating models.
+- [minimal-llama](https://github.com/zphang/minimal-llama): None
+- [evaporate](https://github.com/HazyResearch/evaporate): This repo contains data and code for the paper "Language Models Enable Simple Systems for Generating Structured Views of Heterogeneous Data Lakes"
+- [openai-go](https://github.com/rakyll/openai-go): Go client libraries for OpenAI
+- [REMO_Framework](https://github.com/daveshap/REMO_Framework): Rolling Episodic Memory Organizer (REMO) for autonomous AI systems
+- [Bot-Generator-Bot](https://github.com/ruvnet/Bot-Generator-Bot): The ultimate bot generator bot prompt. Use this prompt to create powerful ChatGPT bots for anything you can imagine.
+- [wingmanAI](https://github.com/e-johnstonn/wingmanAI): Real-time transcription of audio, integrated with ChatGPT for interactive use. Save, load, and append transcripts for effective context management in conversations.
+- [fastLLaMa](https://github.com/PotatoSpudowski/fastLLaMa): fastLLaMa: An experimental high-performance framework for running Decoder-only LLMs with 4-bit quantization in Python using a C/C++ backend.
