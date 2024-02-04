@@ -1,32 +1,32 @@
 # Trending Repositories
 
-- [babyagi-ui](https://github.com/miurla/babyagi-ui): BabyAGI UI is designed to make it easier to run and develop with babyagi in a web app, like a ChatGPT.
-- [Fomos](https://github.com/Ruddle/Fomos): Experimental OS, built with rust
-- [BugChecker](https://github.com/vitoplantamura/BugChecker): SoftICE-like kernel debugger for Windows 11
-- [idify](https://github.com/zhbhun/idify): Make ID photo right in the browser.
-- [CVE-2023-38831-winrar-exploit](https://github.com/b1tg/CVE-2023-38831-winrar-exploit): CVE-2023-38831 winrar exploit generator
-- [ChatGPT-Plugins-Collection](https://github.com/logankilpatrick/ChatGPT-Plugins-Collection): An unofficial collection of Plugins for ChatGPT, in any programming language!
-- [learn-rust-101](https://github.com/plabayo/learn-rust-101): A guide to aid you in your journey of becoming a Rustacean (Rust developer). 
-- [lawyer-llama](https://github.com/AndrewZhe/lawyer-llama): 中文法律LLaMA (LLaMA for Chinese legel domain)
-- [nodebox-runtime](https://github.com/Sandpack/nodebox-runtime): Nodebox is a runtime for executing Node.js modules in the browser.
-- [chat-flow](https://github.com/prompt-engineering/chat-flow):  ChatFlow  - AI-based chat flow framework, personalize your ChatGPT workflows and build the road to automation。ChatFlow —— 打造个性化 ChatGPT 流程，构建自动化之路 
-- [Squirrel](https://github.com/aheze/Squirrel): Enable scrolling in the Xcode Simulator!
-- [MCC](https://github.com/facebookresearch/MCC): Multiview Compressive Coding for 3D Reconstruction
-- [bark-voice-cloning-HuBERT-quantizer](https://github.com/gitmylo/bark-voice-cloning-HuBERT-quantizer): The code for the bark-voicecloning model. Training and inference.
-- [sd-webui-deoldify](https://github.com/SpenserCai/sd-webui-deoldify): DeOldify for Stable Diffusion WebUI：This is an extension for StableDiffusion's AUTOMATIC1111 web-ui that allows colorize of old photos and old video. It is based on deoldify.
-- [cicada](https://github.com/Cicada-Software/cicada): A FOSS, cross-platform version of GitHub Actions and Gitlab CI
-- [autopilot](https://github.com/fjrdomingues/autopilot): Code Autopilot, a tool that uses GPT to read a codebase, create context and solve tasks.
-- [StellarSolver](https://github.com/pentilm/StellarSolver): 🌌 High-Performance N-Body Simulation with CUDA and Barnes-Hut Algorithm. 一个努力的，一个延续了近二百个文明的努力，为解决三体问题的努力，寻找太阳运行规律的努力。
-- [gpt-macro](https://github.com/retrage/gpt-macro): ChatGPT powered Rust proc macro that generates code at compile-time.
-- [WavJourney](https://github.com/Audio-AGI/WavJourney): WavJourney: Compositional Audio Creation with LLMs
-- [OffensiveCpp](https://github.com/lsecqt/OffensiveCpp): This repo contains C/C++ snippets that can be handy in specific offensive scenarios.
-- [PatrikZeros-ChatGPT-API-UI](https://github.com/patrikzudel/PatrikZeros-ChatGPT-API-UI): Static webpage that allows you to use your OpenAI API key for the same experience as you get with ChatGPT!
-- [poastal](https://github.com/jakecreps/poastal): Poastal - the Email OSINT tool
-- [stable-diffusion-webui-model-toolkit](https://github.com/arenasys/stable-diffusion-webui-model-toolkit): A Multipurpose toolkit for managing, editing and creating models.
-- [minimal-llama](https://github.com/zphang/minimal-llama): None
-- [evaporate](https://github.com/HazyResearch/evaporate): This repo contains data and code for the paper "Language Models Enable Simple Systems for Generating Structured Views of Heterogeneous Data Lakes"
-- [openai-go](https://github.com/rakyll/openai-go): Go client libraries for OpenAI
-- [REMO_Framework](https://github.com/daveshap/REMO_Framework): Rolling Episodic Memory Organizer (REMO) for autonomous AI systems
-- [Bot-Generator-Bot](https://github.com/ruvnet/Bot-Generator-Bot): The ultimate bot generator bot prompt. Use this prompt to create powerful ChatGPT bots for anything you can imagine.
-- [wingmanAI](https://github.com/e-johnstonn/wingmanAI): Real-time transcription of audio, integrated with ChatGPT for interactive use. Save, load, and append transcripts for effective context management in conversations.
-- [fastLLaMa](https://github.com/PotatoSpudowski/fastLLaMa): fastLLaMa: An experimental high-performance framework for running Decoder-only LLMs with 4-bit quantization in Python using a C/C++ backend.
+- [node](https://github.com/base-org/node): Everything required to run your own Base node
+- [gpt4all](https://github.com/nomic-ai/gpt4all): gpt4all: open-source LLM chatbots that you can run anywhere
+- [gpt4free](https://github.com/xtekky/gpt4free): The official gpt4free repository | various collection of powerful language models
+- [ui](https://github.com/shadcn-ui/ui): Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
+- [privateGPT](https://github.com/imartinez/privateGPT): Interact with your documents using the power of GPT, 100% privately, no data leaks
+- [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B): ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型
+- [TaskMatrix](https://github.com/moymix/TaskMatrix): None
+- [MetaGPT](https://github.com/geekan/MetaGPT): 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
+- [stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca): Code and documentation to train Stanford's Alpaca models, and generate the data.
+- [JARVIS](https://github.com/microsoft/JARVIS): JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf
+- [gpt-pilot](https://github.com/Pythagora-io/gpt-pilot): Dev tool that writes scalable apps from scratch while the developer oversees the implementation
+- [openai-translator](https://github.com/openai-translator/openai-translator): 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
+- [cursor](https://github.com/getcursor/cursor): An AI-powered code editor based on VSCode 🤖
+- [babyagi](https://github.com/yoheinakajima/babyagi): None
+- [alpaca-lora](https://github.com/tloen/alpaca-lora): Instruct-tune LLaMA on consumer hardware
+- [Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca): 中文LLaMA&Alpaca大语言模型+本地CPU/GPU训练部署 (Chinese LLaMA & Alpaca LLMs)
+- [ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B): ChatGLM2-6B: An Open Bilingual Chat LLM | 开源双语对话语言模型
+- [dify](https://github.com/langgenius/dify): An Open-Source Assistants API and GPTs alternative. Dify.AI is an LLM application development platform. It integrates the concepts of Backend as a Service and LLMOps, covering the core tech stack required for building generative AI-native applications, including a built-in RAG engine.
+- [gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain): GPT4 & LangChain Chatbot for large PDF docs
+- [AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone): Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation
+- [mlx](https://github.com/ml-explore/mlx): MLX: An array framework for Apple silicon
+- [GPT_API_free](https://github.com/chatanywhere/GPT_API_free): Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（免费），ChatGPT国内可用免费转发API，直连无需代理。可以搭配ChatBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。
+- [MOSS](https://github.com/OpenLMLab/MOSS): An open-source tool-augmented conversational language model from Fudan University
+- [Chat2DB](https://github.com/chat2db/Chat2DB): 🔥 🔥 🔥 An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.
+- [Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch): ISG lets you use YouTube as cloud storage for ANY files, not just video
+- [deploy](https://github.com/pandora-next/deploy): Pandora Cloud + Pandora Server + Shared Chat + BackendAPI Proxy + Chat2API + Signup Free = PandoraNext. New GPTs(Gizmo) UI, All in one!
+- [facefusion](https://github.com/facefusion/facefusion): Next generation face swapper and enhancer
+- [python-mastery](https://github.com/dabeaz-course/python-mastery): Advanced Python Mastery (course by @dabeaz)
+- [one-api](https://github.com/songquanpeng/one-api): OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2 & Gemini、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a single API for all LLMs, and features an English UI.
+- [chatGPTBox](https://github.com/josStorer/chatGPTBox): Integrating ChatGPT into your browser deeply, everything you need is here
