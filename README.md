@@ -1,32 +1,32 @@
 # Trending Repositories
 
-- [ui](https://github.com/shadcn-ui/ui): Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
-- [segment-anything](https://github.com/facebookresearch/segment-anything): The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
-- [TaskMatrix](https://github.com/moymix/TaskMatrix): None
-- [MetaGPT](https://github.com/geekan/MetaGPT): 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
-- [stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca): Code and documentation to train Stanford's Alpaca models, and generate the data.
-- [ComfyUI](https://github.com/comfyanonymous/ComfyUI): The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.
-- [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui): The open-source AI chat app for everyone.
-- [Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat): Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM 等语言模型的本地知识库问答 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM) QA app with langchain 
-- [openai-translator](https://github.com/openai-translator/openai-translator): 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
-- [localGPT](https://github.com/PromtEngineer/localGPT): Chat with your documents on your local device using GPT models. No data leaves your device and 100% private. 
-- [alpaca-lora](https://github.com/tloen/alpaca-lora): Instruct-tune LLaMA on consumer hardware
-- [lobe-chat](https://github.com/lobehub/lobe-chat): 🤖 Lobe Chat - an open-source, high-performance chatbot framework that supports speech synthesis, multimodal, and extensible Function Call plugin system. Supports one-click free deployment of your private ChatGPT/Gemini/LLM application.
-- [semantic-kernel](https://github.com/microsoft/semantic-kernel): Integrate cutting-edge LLM technology quickly and easily into your apps
-- [maybe](https://github.com/maybe-finance/maybe): The OS for your personal finances
-- [LocalAI](https://github.com/mudler/LocalAI): :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GPTQ, onnx, TF compatible models: llama, llama2, rwkv, whisper, vicuna, koala, cerebras, falcon, dolly, starcoder, and many others
-- [Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI): Voice data <= 10 mins can also be used to train a good VC model!
-- [carrot](https://github.com/xx025/carrot): Free ChatGPT Site List 这儿为你准备了众多免费好用的ChatGPT镜像站点
-- [dify](https://github.com/langgenius/dify): An Open-Source Assistants API and GPTs alternative. Dify.AI is an LLM application development platform. It integrates the concepts of Backend as a Service and LLMOps, covering the core tech stack required for building generative AI-native applications, including a built-in RAG engine.
-- [ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B): ChatGLM2-6B: An Open Bilingual Chat LLM | 开源双语对话语言模型
-- [awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt): 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated. 
-- [gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain): GPT4 & LangChain Chatbot for large PDF docs
-- [OpenVoice](https://github.com/myshell-ai/OpenVoice): Instant voice cloning by MyShell.
-- [draw-a-ui](https://github.com/SawyerHood/draw-a-ui): Draw a mockup and generate html for it
-- [developer](https://github.com/smol-ai/developer): the first library to let you embed a developer agent in your own app!
-- [monaspace](https://github.com/githubnext/monaspace): An innovative superfamily of fonts for code
-- [Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch): ISG lets you use YouTube as cloud storage for ANY files, not just video
-- [python-mastery](https://github.com/dabeaz-course/python-mastery): Advanced Python Mastery (course by @dabeaz)
-- [Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook): The Startup CTO's Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams
-- [pandas-ai](https://github.com/gventuri/pandas-ai): Chat with your data (SQL, CSV, pandas, polars, noSQL, etc). PandasAI makes data analysis conversational using LLMs (GPT 3.5 / 4, Anthropic, VertexAI) and RAG.
-- [one-api](https://github.com/songquanpeng/one-api): OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2 & Gemini、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a single API for all LLMs, and features an English UI.
+- [system-design-101](https://github.com/ByteByteGoHq/system-design-101): Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
+- [quivr](https://github.com/StanGirard/quivr): Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that you can share with users !  Local & Private alternative to OpenAI GPTs & ChatGPT powered by retrieval-augmented generation.
+- [tuning_playbook](https://github.com/google-research/tuning_playbook): A playbook for systematically maximizing the performance of deep learning models.
+- [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners): 12 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
+- [llm-course](https://github.com/mlabonne/llm-course): Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
+- [gpt-crawler](https://github.com/BuilderIO/gpt-crawler): Crawl a site to generate knowledge files to create your own custom GPT from a URL
+- [llama2.c](https://github.com/karpathy/llama2.c): Inference Llama 2 in one file of pure C
+- [carbonyl](https://github.com/fathyb/carbonyl): Chromium running inside your terminal
+- [DocsGPT](https://github.com/arc53/DocsGPT): GPT-powered chat for documentation, chat with your documents
+- [candle](https://github.com/huggingface/candle): Minimalist ML framework for Rust
+- [shap-e](https://github.com/openai/shap-e): Generate 3D objects conditioned on text or images
+- [novel](https://github.com/steven-tey/novel): Notion-style WYSIWYG editor with AI-powered autocompletion.
+- [gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting): Original reference implementation of "3D Gaussian Splatting for Real-Time Radiance Field Rendering"
+- [seamless_communication](https://github.com/facebookresearch/seamless_communication): Foundational Models for State-of-the-Art Speech and Text Translation
+- [roomGPT](https://github.com/Nutlope/roomGPT): Upload a photo of your room to generate your dream room with AI.
+- [magic-animate](https://github.com/magic-research/magic-animate): MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model
+- [ChatRWKV](https://github.com/BlinkDL/ChatRWKV): ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.
+- [qlora](https://github.com/artidoro/qlora): QLoRA: Efficient Finetuning of Quantized LLMs
+- [go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai): 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。
+- [openobserve](https://github.com/openobserve/openobserve): 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces, RUM, Error tracking, Session replay).
+- [tachyon](https://github.com/kroma-network/tachyon): Modular ZK(Zero Knowledge) backend accelerated by GPU
+- [dinov2](https://github.com/facebookresearch/dinov2): PyTorch code and models for the DINOv2 self-supervised learning method.
+- [ml-ferret](https://github.com/apple/ml-ferret): None
+- [shell_gpt](https://github.com/TheR1D/shell_gpt): A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.
+- [smallchat](https://github.com/antirez/smallchat): A minimal programming example for a chat server
+- [starcoder](https://github.com/bigcode-project/starcoder): Home of StarCoder: fine-tuning & inference!
+- [VALL-E-X](https://github.com/Plachtaa/VALL-E-X): An open source implementation of Microsoft's VALL-E X zero-shot TTS model. Demo is available in https://plachtaa.github.io
+- [gpt-migrate](https://github.com/joshpxyne/gpt-migrate): Easily migrate your codebase from one framework or language to another.
+- [FastSAM](https://github.com/CASIA-IVA-Lab/FastSAM): Fast Segment Anything
+- [self-operating-computer](https://github.com/OthersideAI/self-operating-computer): A framework to enable multimodal models to operate a computer.
