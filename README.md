@@ -1,32 +1,32 @@
 # Trending Repositories
 
-- [gpt4all](https://github.com/nomic-ai/gpt4all): gpt4all: open-source LLM chatbots that you can run anywhere
-- [gpt4free](https://github.com/xtekky/gpt4free): The official gpt4free repository | various collection of powerful language models
-- [llama](https://github.com/facebookresearch/llama): Inference code for LLaMA models
-- [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B): ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型
-- [FastChat](https://github.com/lm-sys/FastChat): An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
-- [bark](https://github.com/suno-ai/bark): 🔊 Text-Prompted Generative Audio Model
-- [ControlNet](https://github.com/lllyasviel/ControlNet): Let us control diffusion models!
-- [MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4): Open-sourced codes for MiniGPT-4 and MiniGPT-v2 (https://minigpt-4.github.io, https://minigpt-v2.github.io/)
-- [roop](https://github.com/s0md3v/roop): one-click face swap
-- [gpt-pilot](https://github.com/Pythagora-io/gpt-pilot): Dev tool that writes scalable apps from scratch while the developer oversees the implementation
-- [babyagi](https://github.com/yoheinakajima/babyagi): None
-- [my-tv](https://github.com/lizongying/my-tv): 我的电视 电视直播软件，安装即可使用
-- [multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene): A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage
-- [generative_agents](https://github.com/joonspk-research/generative_agents): Generative Agents: Interactive Simulacra of Human Behavior
-- [SuperAGI](https://github.com/TransformerOptimus/SuperAGI): <⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
-- [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT): 这是一款提高ChatGPT的数据安全能力和效率的插件。并且免费共享大量创新功能，如：自动刷新、保持活跃、数据安全、取消审计、克隆对话、言无不尽、净化页面、展示大屏、展示全屏、拦截跟踪、日新月异等。让我们的AI体验无比安全、顺畅、丝滑、高效、简洁。
-- [Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything): Grounded-SAM: Marrying Grounding-DINO with Segment Anything & Stable Diffusion & Recognize Anything - Automatically Detect , Segment and Generate Anything
-- [mlx](https://github.com/ml-explore/mlx): MLX: An array framework for Apple silicon
-- [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM): Awesome-LLM: a curated list of Large Language Model
-- [dolly](https://github.com/databrickslabs/dolly): Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform
-- [facefusion](https://github.com/facefusion/facefusion): Next generation face swapper and enhancer
-- [the-algorithm-ml](https://github.com/twitter/the-algorithm-ml): Source code for Twitter's Recommendation Algorithm
-- [DB-GPT](https://github.com/eosphoros-ai/DB-GPT): AI Native Data App Development framework with AWEL(Agentic Workflow Expression Language) and Agents
-- [open-llms](https://github.com/eugeneyan/open-llms): 📋 A list of open LLMs available for commercial use.
-- [awesome-chatgpt-zh](https://github.com/yzfly/awesome-chatgpt-zh): ChatGPT 中文指南🔥，ChatGPT 中文调教指南，指令指南，应用开发指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up! 🚀
-- [chatGPTBox](https://github.com/josStorer/chatGPTBox): Integrating ChatGPT into your browser deeply, everything you need is here
-- [magic-animate](https://github.com/magic-research/magic-animate): MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model
-- [jan](https://github.com/janhq/jan): Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
-- [gorilla](https://github.com/ShishirPatil/gorilla): Gorilla: An API store for LLMs
-- [pygwalker](https://github.com/Kanaries/pygwalker): PyGWalker: Turn your pandas dataframe into an interactive UI for visual analysis
+- [system-design-101](https://github.com/ByteByteGoHq/system-design-101): Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
+- [segment-anything](https://github.com/facebookresearch/segment-anything): The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
+- [quivr](https://github.com/QuivrHQ/quivr): Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that you can share with users !  Local & Private alternative to OpenAI GPTs & ChatGPT powered by retrieval-augmented generation.
+- [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui): The open-source AI chat app for everyone.
+- [tuning_playbook](https://github.com/google-research/tuning_playbook): A playbook for systematically maximizing the performance of deep learning models.
+- [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners): 12 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
+- [maybe](https://github.com/maybe-finance/maybe): The OS for your personal finances
+- [localGPT](https://github.com/PromtEngineer/localGPT): Chat with your documents on your local device using GPT models. No data leaves your device and 100% private. 
+- [LocalAI](https://github.com/mudler/LocalAI): :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GPTQ, onnx, TF compatible models: llama, llama2, rwkv, whisper, vicuna, koala, cerebras, falcon, dolly, starcoder, and many others
+- [Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI): Voice data <= 10 mins can also be used to train a good VC model!
+- [carrot](https://github.com/xx025/carrot): Free ChatGPT Site List 这儿为你准备了众多免费好用的ChatGPT镜像站点
+- [awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt): 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated. 
+- [llama2.c](https://github.com/karpathy/llama2.c): Inference Llama 2 in one file of pure C
+- [OpenVoice](https://github.com/myshell-ai/OpenVoice): Instant voice cloning by MyShell.
+- [carbonyl](https://github.com/fathyb/carbonyl): Chromium running inside your terminal
+- [DocsGPT](https://github.com/arc53/DocsGPT): GPT-powered chat for documentation, chat with your documents
+- [draw-a-ui](https://github.com/SawyerHood/draw-a-ui): Draw a mockup and generate html for it
+- [candle](https://github.com/huggingface/candle): Minimalist ML framework for Rust
+- [novel](https://github.com/steven-tey/novel): Notion-style WYSIWYG editor with AI-powered autocompletion.
+- [Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook): The Startup CTO's Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams
+- [pandas-ai](https://github.com/gventuri/pandas-ai): Chat with your data (SQL, CSV, pandas, polars, noSQL, etc). PandasAI makes data analysis conversational using LLMs (GPT 3.5 / 4, Anthropic, VertexAI) and RAG.
+- [roomGPT](https://github.com/Nutlope/roomGPT): Upload a photo of your room to generate your dream room with AI.
+- [ChatRWKV](https://github.com/BlinkDL/ChatRWKV): ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.
+- [qlora](https://github.com/artidoro/qlora): QLoRA: Efficient Finetuning of Quantized LLMs
+- [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch): Implementing a ChatGPT-like LLM from scratch, step by step
+- [go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai): 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。
+- [biome](https://github.com/biomejs/biome): A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
+- [cv](https://github.com/BartoszJarocki/cv): Print-friendly, minimalist CV page
+- [tachyon](https://github.com/kroma-network/tachyon): Modular ZK(Zero Knowledge) backend accelerated by GPU
+- [ImageBind](https://github.com/facebookresearch/ImageBind): ImageBind One Embedding Space to Bind Them All
