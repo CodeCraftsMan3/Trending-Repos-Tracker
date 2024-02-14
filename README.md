@@ -1,32 +1,32 @@
 # Trending Repositories
 
-- [ui](https://github.com/shadcn-ui/ui): Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
-- [TaskMatrix](https://github.com/moymix/TaskMatrix): None
-- [MetaGPT](https://github.com/geekan/MetaGPT): 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
-- [stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca): Code and documentation to train Stanford's Alpaca models, and generate the data.
-- [Flowise](https://github.com/FlowiseAI/Flowise): Drag & drop UI to build your customized LLM flow
-- [openai-translator](https://github.com/openai-translator/openai-translator): 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
+- [system-design-101](https://github.com/ByteByteGoHq/system-design-101): Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
+- [quivr](https://github.com/QuivrHQ/quivr): Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that you can share with users !  Local & Private alternative to OpenAI GPTs & ChatGPT powered by retrieval-augmented generation.
+- [tuning_playbook](https://github.com/google-research/tuning_playbook): A playbook for systematically maximizing the performance of deep learning models.
+- [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners): 12 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
 - [ChatDev](https://github.com/OpenBMB/ChatDev): Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
-- [alpaca-lora](https://github.com/tloen/alpaca-lora): Instruct-tune LLaMA on consumer hardware
-- [ChatPaper](https://github.com/kaixindelele/ChatPaper): Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文全文总结+专业翻译+润色+审稿+审稿回复
-- [mojo](https://github.com/modularml/mojo): The Mojo Programming Language
-- [dify](https://github.com/langgenius/dify): An Open-Source Assistants API and GPTs alternative. Dify.AI is an LLM application development platform. It integrates the concepts of Backend as a Service and LLMOps, covering the core tech stack required for building generative AI-native applications, including a built-in RAG engine.
-- [ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B): ChatGLM2-6B: An Open Bilingual Chat LLM | 开源双语对话语言模型
-- [langflow](https://github.com/logspace-ai/langflow): ⛓️ Langflow is a UI for LangChain, designed with react-flow to provide an effortless way to experiment and prototype flows.
-- [gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain): GPT4 & LangChain Chatbot for large PDF docs
-- [LLaVA](https://github.com/haotian-liu/LLaVA): [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
+- [llama2.c](https://github.com/karpathy/llama2.c): Inference Llama 2 in one file of pure C
+- [carbonyl](https://github.com/fathyb/carbonyl): Chromium running inside your terminal
+- [DocsGPT](https://github.com/arc53/DocsGPT): GPT-powered chat for documentation, chat with your documents
 - [ChatALL](https://github.com/sunner/ChatALL):  Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
-- [Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch): ISG lets you use YouTube as cloud storage for ANY files, not just video
-- [python-mastery](https://github.com/dabeaz-course/python-mastery): Advanced Python Mastery (course by @dabeaz)
+- [candle](https://github.com/huggingface/candle): Minimalist ML framework for Rust
+- [novel](https://github.com/steven-tey/novel): Notion-style WYSIWYG editor with AI-powered autocompletion.
 - [h2ogpt](https://github.com/h2oai/h2ogpt): Private Q&A and summarization of documents+images or chat with local GPT, 100% private, Apache 2.0. Supports Mixtral, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://codellama.h2o.ai/
-- [one-api](https://github.com/songquanpeng/one-api): OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2 & Gemini、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a single API for all LLMs, and features an English UI.
-- [llamafile](https://github.com/Mozilla-Ocho/llamafile): Distribute and run LLMs with a single file.
-- [chathub](https://github.com/chathub-dev/chathub): All-in-one chatbot client
-- [Whisky](https://github.com/Whisky-App/Whisky): A modern Wine wrapper for macOS built with SwiftUI
+- [roomGPT](https://github.com/Nutlope/roomGPT): Upload a photo of your room to generate your dream room with AI.
+- [ChatRWKV](https://github.com/BlinkDL/ChatRWKV): ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.
+- [qlora](https://github.com/artidoro/qlora): QLoRA: Efficient Finetuning of Quantized LLMs
+- [go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai): 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。
 - [copilot-gpt4-service](https://github.com/aaamoon/copilot-gpt4-service): Convert Github Copilot to ChatGPT
+- [Llama2-Chinese](https://github.com/LlamaFamily/Llama2-Chinese): Llama中文社区，最好的中文Llama大模型，完全开源可商用
 - [LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide): A curated list of practical guide resources of LLMs (LLMs Tree, Examples, Papers)
+- [so-vits-svc-fork](https://github.com/voicepaw/so-vits-svc-fork): so-vits-svc fork with realtime support, improved interface and more features.
 - [inshellisense](https://github.com/microsoft/inshellisense): IDE style command line auto complete
-- [prompt-engineering](https://github.com/brexhq/prompt-engineering): Tips and tricks for working with Large Language Models like OpenAI's GPT-4.
-- [TypeChat](https://github.com/microsoft/TypeChat): TypeChat is a library that makes it easy to build natural language interfaces using types.
-- [promptflow](https://github.com/microsoft/promptflow): Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.
+- [tachyon](https://github.com/kroma-network/tachyon): Modular ZK(Zero Knowledge) backend accelerated by GPU
+- [shell_gpt](https://github.com/TheR1D/shell_gpt): A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.
+- [dinov2](https://github.com/facebookresearch/dinov2): PyTorch code and models for the DINOv2 self-supervised learning method.
+- [gpt4free-ts](https://github.com/xiangsx/gpt4free-ts): Providing a free OpenAI GPT-4 API !   This is a replication project for the typescript version of xtekky/gpt4free
 - [open_llama](https://github.com/openlm-research/open_llama): OpenLLaMA, a permissively licensed open source reproduction of Meta AI’s LLaMA 7B trained on the RedPajama dataset
+- [BetterChatGPT](https://github.com/ztjhz/BetterChatGPT): An amazing UI for OpenAI's ChatGPT (Website + Windows + MacOS + Linux)
+- [gpt-researcher](https://github.com/assafelovic/gpt-researcher): GPT based autonomous agent that does online comprehensive research on any given topic
+- [smallchat](https://github.com/antirez/smallchat): A minimal programming example for a chat server
+- [VALL-E-X](https://github.com/Plachtaa/VALL-E-X): An open source implementation of Microsoft's VALL-E X zero-shot TTS model. Demo is available in https://plachtaa.github.io
