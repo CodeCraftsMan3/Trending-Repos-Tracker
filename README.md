@@ -1,32 +1,32 @@
 # Trending Repositories
 
-- [system-design-101](https://github.com/ByteByteGoHq/system-design-101): Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
-- [quivr](https://github.com/QuivrHQ/quivr): Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that you can share with users !  Local & Private alternative to OpenAI GPTs & ChatGPT powered by retrieval-augmented generation.
-- [tuning_playbook](https://github.com/google-research/tuning_playbook): A playbook for systematically maximizing the performance of deep learning models.
-- [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners): 12 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
-- [ChatDev](https://github.com/OpenBMB/ChatDev): Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
-- [llama2.c](https://github.com/karpathy/llama2.c): Inference Llama 2 in one file of pure C
-- [carbonyl](https://github.com/fathyb/carbonyl): Chromium running inside your terminal
-- [DocsGPT](https://github.com/arc53/DocsGPT): GPT-powered chat for documentation, chat with your documents
-- [ChatALL](https://github.com/sunner/ChatALL):  Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
-- [candle](https://github.com/huggingface/candle): Minimalist ML framework for Rust
-- [novel](https://github.com/steven-tey/novel): Notion-style WYSIWYG editor with AI-powered autocompletion.
-- [h2ogpt](https://github.com/h2oai/h2ogpt): Private Q&A and summarization of documents+images or chat with local GPT, 100% private, Apache 2.0. Supports Mixtral, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://codellama.h2o.ai/
-- [roomGPT](https://github.com/Nutlope/roomGPT): Upload a photo of your room to generate your dream room with AI.
-- [ChatRWKV](https://github.com/BlinkDL/ChatRWKV): ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.
-- [qlora](https://github.com/artidoro/qlora): QLoRA: Efficient Finetuning of Quantized LLMs
-- [go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai): 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。
-- [copilot-gpt4-service](https://github.com/aaamoon/copilot-gpt4-service): Convert Github Copilot to ChatGPT
-- [Llama2-Chinese](https://github.com/LlamaFamily/Llama2-Chinese): Llama中文社区，最好的中文Llama大模型，完全开源可商用
-- [LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide): A curated list of practical guide resources of LLMs (LLMs Tree, Examples, Papers)
-- [so-vits-svc-fork](https://github.com/voicepaw/so-vits-svc-fork): so-vits-svc fork with realtime support, improved interface and more features.
-- [inshellisense](https://github.com/microsoft/inshellisense): IDE style command line auto complete
-- [tachyon](https://github.com/kroma-network/tachyon): Modular ZK(Zero Knowledge) backend accelerated by GPU
-- [shell_gpt](https://github.com/TheR1D/shell_gpt): A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.
-- [dinov2](https://github.com/facebookresearch/dinov2): PyTorch code and models for the DINOv2 self-supervised learning method.
-- [gpt4free-ts](https://github.com/xiangsx/gpt4free-ts): Providing a free OpenAI GPT-4 API !   This is a replication project for the typescript version of xtekky/gpt4free
-- [open_llama](https://github.com/openlm-research/open_llama): OpenLLaMA, a permissively licensed open source reproduction of Meta AI’s LLaMA 7B trained on the RedPajama dataset
-- [BetterChatGPT](https://github.com/ztjhz/BetterChatGPT): An amazing UI for OpenAI's ChatGPT (Website + Windows + MacOS + Linux)
-- [gpt-researcher](https://github.com/assafelovic/gpt-researcher): GPT based autonomous agent that does online comprehensive research on any given topic
-- [smallchat](https://github.com/antirez/smallchat): A minimal programming example for a chat server
-- [VALL-E-X](https://github.com/Plachtaa/VALL-E-X): An open source implementation of Microsoft's VALL-E X zero-shot TTS model. Demo is available in https://plachtaa.github.io
+- [BELLE](https://github.com/LianjiaTech/BELLE): BELLE: Be Everyone's Large Language model Engine（开源中文对话大模型）
+- [docta](https://github.com/Docta-ai/docta): A Doctor for your data
+- [promptable](https://github.com/cfortuner/promptable): Build LLM apps in Typescript/Javascript. 🧑‍💻 🧑‍💻 🧑‍💻 🚀 🚀 🚀 
+- [invoice](https://github.com/maaslalani/invoice): Command line invoice generator
+- [SdPaint](https://github.com/houseofsecrets/SdPaint): Stable Diffusion Painting
+- [autogpt-gui](https://github.com/thecookingsenpai/autogpt-gui): A graphical user interface for AutoGPT
+- [Anything-3D](https://github.com/Anything-of-anything/Anything-3D): Segment-Anything + 3D. Let's lift anything to 3D.
+- [pythagora](https://github.com/Pythagora-io/pythagora): Generate automated tests for your Node.js app via LLMs without developers having to write a single line of code.
+- [Doprax-Xray](https://github.com/yonggekkk/Doprax-Xray): Doprax一键五协议共存脚本：Xray内核，支持vless，vmess，trojan，shadowsocks，socks五协议同时在线，支持Cloudflare Argo隧道自动生成分享链接
+- [WeblogicTool](https://github.com/KimJun1010/WeblogicTool): WeblogicTool，GUI漏洞利用工具，支持漏洞检测、命令执行、内存马注入、密码解密等（深信服深蓝实验室天威战队强力驱动）
+- [ai-legion](https://github.com/eumemic/ai-legion): An LLM-powered autonomous agent platform
+- [LlamaAcademy](https://github.com/danielgross/LlamaAcademy): A school for camelids
+- [minixfromscratch](https://github.com/o-oconnell/minixfromscratch): Development and compilation setup for the book versions of MINIX (2.0.0 and 3.1.0) on QEMU
+- [workout-lol](https://github.com/workout-lol/workout-lol): A simple way to create a workout plan
+- [tomesd](https://github.com/dbolya/tomesd): Speed up Stable Diffusion with this one simple trick!
+- [chathn](https://github.com/steven-tey/chathn): Chat with Hacker News using natural language. Built with OpenAI Functions and Vercel AI SDK.
+- [docker-prompt-generator](https://github.com/soulteary/docker-prompt-generator): Using a Model to generate prompts for Model applications. / 使用模型来生成作图咒语的偷懒工具，支持 MidJourney、Stable Diffusion 等。
+- [light-gpt](https://github.com/riwigefi/light-gpt): Light-GPT is an interactive website project based on the GPT-3.5-Turbo Model.
+- [gbrom-tutorial](https://github.com/travisgoodspeed/gbrom-tutorial): Tutorial for extracting the GameBoy ROM from photographs of the die.
+- [eaio](https://github.com/WankkoRee/eaio): 一个通过将磁盘上所有 Electron 应用中相同文件硬链接到统一位置来减少磁盘占用的解决方案，就像 pnpm 一样。
+- [SWIFT-AI](https://github.com/liwenxi/SWIFT-AI): A fast gigapixel processing system
+- [zact](https://github.com/pingdotgg/zact): Nothing to see here
+- [autofit.js](https://github.com/LarryZhu-dev/autofit.js): autofit.js 迄今为止最易用的自适应工具
+- [LLM-ToolMaker](https://github.com/ctlllll/LLM-ToolMaker): None
+- [salt](https://github.com/anuragxel/salt): Segment Anything Labelling Tool
+- [MathTranslate](https://github.com/SUSYUSTC/MathTranslate): translate scientific papers in latex, especially arxiv papers
+- [deprem-yardim-frontend](https://github.com/acikyazilimagi/deprem-yardim-frontend): release canditate: https://rc.afetharita.com/
+- [jscanify](https://github.com/ColonelParrot/jscanify): Open-source Javascript mobile document scanner.
+- [mmc4](https://github.com/allenai/mmc4): MultimodalC4 is a multimodal extension of c4 that interleaves millions of images with text.
+- [tquic](https://github.com/Tencent/tquic): A high-performance, lightweight, and cross-platform QUIC library
