@@ -1,32 +1,32 @@
 # Trending Repositories
 
-- [BELLE](https://github.com/LianjiaTech/BELLE): BELLE: Be Everyone's Large Language model Engine（开源中文对话大模型）
-- [docta](https://github.com/Docta-ai/docta): A Doctor for your data
-- [promptable](https://github.com/cfortuner/promptable): Build LLM apps in Typescript/Javascript. 🧑‍💻 🧑‍💻 🧑‍💻 🚀 🚀 🚀 
-- [invoice](https://github.com/maaslalani/invoice): Command line invoice generator
-- [SdPaint](https://github.com/houseofsecrets/SdPaint): Stable Diffusion Painting
-- [autogpt-gui](https://github.com/thecookingsenpai/autogpt-gui): A graphical user interface for AutoGPT
-- [Anything-3D](https://github.com/Anything-of-anything/Anything-3D): Segment-Anything + 3D. Let's lift anything to 3D.
-- [pythagora](https://github.com/Pythagora-io/pythagora): Generate automated tests for your Node.js app via LLMs without developers having to write a single line of code.
-- [Doprax-Xray](https://github.com/yonggekkk/Doprax-Xray): Doprax一键五协议共存脚本：Xray内核，支持vless，vmess，trojan，shadowsocks，socks五协议同时在线，支持Cloudflare Argo隧道自动生成分享链接
-- [WeblogicTool](https://github.com/KimJun1010/WeblogicTool): WeblogicTool，GUI漏洞利用工具，支持漏洞检测、命令执行、内存马注入、密码解密等（深信服深蓝实验室天威战队强力驱动）
-- [ai-legion](https://github.com/eumemic/ai-legion): An LLM-powered autonomous agent platform
-- [LlamaAcademy](https://github.com/danielgross/LlamaAcademy): A school for camelids
-- [minixfromscratch](https://github.com/o-oconnell/minixfromscratch): Development and compilation setup for the book versions of MINIX (2.0.0 and 3.1.0) on QEMU
-- [workout-lol](https://github.com/workout-lol/workout-lol): A simple way to create a workout plan
-- [tomesd](https://github.com/dbolya/tomesd): Speed up Stable Diffusion with this one simple trick!
-- [chathn](https://github.com/steven-tey/chathn): Chat with Hacker News using natural language. Built with OpenAI Functions and Vercel AI SDK.
-- [docker-prompt-generator](https://github.com/soulteary/docker-prompt-generator): Using a Model to generate prompts for Model applications. / 使用模型来生成作图咒语的偷懒工具，支持 MidJourney、Stable Diffusion 等。
-- [light-gpt](https://github.com/riwigefi/light-gpt): Light-GPT is an interactive website project based on the GPT-3.5-Turbo Model.
-- [gbrom-tutorial](https://github.com/travisgoodspeed/gbrom-tutorial): Tutorial for extracting the GameBoy ROM from photographs of the die.
-- [eaio](https://github.com/WankkoRee/eaio): 一个通过将磁盘上所有 Electron 应用中相同文件硬链接到统一位置来减少磁盘占用的解决方案，就像 pnpm 一样。
-- [SWIFT-AI](https://github.com/liwenxi/SWIFT-AI): A fast gigapixel processing system
-- [zact](https://github.com/pingdotgg/zact): Nothing to see here
-- [autofit.js](https://github.com/LarryZhu-dev/autofit.js): autofit.js 迄今为止最易用的自适应工具
-- [LLM-ToolMaker](https://github.com/ctlllll/LLM-ToolMaker): None
-- [salt](https://github.com/anuragxel/salt): Segment Anything Labelling Tool
-- [MathTranslate](https://github.com/SUSYUSTC/MathTranslate): translate scientific papers in latex, especially arxiv papers
-- [deprem-yardim-frontend](https://github.com/acikyazilimagi/deprem-yardim-frontend): release canditate: https://rc.afetharita.com/
-- [jscanify](https://github.com/ColonelParrot/jscanify): Open-source Javascript mobile document scanner.
-- [mmc4](https://github.com/allenai/mmc4): MultimodalC4 is a multimodal extension of c4 that interleaves millions of images with text.
-- [tquic](https://github.com/Tencent/tquic): A high-performance, lightweight, and cross-platform QUIC library
+- [llama.cpp](https://github.com/ggerganov/llama.cpp): Port of Facebook's LLaMA model in C/C++
+- [ui](https://github.com/shadcn-ui/ui): Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
+- [segment-anything](https://github.com/facebookresearch/segment-anything): The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
+- [TaskMatrix](https://github.com/moymix/TaskMatrix): None
+- [MetaGPT](https://github.com/geekan/MetaGPT): 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
+- [chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web): 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
+- [stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca): Code and documentation to train Stanford's Alpaca models, and generate the data.
+- [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui): The open-source AI chat app for everyone.
+- [so-vits-svc](https://github.com/svc-develop-team/so-vits-svc): SoftVC VITS Singing Voice Conversion
+- [maybe](https://github.com/maybe-finance/maybe): The OS for your personal finances
+- [openai-translator](https://github.com/openai-translator/openai-translator): 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
+- [localGPT](https://github.com/PromtEngineer/localGPT): Chat with your documents on your local device using GPT models. No data leaves your device and 100% private. 
+- [alpaca-lora](https://github.com/tloen/alpaca-lora): Instruct-tune LLaMA on consumer hardware
+- [LocalAI](https://github.com/mudler/LocalAI): :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GPTQ, onnx, TF compatible models: llama, llama2, rwkv, whisper, vicuna, koala, cerebras, falcon, dolly, starcoder, and many others
+- [Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI): Voice data <= 10 mins can also be used to train a good VC model!
+- [carrot](https://github.com/xx025/carrot): Free ChatGPT Site List 这儿为你准备了众多免费好用的ChatGPT镜像站点
+- [dify](https://github.com/langgenius/dify): An Open-Source Assistants API and GPTs alternative. Dify.AI is an LLM application development platform. It integrates the concepts of Backend as a Service and LLMOps, covering the core tech stack required for building generative AI-native applications, including a built-in RAG engine.
+- [ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B): ChatGLM2-6B: An Open Bilingual Chat LLM | 开源双语对话语言模型
+- [awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt): 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated. 
+- [gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain): GPT4 & LangChain Chatbot for large PDF docs
+- [OpenVoice](https://github.com/myshell-ai/OpenVoice): Instant voice cloning by MyShell.
+- [carbonyl](https://github.com/fathyb/carbonyl): Chromium running inside your terminal
+- [draw-a-ui](https://github.com/SawyerHood/draw-a-ui): Draw a mockup and generate html for it
+- [Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch): ISG lets you use YouTube as cloud storage for ANY files, not just video
+- [python-mastery](https://github.com/dabeaz-course/python-mastery): Advanced Python Mastery (course by @dabeaz)
+- [pandas-ai](https://github.com/Sinaptik-AI/pandas-ai): Chat with your data (SQL, CSV, pandas, polars, noSQL, etc). PandasAI makes data analysis conversational using LLMs (GPT 3.5 / 4, Anthropic, VertexAI) and RAG.
+- [Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook): The Startup CTO's Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams
+- [one-api](https://github.com/songquanpeng/one-api): OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2 & Gemini、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a single API for all LLMs, and features an English UI.
+- [FastGPT](https://github.com/labring/FastGPT): FastGPT is a knowledge-based platform built on the LLM, offers out-of-the-box data processing and model invocation capabilities, allows for workflow orchestration through Flow visualization!
+- [llamafile](https://github.com/Mozilla-Ocho/llamafile): Distribute and run LLMs with a single file.
