@@ -1,32 +1,32 @@
 # Trending Repositories
 
-- [llama.cpp](https://github.com/ggerganov/llama.cpp): Port of Facebook's LLaMA model in C/C++
-- [ui](https://github.com/shadcn-ui/ui): Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
-- [segment-anything](https://github.com/facebookresearch/segment-anything): The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
-- [TaskMatrix](https://github.com/moymix/TaskMatrix): None
-- [MetaGPT](https://github.com/geekan/MetaGPT): 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
-- [chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web): 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
-- [stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca): Code and documentation to train Stanford's Alpaca models, and generate the data.
-- [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui): The open-source AI chat app for everyone.
-- [so-vits-svc](https://github.com/svc-develop-team/so-vits-svc): SoftVC VITS Singing Voice Conversion
-- [maybe](https://github.com/maybe-finance/maybe): The OS for your personal finances
-- [openai-translator](https://github.com/openai-translator/openai-translator): 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
-- [localGPT](https://github.com/PromtEngineer/localGPT): Chat with your documents on your local device using GPT models. No data leaves your device and 100% private. 
-- [alpaca-lora](https://github.com/tloen/alpaca-lora): Instruct-tune LLaMA on consumer hardware
-- [LocalAI](https://github.com/mudler/LocalAI): :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs ggml, gguf, GPTQ, onnx, TF compatible models: llama, llama2, rwkv, whisper, vicuna, koala, cerebras, falcon, dolly, starcoder, and many others
-- [Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI): Voice data <= 10 mins can also be used to train a good VC model!
-- [carrot](https://github.com/xx025/carrot): Free ChatGPT Site List 这儿为你准备了众多免费好用的ChatGPT镜像站点
-- [dify](https://github.com/langgenius/dify): An Open-Source Assistants API and GPTs alternative. Dify.AI is an LLM application development platform. It integrates the concepts of Backend as a Service and LLMOps, covering the core tech stack required for building generative AI-native applications, including a built-in RAG engine.
-- [ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B): ChatGLM2-6B: An Open Bilingual Chat LLM | 开源双语对话语言模型
-- [awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt): 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated. 
-- [gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain): GPT4 & LangChain Chatbot for large PDF docs
-- [OpenVoice](https://github.com/myshell-ai/OpenVoice): Instant voice cloning by MyShell.
-- [carbonyl](https://github.com/fathyb/carbonyl): Chromium running inside your terminal
-- [draw-a-ui](https://github.com/SawyerHood/draw-a-ui): Draw a mockup and generate html for it
-- [Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch): ISG lets you use YouTube as cloud storage for ANY files, not just video
-- [python-mastery](https://github.com/dabeaz-course/python-mastery): Advanced Python Mastery (course by @dabeaz)
-- [pandas-ai](https://github.com/Sinaptik-AI/pandas-ai): Chat with your data (SQL, CSV, pandas, polars, noSQL, etc). PandasAI makes data analysis conversational using LLMs (GPT 3.5 / 4, Anthropic, VertexAI) and RAG.
-- [Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook): The Startup CTO's Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams
-- [one-api](https://github.com/songquanpeng/one-api): OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2 & Gemini、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a single API for all LLMs, and features an English UI.
-- [FastGPT](https://github.com/labring/FastGPT): FastGPT is a knowledge-based platform built on the LLM, offers out-of-the-box data processing and model invocation capabilities, allows for workflow orchestration through Flow visualization!
-- [llamafile](https://github.com/Mozilla-Ocho/llamafile): Distribute and run LLMs with a single file.
+- [ChatDev](https://github.com/OpenBMB/ChatDev): Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
+- [ChatALL](https://github.com/sunner/ChatALL):  Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
+- [h2ogpt](https://github.com/h2oai/h2ogpt): Private Q&A and summarization of documents+images or chat with local GPT, 100% private, Apache 2.0. Supports Mixtral, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://codellama.h2o.ai/
+- [copilot-gpt4-service](https://github.com/aaamoon/copilot-gpt4-service): Convert Github Copilot to ChatGPT
+- [LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide): A curated list of practical guide resources of LLMs (LLMs Tree, Examples, Papers)
+- [inshellisense](https://github.com/microsoft/inshellisense): IDE style command line auto complete
+- [open_llama](https://github.com/openlm-research/open_llama): OpenLLaMA, a permissively licensed open source reproduction of Meta AI’s LLaMA 7B trained on the RedPajama dataset
+- [gpt-researcher](https://github.com/assafelovic/gpt-researcher): GPT based autonomous agent that does online comprehensive research on any given topic
+- [web-check](https://github.com/Lissy93/web-check): 🕵️‍♂️ All-in-one OSINT tool for analysing any website
+- [marker](https://github.com/VikParuchuri/marker): Convert PDF to markdown quickly with high accuracy
+- [langchain-tutorials](https://github.com/gkamradt/langchain-tutorials): Overview and tutorial of the LangChain Library
+- [consistency_models](https://github.com/openai/consistency_models): Official repo for consistency models.
+- [pinduoduo_backdoor](https://github.com/davinci1010/pinduoduo_backdoor): 拼多多apk内嵌提权代码，及动态下发dex分析
+- [BibiGPT-v1](https://github.com/JimmyLv/BibiGPT-v1): BibiGPT v1 · one-Click AI Summary for Audio/Video & Chat with Learning Content: Bilibili | YouTube | Tweet丨TikTok丨Dropbox丨Google Drive丨Local files | Websites丨Podcasts | Meetings | Lectures, etc. 音视频内容 AI 一键总结 & 对话：哔哩哔哩丨YouTube丨推特丨小红书丨抖音丨快手丨百度网盘丨阿里云盘丨网页丨播客丨会议丨本地文件等 (原 BiliGPT 省流神器 & AI课代表)
+- [law-cn-ai](https://github.com/lvwzhen/law-cn-ai): ⚖️ AI 法律助手
+- [openchat](https://github.com/imoneoi/openchat): OpenChat: Advancing Open-source Language Models with Imperfect Data
+- [chainlit](https://github.com/Chainlit/chainlit): Build Conversational AI in minutes ⚡️
+- [awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt): 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
+- [CogVLM](https://github.com/THUDM/CogVLM): a state-of-the-art-level open visual language model | 多模态预训练模型
+- [superagent](https://github.com/homanp/superagent): 🥷 The Open Source AI Assistant Framework & API
+- [Doctor-Dignity](https://github.com/llSourcell/Doctor-Dignity): Doctor Dignity is an LLM that can pass the US Medical Licensing Exam. It works offline, it's cross-platform, & your health data stays private.
+- [ChatGLM-Tuning](https://github.com/mymusise/ChatGLM-Tuning): 基于ChatGLM-6B + LoRA的Fintune方案
+- [paper-qa](https://github.com/whitead/paper-qa): LLM Chain for answering questions from documents with citations
+- [h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio): H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://h2oai.github.io/h2o-llmstudio/
+- [CopilotKit](https://github.com/CopilotKit/CopilotKit): Build in-app AI chatbots 🤖, and AI-powered Textareas ✨, into react web apps.
+- [Linly](https://github.com/CVI-SZU/Linly): Chinese-LLaMA 1&2、Chinese-Falcon 基础模型；ChatFlow中文对话模型；中文OpenLLaMA模型；NLP预训练/指令微调数据集
+- [AutoGPT-Next-Web](https://github.com/ConnectAI-E/AutoGPT-Next-Web): 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用
+- [Live](https://github.com/YueChan/Live): 收集于互联网的一些高清直播源。
+- [Remembering-Haoel](https://github.com/megaease/Remembering-Haoel): 记录您对左耳朵耗子（陈皓）的点滴回忆
+- [big-AGI](https://github.com/enricoros/big-AGI): 💬 Personal AI application powered by GPT-4 and beyond, with AI personas, AGI functions, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, much more. Deploy and gift #big-AGI-energy! Using Next.js, React, Joy.
