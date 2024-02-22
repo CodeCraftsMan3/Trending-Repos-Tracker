@@ -1,32 +1,32 @@
 # Trending Repositories
 
-- [node](https://github.com/base-org/node): Everything required to run your own Base node
-- [privateGPT](https://github.com/imartinez/privateGPT): Interact with your documents using the power of GPT, 100% privately, no data leaks
-- [TaskMatrix](https://github.com/moymix/TaskMatrix): None
-- [JARVIS](https://github.com/microsoft/JARVIS): JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf
-- [cursor](https://github.com/getcursor/cursor): An AI-powered code editor based on VSCode 🤖
-- [alpaca-lora](https://github.com/tloen/alpaca-lora): Instruct-tune LLaMA on consumer hardware
-- [Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca): 中文LLaMA&Alpaca大语言模型+本地CPU/GPU训练部署 (Chinese LLaMA & Alpaca LLMs)
-- [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS): 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
-- [gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain): GPT4 & LangChain Chatbot for large PDF docs
-- [AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone): Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation
-- [GPT_API_free](https://github.com/chatanywhere/GPT_API_free): Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（免费），ChatGPT国内可用免费转发API，直连无需代理。可以搭配ChatBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。
-- [MOSS](https://github.com/OpenLMLab/MOSS): An open-source tool-augmented conversational language model from Fudan University
-- [Chat2DB](https://github.com/chat2db/Chat2DB): 🔥 🔥 🔥 An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.
-- [Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch): ISG lets you use YouTube as cloud storage for ANY files, not just video
-- [deploy](https://github.com/pandora-next/deploy): Pandora Cloud + Pandora Server + Shared Chat + BackendAPI Proxy + Chat2API + Signup Free = PandoraNext. New GPTs(Gizmo) UI, All in one!
-- [python-mastery](https://github.com/dabeaz-course/python-mastery): Advanced Python Mastery (course by @dabeaz)
-- [chathub](https://github.com/chathub-dev/chathub): All-in-one chatbot client
-- [Qwen](https://github.com/QwenLM/Qwen): The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud.
-- [AnimateDiff](https://github.com/guoyww/AnimateDiff): Official implementation of AnimateDiff.
-- [dm-ticket](https://github.com/ClassmateLin/dm-ticket): 大麦网自动购票, 支持docker一键部署。Damai automatically purchases tickets, running in docker container.
-- [LMFlow](https://github.com/OptimalScale/LMFlow): An Extensible Toolkit for Finetuning and Inference of Large Foundation Models. Large Models for All.
-- [IF](https://github.com/deep-floyd/IF): None
-- [faster-whisper](https://github.com/SYSTRAN/faster-whisper): Faster Whisper transcription with CTranslate2
-- [DARC](https://github.com/Project-DARC/DARC): Decentralized Autonomous Regulated Company (DARC), a company virtual machine that runs on any EVM-compatible blockchain, with on-chain law system, multi-level tokens and dividends mechanism.
-- [NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid): NekoBox for Android / sing-box / universal proxy toolchain for Android
-- [bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker): Make bilingual epub books Using AI translate
-- [Whisper](https://github.com/Const-me/Whisper): High-performance GPGPU inference of OpenAI's Whisper automatic speech recognition (ASR) model
-- [ai-collection](https://github.com/ai-collection/ai-collection): The Generative AI Landscape - A Collection of Awesome Generative AI Applications
-- [ChatLaw](https://github.com/PKU-YuanGroup/ChatLaw): 中文法律大模型
-- [EmotiVoice](https://github.com/netease-youdao/EmotiVoice): EmotiVoice 😊: a Multi-Voice and Prompt-Controlled TTS Engine
+- [gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer): Specify what you want it to build, the AI asks for clarification, and then builds it.
+- [GPTs](https://github.com/linexjlin/GPTs): leaked prompts of GPTs
+- [autogen](https://github.com/microsoft/autogen): Enable Next-Gen Large Language Model Applications. Join our Discord: https://discord.gg/pAbnFJrkgZ
+- [opentofu](https://github.com/opentofu/opentofu): OpenTofu lets you declaratively manage your cloud infrastructure.
+- [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF): locally hosted web application that allows you to perform various operations on PDF files
+- [chatbox](https://github.com/Bin-Huang/chatbox): Chatbox is a desktop client for ChatGPT, Claude and other LLMs, available on Windows, Mac, Linux
+- [sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet): WebUI extension for ControlNet
+- [codellama](https://github.com/facebookresearch/codellama): Inference code for CodeLlama models
+- [dalai](https://github.com/cocktailpeanut/dalai): The simplest way to run LLaMA on your local machine
+- [StreamDiffusion](https://github.com/cumulo-autumn/StreamDiffusion): StreamDiffusion: A Pipeline-Level Solution for Real-Time Interactive Generation
+- [conc](https://github.com/sourcegraph/conc): Better structured concurrency for go
+- [SafeLine](https://github.com/chaitin/SafeLine): 一款足够简单、足够好用、足够强的免费 WAF。基于业界领先的语义引擎检测技术，作为反向代理接入，保护你的网站不受黑客攻击。
+- [crewAI](https://github.com/joaomdmoura/crewAI): Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
+- [dockge](https://github.com/louislam/dockge): A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
+- [awesome-system-design-resources](https://github.com/ashishps1/awesome-system-design-resources): This repository contains System Design resources which are useful while preparing for interviews and learning Distributed Systems
+- [ML-Papers-Explained](https://github.com/dair-ai/ML-Papers-Explained): Explanation to key concepts in ML
+- [aider](https://github.com/paul-gauthier/aider): aider is AI pair programming in your terminal
+- [ai-town](https://github.com/a16z-infra/ai-town): A MIT-licensed, deployable starter kit for building and customizing your own version of AI town - a virtual town where AI characters live, chat and socialize.
+- [streaming-llm](https://github.com/mit-han-lab/streaming-llm): [ICLR 2024] Efficient Streaming Language Models with Attention Sinks
+- [eza](https://github.com/eza-community/eza): A modern, maintained replacement for ls
+- [LaWGPT](https://github.com/pengxiao-song/LaWGPT):  🎉 Repo for LaWGPT, Chinese-Llama tuned with Chinese Legal knowledge. 基于中文法律知识的大语言模型
+- [deskhop](https://github.com/hrvach/deskhop): Fast Desktop Switching Device
+- [TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM): TensorRT-LLM provides users with an easy-to-use Python API to define Large Language Models (LLMs) and build TensorRT engines that contain state-of-the-art optimizations to perform inference efficiently on NVIDIA GPUs. TensorRT-LLM also contains components to create Python and C++ runtimes that execute those TensorRT engines.
+- [wolverine](https://github.com/biobootloader/wolverine): None
+- [extensions](https://github.com/keiyoushi/extensions): Source extensions for the Mihon/Tachiyomi app.
+- [tiny-rdm](https://github.com/tiny-craft/tiny-rdm): A Modern Redis GUI Client
+- [surya](https://github.com/VikParuchuri/surya): OCR and line detection in 90+ languages
+- [DeepSeek-Coder](https://github.com/deepseek-ai/DeepSeek-Coder): DeepSeek Coder: Let the Code Write Itself
+- [agents](https://github.com/aiwaves-cn/agents): An Open-source Framework for Autonomous Language Agents
+- [aws-devops-zero-to-hero](https://github.com/iam-veeramalla/aws-devops-zero-to-hero): AWS zero to hero repo for devops engineers to learn AWS in 30 Days. This repo includes projects, presentations, interview questions and real time examples.
