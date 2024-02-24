@@ -1,32 +1,32 @@
 # Trending Repositories
 
-- [node](https://github.com/base-org/node): Everything required to run your own Base node
-- [system-design-101](https://github.com/ByteByteGoHq/system-design-101): Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
-- [privateGPT](https://github.com/imartinez/privateGPT): Interact with your documents using the power of GPT, 100% privately, no data leaks
-- [quivr](https://github.com/QuivrHQ/quivr): Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that you can share with users !  Local & Private alternative to OpenAI GPTs & ChatGPT powered by retrieval-augmented generation.
-- [tuning_playbook](https://github.com/google-research/tuning_playbook): A playbook for systematically maximizing the performance of deep learning models.
-- [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners): 18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
-- [JARVIS](https://github.com/microsoft/JARVIS): JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf
-- [cursor](https://github.com/getcursor/cursor): An AI-powered code editor based on VSCode 🤖
-- [Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca): 中文LLaMA&Alpaca大语言模型+本地CPU/GPU训练部署 (Chinese LLaMA & Alpaca LLMs)
-- [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS): 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
-- [llama2.c](https://github.com/karpathy/llama2.c): Inference Llama 2 in one file of pure C
-- [carbonyl](https://github.com/fathyb/carbonyl): Chromium running inside your terminal
-- [DocsGPT](https://github.com/arc53/DocsGPT): GPT-powered chat for documentation, chat with your documents
-- [AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone): Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation
-- [GPT_API_free](https://github.com/chatanywhere/GPT_API_free): Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（免费），ChatGPT国内可用免费转发API，直连无需代理。可以搭配ChatBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。
-- [candle](https://github.com/huggingface/candle): Minimalist ML framework for Rust
-- [MOSS](https://github.com/OpenLMLab/MOSS): An open-source tool-augmented conversational language model from Fudan University
-- [Chat2DB](https://github.com/chat2db/Chat2DB): 🔥 🔥 🔥 An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.
-- [deploy](https://github.com/pandora-next/deploy): Pandora Cloud + Pandora Server + Shared Chat + BackendAPI Proxy + Chat2API + Signup Free = PandoraNext. New GPTs(Gizmo) UI, All in one!
-- [novel](https://github.com/steven-tey/novel): Notion-style WYSIWYG editor with AI-powered autocompletion.
-- [roomGPT](https://github.com/Nutlope/roomGPT): Upload a photo of your room to generate your dream room with AI.
-- [Qwen](https://github.com/QwenLM/Qwen): The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud.
-- [ChatRWKV](https://github.com/BlinkDL/ChatRWKV): ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.
-- [qlora](https://github.com/artidoro/qlora): QLoRA: Efficient Finetuning of Quantized LLMs
-- [go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai): 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。
-- [Llama2-Chinese](https://github.com/LlamaFamily/Llama2-Chinese): Llama中文社区，最好的中文Llama大模型，完全开源可商用
-- [AnimateDiff](https://github.com/guoyww/AnimateDiff): Official implementation of AnimateDiff.
-- [tachyon](https://github.com/kroma-network/tachyon): Modular ZK(Zero Knowledge) backend accelerated by GPU
-- [dm-ticket](https://github.com/ClassmateLin/dm-ticket): 大麦网自动购票, 支持docker一键部署。Damai automatically purchases tickets, running in docker container.
-- [LMFlow](https://github.com/OptimalScale/LMFlow): An Extensible Toolkit for Finetuning and Inference of Large Foundation Models. Large Models for All.
+- [gpt4all](https://github.com/nomic-ai/gpt4all): gpt4all: run open-source LLMs anywhere
+- [gpt4free](https://github.com/xtekky/gpt4free): The official gpt4free repository | various collection of powerful language models
+- [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B): ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型
+- [gpt-pilot](https://github.com/Pythagora-io/gpt-pilot): Dev tool that writes scalable apps from scratch while the developer oversees the implementation
+- [babyagi](https://github.com/yoheinakajima/babyagi): None
+- [my-tv](https://github.com/lizongying/my-tv): 我的电视 电视直播软件，安装即可使用
+- [mlx](https://github.com/ml-explore/mlx): MLX: An array framework for Apple silicon
+- [facefusion](https://github.com/facefusion/facefusion): Next generation face swapper and enhancer
+- [jan](https://github.com/janhq/jan): Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
+- [chatGPTBox](https://github.com/josStorer/chatGPTBox): Integrating ChatGPT into your browser deeply, everything you need is here
+- [magic-animate](https://github.com/magic-research/magic-animate): MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model
+- [pygwalker](https://github.com/Kanaries/pygwalker): PyGWalker: Turn your pandas dataframe into an interactive UI for visual analysis
+- [magika](https://github.com/google/magika): Detect file content types with deep learning
+- [Chinese-LLaMA-Alpaca-2](https://github.com/ymcui/Chinese-LLaMA-Alpaca-2): 中文LLaMA-2 & Alpaca-2大模型二期项目 + 64K超长上下文模型 (Chinese LLaMA-2 & Alpaca-2 LLMs with 64K long context models)
+- [Bert-VITS2](https://github.com/fishaudio/Bert-VITS2): vits2 backbone with multilingual-bert
+- [aidea](https://github.com/mylxsw/aidea): AIdea 是一款支持 GPT  以及国产大语言模型通义千问、文心一言等，支持 Stable Diffusion 文生图、图生图、 SDXL1.0、超分辨率、图片上色的全能型 APP。
+- [freegpt-webui](https://github.com/ramonvc/freegpt-webui): GPT 3.5/4 with a Chat Web UI. No API key required.
+- [ChatGPT-Midjourney](https://github.com/Licoy/ChatGPT-Midjourney): 🍭 一键拥有你自己的 ChatGPT+Midjourney 网页服务 | Own your own ChatGPT+Midjourney web service with one click
+- [litellm](https://github.com/BerriAI/litellm): Call all LLM APIs using the OpenAI format. Use Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (100+ LLMs)
+- [Mindmap](https://github.com/Ignitetechnologies/Mindmap): This repository will contain many mindmaps for cyber security technologies, methodologies, courses, and certifications in a tree structure to give brief details about them
+- [try](https://github.com/binpash/try): Inspect a command's effects before modifying your live system
+- [crab](https://github.com/crablang/crab): A community fork of a language named after a plant fungus. All of the memory-safe features you love, now with 100% less bureaucracy! 
+- [Inpaint-Anything](https://github.com/geekyutao/Inpaint-Anything): Inpaint anything using Segment Anything and inpainting models.
+- [Voyager](https://github.com/MineDojo/Voyager): An Open-Ended Embodied Agent with Large Language Models
+- [marvin](https://github.com/PrefectHQ/marvin): ✨ Build AI interfaces that spark joy
+- [VITS-fast-fine-tuning](https://github.com/Plachtaa/VITS-fast-fine-tuning): This repo is a pipeline of VITS finetuning for fast speaker adaptation TTS, and many-to-many voice conversion
+- [vaul](https://github.com/emilkowalski/vaul): An unstyled drawer component for React.
+- [node-chatgpt-api](https://github.com/waylaidwanderer/node-chatgpt-api): A client implementation for ChatGPT and Bing AI. Available as a Node.js module, REST API server, and CLI app.
+- [openmoonray](https://github.com/dreamworksanimation/openmoonray): MoonRay is DreamWorks’ open-source, award-winning, state-of-the-art production MCRT renderer.
+- [turbopilot](https://github.com/ravenscroftj/turbopilot): Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU
