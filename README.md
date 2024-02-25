@@ -1,32 +1,32 @@
 # Trending Repositories
 
-- [gpt4all](https://github.com/nomic-ai/gpt4all): gpt4all: run open-source LLMs anywhere
-- [gpt4free](https://github.com/xtekky/gpt4free): The official gpt4free repository | various collection of powerful language models
-- [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B): ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型
-- [gpt-pilot](https://github.com/Pythagora-io/gpt-pilot): Dev tool that writes scalable apps from scratch while the developer oversees the implementation
-- [babyagi](https://github.com/yoheinakajima/babyagi): None
-- [my-tv](https://github.com/lizongying/my-tv): 我的电视 电视直播软件，安装即可使用
-- [mlx](https://github.com/ml-explore/mlx): MLX: An array framework for Apple silicon
-- [facefusion](https://github.com/facefusion/facefusion): Next generation face swapper and enhancer
-- [jan](https://github.com/janhq/jan): Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
-- [chatGPTBox](https://github.com/josStorer/chatGPTBox): Integrating ChatGPT into your browser deeply, everything you need is here
-- [magic-animate](https://github.com/magic-research/magic-animate): MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model
-- [pygwalker](https://github.com/Kanaries/pygwalker): PyGWalker: Turn your pandas dataframe into an interactive UI for visual analysis
-- [magika](https://github.com/google/magika): Detect file content types with deep learning
-- [Chinese-LLaMA-Alpaca-2](https://github.com/ymcui/Chinese-LLaMA-Alpaca-2): 中文LLaMA-2 & Alpaca-2大模型二期项目 + 64K超长上下文模型 (Chinese LLaMA-2 & Alpaca-2 LLMs with 64K long context models)
-- [Bert-VITS2](https://github.com/fishaudio/Bert-VITS2): vits2 backbone with multilingual-bert
 - [aidea](https://github.com/mylxsw/aidea): AIdea 是一款支持 GPT  以及国产大语言模型通义千问、文心一言等，支持 Stable Diffusion 文生图、图生图、 SDXL1.0、超分辨率、图片上色的全能型 APP。
 - [freegpt-webui](https://github.com/ramonvc/freegpt-webui): GPT 3.5/4 with a Chat Web UI. No API key required.
-- [ChatGPT-Midjourney](https://github.com/Licoy/ChatGPT-Midjourney): 🍭 一键拥有你自己的 ChatGPT+Midjourney 网页服务 | Own your own ChatGPT+Midjourney web service with one click
-- [litellm](https://github.com/BerriAI/litellm): Call all LLM APIs using the OpenAI format. Use Bedrock, Azure, OpenAI, Cohere, Anthropic, Ollama, Sagemaker, HuggingFace, Replicate (100+ LLMs)
-- [Mindmap](https://github.com/Ignitetechnologies/Mindmap): This repository will contain many mindmaps for cyber security technologies, methodologies, courses, and certifications in a tree structure to give brief details about them
 - [try](https://github.com/binpash/try): Inspect a command's effects before modifying your live system
-- [crab](https://github.com/crablang/crab): A community fork of a language named after a plant fungus. All of the memory-safe features you love, now with 100% less bureaucracy! 
-- [Inpaint-Anything](https://github.com/geekyutao/Inpaint-Anything): Inpaint anything using Segment Anything and inpainting models.
-- [Voyager](https://github.com/MineDojo/Voyager): An Open-Ended Embodied Agent with Large Language Models
-- [marvin](https://github.com/PrefectHQ/marvin): ✨ Build AI interfaces that spark joy
-- [VITS-fast-fine-tuning](https://github.com/Plachtaa/VITS-fast-fine-tuning): This repo is a pipeline of VITS finetuning for fast speaker adaptation TTS, and many-to-many voice conversion
-- [vaul](https://github.com/emilkowalski/vaul): An unstyled drawer component for React.
-- [node-chatgpt-api](https://github.com/waylaidwanderer/node-chatgpt-api): A client implementation for ChatGPT and Bing AI. Available as a Node.js module, REST API server, and CLI app.
 - [openmoonray](https://github.com/dreamworksanimation/openmoonray): MoonRay is DreamWorks’ open-source, award-winning, state-of-the-art production MCRT renderer.
 - [turbopilot](https://github.com/ravenscroftj/turbopilot): Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU
+- [InternGPT](https://github.com/OpenGVLab/InternGPT): InternGPT (iGPT) is an open source demo platform where you can easily showcase your AI models. Now it supports DragGAN, ChatGPT, ImageBind, multimodal chat like GPT-4, SAM, interactive image editing, etc. Try it at igpt.opengvlab.com (支持DragGAN、ChatGPT、ImageBind、SAM的在线Demo系统)
+- [Degrees-of-Lewdity-Chinese-Localization](https://github.com/Eltirosto/Degrees-of-Lewdity-Chinese-Localization): Degrees of Lewdity 游戏的授权中文社区本地化版本
+- [mini-agi](https://github.com/muellerberndt/mini-agi): MiniAGI is a simple general-purpose autonomous agent based on the OpenAI API.
+- [speechgpt](https://github.com/hahahumble/speechgpt): 💬 SpeechGPT is a web application that enables you to converse with ChatGPT.
+- [MallChat](https://github.com/zongzibinbin/MallChat): mallchat的后端项目，是一个既能购物又能聊天的电商系统。以互联网企业级开发规范的要求来实现它，电商该有的购物车，订单，支付，推荐，搜索，拉新，促活，推送，物流，客服，它都必须有。持续更新ing。。（点个star，不迷路）
+- [StarRailAssistant](https://github.com/Starry-Wind/StarRailAssistant): 崩坏：星穹铁道自动化 | 崩坏：星穹铁道自动锄大地 | 崩坏：星穹铁道锄大地 | 自动锄大地 | 基于模拟按键
+- [Chinese-LangChain](https://github.com/yanqiangmiffy/Chinese-LangChain): 中文langchain项目|小必应，Q.Talk，强聊，QiangTalk
+- [heshijun_v_360](https://github.com/hax/heshijun_v_360): 贺师俊与360的劳动争议诉讼
+- [Auto-GPT-ZH](https://github.com/kaqijiang/Auto-GPT-ZH): Auto-GPT中文版本及爱好者组织 同步更新原项目 AI领域创业 自媒体组织 用AI工作学习创作变现
+- [Free-Auto-GPT](https://github.com/IntelligenzaArtificiale/Free-Auto-GPT): Free Auto GPT with NO paids API is a repository that offers a simple version of Auto GPT, an autonomous AI agent capable of performing tasks independently. Unlike other versions, our implementation does not rely on any paid OpenAI API, making it accessible to anyone. 
+- [chain-of-thought-hub](https://github.com/FranxYao/chain-of-thought-hub): Benchmarking large language models' complex reasoning ability with chain-of-thought prompting
+- [DragGAN](https://github.com/JiauZhang/DragGAN): Implementation of DragGAN: Interactive Point-based Manipulation on the Generative Image Manifold
+- [TigerBot](https://github.com/TigerResearch/TigerBot): TigerBot: A multi-language multi-task LLM
+- [simple-llm-finetuner](https://github.com/lxe/simple-llm-finetuner): Simple UI for LLM Model Finetuning
+- [PhySO](https://github.com/WassimTenachi/PhySO): Physical Symbolic Optimization
+- [pinduoduo_backdoor_detailed_report](https://github.com/davincifans101/pinduoduo_backdoor_detailed_report): Maybe the most detailed analysis of pdd  backdoors
+- [awesome-intelligence](https://github.com/ARPSyndicate/awesome-intelligence): A collaboratively curated list of awesome Open-Source Intelligence (OSINT) Resources
+- [threads-api](https://github.com/junhoyeo/threads-api): Unofficial, Reverse-Engineered Node.js/TypeScript client for Meta's Threads. Web UI Included.
+- [GPTeacher](https://github.com/teknium1/GPTeacher): A collection of modular datasets generated by GPT-4, General-Instruct - Roleplay-Instruct - Code-Instruct - and Toolformer
+- [chatglm_finetuning](https://github.com/ssbuild/chatglm_finetuning): chatglm 6b finetuning and alpaca finetuning
+- [chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension): Chrome extension to view ChatGPT summaries alongside Google search results and YouTube videos, also supports Yahoo! ニュース、PubMed、PMC、NewsPicks、Github、Nikkei、 Bing、Google Patents, and any page summary.
+- [fp-go](https://github.com/IBM/fp-go): functional programming library for golang
+- [state-of-open-source-ai](https://github.com/premAI-io/state-of-open-source-ai): :closed_book: Clarity in the current fast-paced mess of Open Source innovation
+- [CodeTF](https://github.com/salesforce/CodeTF): CodeTF: One-stop Transformer Library for State-of-the-art Code LLM
+- [SparK](https://github.com/keyu-tian/SparK): [ICLR'23 Spotlight🔥] The first successful BERT/MAE-style pretraining on any convolutional network; Pytorch impl. of "Designing BERT for Convolutional Networks: Sparse and Hierarchical Masked Modeling"
