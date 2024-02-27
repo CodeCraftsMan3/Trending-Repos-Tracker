@@ -1,32 +1,32 @@
 # Trending Repositories
 
-- [gpt4all](https://github.com/nomic-ai/gpt4all): gpt4all: run open-source LLMs anywhere
-- [the-algorithm](https://github.com/twitter/the-algorithm): Source code for Twitter's Recommendation Algorithm
-- [gpt4free](https://github.com/xtekky/gpt4free): The official gpt4free repository | various collection of powerful language models
-- [gpt_academic](https://github.com/binary-husky/gpt_academic): 为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss等。
-- [gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer): Specify what you want it to build, the AI asks for clarification, and then builds it.
-- [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B): ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型
-- [Fooocus](https://github.com/lllyasviel/Fooocus): Focus on prompting and generating
-- [GPTs](https://github.com/linexjlin/GPTs): leaked prompts of GPTs
-- [WeChatMsg](https://github.com/LC044/WeChatMsg): 提取微信聊天记录，将其导出成HTML、Word、CSV文档永久保存，对聊天记录进行分析生成年度聊天报告
-- [autogen](https://github.com/microsoft/autogen): Enable Next-Gen Large Language Model Applications. Join our Discord: https://discord.gg/pAbnFJrkgZ
-- [gpt-pilot](https://github.com/Pythagora-io/gpt-pilot): Dev tool that writes scalable apps from scratch while the developer oversees the implementation
-- [Flowise](https://github.com/FlowiseAI/Flowise): Drag & drop UI to build your customized LLM flow
-- [generative-models](https://github.com/Stability-AI/generative-models): Generative Models by Stability AI
-- [audiocraft](https://github.com/facebookresearch/audiocraft): Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning.
-- [my-tv](https://github.com/lizongying/my-tv): 我的电视 电视直播软件，安装即可使用
-- [babyagi](https://github.com/yoheinakajima/babyagi): None
-- [opentofu](https://github.com/opentofu/opentofu): OpenTofu lets you declaratively manage your cloud infrastructure.
-- [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF): locally hosted web application that allows you to perform various operations on PDF files
-- [chatbox](https://github.com/Bin-Huang/chatbox): Chatbox is a desktop client for ChatGPT, Claude and other LLMs, available on Windows, Mac, Linux
-- [mojo](https://github.com/modularml/mojo): The Mojo Programming Language
-- [ChatPaper](https://github.com/kaixindelele/ChatPaper): Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文全文总结+专业翻译+润色+审稿+审稿回复
-- [tabby](https://github.com/TabbyML/tabby): Self-hosted AI coding assistant
-- [sd-webui-controlnet](https://github.com/Mikubill/sd-webui-controlnet): WebUI extension for ControlNet
-- [langflow](https://github.com/logspace-ai/langflow): ⛓️ Langflow is a dynamic graph where each node is an executable unit. Its modular and interactive design fosters rapid experimentation and prototyping, pushing hard on the limits of creativity.
-- [LLaVA](https://github.com/haotian-liu/LLaVA): [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
-- [codellama](https://github.com/facebookresearch/codellama): Inference code for CodeLlama models
-- [evals](https://github.com/openai/evals): Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.
-- [dalai](https://github.com/cocktailpeanut/dalai): The simplest way to run LLaMA on your local machine
-- [mlx](https://github.com/ml-explore/mlx): MLX: An array framework for Apple silicon
-- [facefusion](https://github.com/facefusion/facefusion): Next generation face swapper and enhancer
+- [ChatALL](https://github.com/sunner/ChatALL):  Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
+- [copilot-gpt4-service](https://github.com/aaamoon/copilot-gpt4-service): Convert Github Copilot to ChatGPT
+- [LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide): A curated list of practical guide resources of LLMs (LLMs Tree, Examples, Papers)
+- [inshellisense](https://github.com/microsoft/inshellisense): IDE style command line auto complete
+- [gpt-researcher](https://github.com/assafelovic/gpt-researcher): GPT based autonomous agent that does online comprehensive research on any given topic
+- [open_llama](https://github.com/openlm-research/open_llama): OpenLLaMA, a permissively licensed open source reproduction of Meta AI’s LLaMA 7B trained on the RedPajama dataset
+- [langchain-tutorials](https://github.com/gkamradt/langchain-tutorials): Overview and tutorial of the LangChain Library
+- [consistency_models](https://github.com/openai/consistency_models): Official repo for consistency models.
+- [pinduoduo_backdoor](https://github.com/davinci1010/pinduoduo_backdoor): 拼多多apk内嵌提权代码，及动态下发dex分析
+- [chainlit](https://github.com/Chainlit/chainlit): Build Conversational AI in minutes ⚡️
+- [BibiGPT-v1](https://github.com/JimmyLv/BibiGPT-v1): BibiGPT v1 · one-Click AI Summary for Audio/Video & Chat with Learning Content: Bilibili | YouTube | Tweet丨TikTok丨Dropbox丨Google Drive丨Local files | Websites丨Podcasts | Meetings | Lectures, etc. 音视频内容 AI 一键总结 & 对话：哔哩哔哩丨YouTube丨推特丨小红书丨抖音丨快手丨百度网盘丨阿里云盘丨网页丨播客丨会议丨本地文件等 (原 BiliGPT 省流神器 & AI课代表)
+- [openchat](https://github.com/imoneoi/openchat): OpenChat: Advancing Open-source Language Models with Imperfect Data
+- [awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt): 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
+- [CogVLM](https://github.com/THUDM/CogVLM): a state-of-the-art-level open visual language model | 多模态预训练模型
+- [superagent](https://github.com/homanp/superagent): 🥷 The Open Source AI Assistant Framework & API
+- [Doctor-Dignity](https://github.com/llSourcell/Doctor-Dignity): Doctor Dignity is an LLM that can pass the US Medical Licensing Exam. It works offline, it's cross-platform, & your health data stays private.
+- [ChatGLM-Tuning](https://github.com/mymusise/ChatGLM-Tuning): 基于ChatGLM-6B + LoRA的Fintune方案
+- [paper-qa](https://github.com/whitead/paper-qa): LLM Chain for answering questions from documents with citations
+- [CopilotKit](https://github.com/CopilotKit/CopilotKit): AI Copilot infrastructure for React apps 🤖 AI-powered Textareas, in-app AI chatbots (with context-awareness & actions), LangChain support, and more! 
+- [h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio): H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://h2oai.github.io/h2o-llmstudio/
+- [InternGPT](https://github.com/OpenGVLab/InternGPT): InternGPT (iGPT) is an open source demo platform where you can easily showcase your AI models. Now it supports DragGAN, ChatGPT, ImageBind, multimodal chat like GPT-4, SAM, interactive image editing, etc. Try it at igpt.opengvlab.com (支持DragGAN、ChatGPT、ImageBind、SAM的在线Demo系统)
+- [Linly](https://github.com/CVI-SZU/Linly): Chinese-LLaMA 1&2、Chinese-Falcon 基础模型；ChatFlow中文对话模型；中文OpenLLaMA模型；NLP预训练/指令微调数据集
+- [Live](https://github.com/YueChan/Live): 收集于互联网的一些高清直播源。
+- [AutoGPT-Next-Web](https://github.com/ConnectAI-E/AutoGPT-Next-Web): 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用
+- [Remembering-Haoel](https://github.com/megaease/Remembering-Haoel): 记录您对左耳朵耗子（陈皓）的点滴回忆
+- [XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader): 小红书链接提取/作品采集工具：提取账号发布、收藏、点赞作品链接；提取搜索结果作品、用户链接；采集小红书作品信息；提取小红书作品下载地址；下载小红书无水印作品文件！
+- [melt-ui](https://github.com/melt-ui/melt-ui): A set of headless, accessible component builders for Svelte.
+- [gerev](https://github.com/GerevAI/gerev): 🧠 AI-powered enterprise search engine 🔎
+- [gptlink](https://github.com/gptlink/gptlink): 10分钟搭建可免费商用的AI对话环境，搭建简单，包含用户，订单，任务，付费等功能
+- [poe-api](https://github.com/ading2210/poe-api): [UNMAINTAINED] A reverse engineered Python API wrapper for Quora's Poe, which provides free access to ChatGPT, GPT-4, and Claude.
