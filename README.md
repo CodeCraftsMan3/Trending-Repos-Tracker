@@ -1,32 +1,32 @@
 # Trending Repositories
 
-- [ChatALL](https://github.com/sunner/ChatALL):  Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
-- [copilot-gpt4-service](https://github.com/aaamoon/copilot-gpt4-service): Convert Github Copilot to ChatGPT
-- [LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide): A curated list of practical guide resources of LLMs (LLMs Tree, Examples, Papers)
-- [inshellisense](https://github.com/microsoft/inshellisense): IDE style command line auto complete
-- [gpt-researcher](https://github.com/assafelovic/gpt-researcher): GPT based autonomous agent that does online comprehensive research on any given topic
-- [open_llama](https://github.com/openlm-research/open_llama): OpenLLaMA, a permissively licensed open source reproduction of Meta AI’s LLaMA 7B trained on the RedPajama dataset
-- [langchain-tutorials](https://github.com/gkamradt/langchain-tutorials): Overview and tutorial of the LangChain Library
-- [consistency_models](https://github.com/openai/consistency_models): Official repo for consistency models.
-- [pinduoduo_backdoor](https://github.com/davinci1010/pinduoduo_backdoor): 拼多多apk内嵌提权代码，及动态下发dex分析
-- [chainlit](https://github.com/Chainlit/chainlit): Build Conversational AI in minutes ⚡️
-- [BibiGPT-v1](https://github.com/JimmyLv/BibiGPT-v1): BibiGPT v1 · one-Click AI Summary for Audio/Video & Chat with Learning Content: Bilibili | YouTube | Tweet丨TikTok丨Dropbox丨Google Drive丨Local files | Websites丨Podcasts | Meetings | Lectures, etc. 音视频内容 AI 一键总结 & 对话：哔哩哔哩丨YouTube丨推特丨小红书丨抖音丨快手丨百度网盘丨阿里云盘丨网页丨播客丨会议丨本地文件等 (原 BiliGPT 省流神器 & AI课代表)
-- [openchat](https://github.com/imoneoi/openchat): OpenChat: Advancing Open-source Language Models with Imperfect Data
-- [awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt): 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
-- [CogVLM](https://github.com/THUDM/CogVLM): a state-of-the-art-level open visual language model | 多模态预训练模型
-- [superagent](https://github.com/homanp/superagent): 🥷 The Open Source AI Assistant Framework & API
-- [Doctor-Dignity](https://github.com/llSourcell/Doctor-Dignity): Doctor Dignity is an LLM that can pass the US Medical Licensing Exam. It works offline, it's cross-platform, & your health data stays private.
-- [ChatGLM-Tuning](https://github.com/mymusise/ChatGLM-Tuning): 基于ChatGLM-6B + LoRA的Fintune方案
-- [paper-qa](https://github.com/whitead/paper-qa): LLM Chain for answering questions from documents with citations
-- [CopilotKit](https://github.com/CopilotKit/CopilotKit): AI Copilot infrastructure for React apps 🤖 AI-powered Textareas, in-app AI chatbots (with context-awareness & actions), LangChain support, and more! 
-- [h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio): H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://h2oai.github.io/h2o-llmstudio/
-- [InternGPT](https://github.com/OpenGVLab/InternGPT): InternGPT (iGPT) is an open source demo platform where you can easily showcase your AI models. Now it supports DragGAN, ChatGPT, ImageBind, multimodal chat like GPT-4, SAM, interactive image editing, etc. Try it at igpt.opengvlab.com (支持DragGAN、ChatGPT、ImageBind、SAM的在线Demo系统)
-- [Linly](https://github.com/CVI-SZU/Linly): Chinese-LLaMA 1&2、Chinese-Falcon 基础模型；ChatFlow中文对话模型；中文OpenLLaMA模型；NLP预训练/指令微调数据集
-- [Live](https://github.com/YueChan/Live): 收集于互联网的一些高清直播源。
-- [AutoGPT-Next-Web](https://github.com/ConnectAI-E/AutoGPT-Next-Web): 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用
-- [Remembering-Haoel](https://github.com/megaease/Remembering-Haoel): 记录您对左耳朵耗子（陈皓）的点滴回忆
-- [XHS-Downloader](https://github.com/JoeanAmier/XHS-Downloader): 小红书链接提取/作品采集工具：提取账号发布、收藏、点赞作品链接；提取搜索结果作品、用户链接；采集小红书作品信息；提取小红书作品下载地址；下载小红书无水印作品文件！
-- [melt-ui](https://github.com/melt-ui/melt-ui): A set of headless, accessible component builders for Svelte.
-- [gerev](https://github.com/GerevAI/gerev): 🧠 AI-powered enterprise search engine 🔎
-- [gptlink](https://github.com/gptlink/gptlink): 10分钟搭建可免费商用的AI对话环境，搭建简单，包含用户，订单，任务，付费等功能
-- [poe-api](https://github.com/ading2210/poe-api): [UNMAINTAINED] A reverse engineered Python API wrapper for Quora's Poe, which provides free access to ChatGPT, GPT-4, and Claude.
+- [system-design-101](https://github.com/ByteByteGoHq/system-design-101): Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.
+- [quivr](https://github.com/QuivrHQ/quivr): Your GenAI Second Brain 🧠  A personal productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic, VertexAI, Ollama, LLMs, that you can share with users !  Local & Private alternative to OpenAI GPTs & ChatGPT powered by retrieval-augmented generation.
+- [MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4): Open-sourced codes for MiniGPT-4 and MiniGPT-v2 (https://minigpt-4.github.io, https://minigpt-v2.github.io/)
+- [generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners): 18 Lessons, Get Started Building with Generative AI  🔗 https://microsoft.github.io/generative-ai-for-beginners/
+- [tuning_playbook](https://github.com/google-research/tuning_playbook): A playbook for systematically maximizing the performance of deep learning models.
+- [roop](https://github.com/s0md3v/roop): one-click face swap
+- [generative_agents](https://github.com/joonspk-research/generative_agents): Generative Agents: Interactive Simulacra of Human Behavior
+- [llama2.c](https://github.com/karpathy/llama2.c): Inference Llama 2 in one file of pure C
+- [carbonyl](https://github.com/fathyb/carbonyl): Chromium running inside your terminal
+- [DocsGPT](https://github.com/arc53/DocsGPT): GPT-powered chat for documentation, chat with your documents
+- [candle](https://github.com/huggingface/candle): Minimalist ML framework for Rust
+- [dolly](https://github.com/databrickslabs/dolly): Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform
+- [novel](https://github.com/steven-tey/novel): Notion-style WYSIWYG editor with AI-powered autocompletion.
+- [DB-GPT](https://github.com/eosphoros-ai/DB-GPT): AI Native Data App Development framework with AWEL(Agentic Workflow Expression Language) and Agents
+- [the-algorithm-ml](https://github.com/twitter/the-algorithm-ml): Source code for Twitter's Recommendation Algorithm
+- [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev): Continuation of Clash Verge - A Clash Meta GUI based on Tauri (Windows, MacOS, Linux)
+- [roomGPT](https://github.com/Nutlope/roomGPT): Upload a photo of your room to generate your dream room with AI.
+- [ChatRWKV](https://github.com/BlinkDL/ChatRWKV): ChatRWKV is like ChatGPT but powered by RWKV (100% RNN) language model, and open source.
+- [qlora](https://github.com/artidoro/qlora): QLoRA: Efficient Finetuning of Quantized LLMs
+- [go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai): 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。
+- [anything-llm](https://github.com/Mintplex-Labs/anything-llm): A multi-user ChatGPT for any LLMs and vector database. Unlimited documents, messages, and storage in one privacy-focused app. Now available as a desktop application!
+- [prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers): 面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版
+- [StableStudio](https://github.com/Stability-AI/StableStudio): Community interface for generative AI
+- [chatgpt-demo](https://github.com/anse-app/chatgpt-demo): Minimal web UI for ChatGPT. 
+- [mistral-src](https://github.com/mistralai/mistral-src): Reference implementation of Mistral AI 7B v0.1 model.
+- [tachyon](https://github.com/kroma-network/tachyon): Modular ZK(Zero Knowledge) backend accelerated by GPU
+- [shell_gpt](https://github.com/TheR1D/shell_gpt): A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.
+- [IF](https://github.com/deep-floyd/IF): None
+- [dinov2](https://github.com/facebookresearch/dinov2): PyTorch code and models for the DINOv2 self-supervised learning method.
+- [smallchat](https://github.com/antirez/smallchat): A minimal programming example for a chat server
