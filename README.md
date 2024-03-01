@@ -1,32 +1,32 @@
 # Trending Repositories
 
-- [ChatDev](https://github.com/OpenBMB/ChatDev): Create Customized Software using Natural Language Idea (through LLM-powered Multi-Agent Collaboration)
-- [ChatALL](https://github.com/sunner/ChatALL):  Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
-- [h2ogpt](https://github.com/h2oai/h2ogpt): Private Q&A and summarization of documents+images or chat with local GPT, 100% private, Apache 2.0. Supports Mixtral, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://codellama.h2o.ai/
-- [web-check](https://github.com/Lissy93/web-check): 🕵️‍♂️ All-in-one OSINT tool for analysing any website
-- [copilot-gpt4-service](https://github.com/aaamoon/copilot-gpt4-service): Convert Github Copilot to ChatGPT
-- [LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide): A curated list of practical guide resources of LLMs (LLMs Tree, Examples, Papers)
-- [inshellisense](https://github.com/microsoft/inshellisense): IDE style command line auto complete
-- [minbpe](https://github.com/karpathy/minbpe): Minimal, clean code for the Byte Pair Encoding (BPE) algorithm commonly used in LLM tokenization.
-- [gpt-researcher](https://github.com/assafelovic/gpt-researcher): GPT based autonomous agent that does online comprehensive research on any given topic
-- [open_llama](https://github.com/openlm-research/open_llama): OpenLLaMA, a permissively licensed open source reproduction of Meta AI’s LLaMA 7B trained on the RedPajama dataset
-- [marker](https://github.com/VikParuchuri/marker): Convert PDF to markdown quickly with high accuracy
-- [LWM](https://github.com/LargeWorldModel/LWM): None
-- [langchain-tutorials](https://github.com/gkamradt/langchain-tutorials): Overview and tutorial of the LangChain Library
-- [consistency_models](https://github.com/openai/consistency_models): Official repo for consistency models.
-- [pinduoduo_backdoor](https://github.com/davinci1010/pinduoduo_backdoor): 拼多多apk内嵌提权代码，及动态下发dex分析
-- [chainlit](https://github.com/Chainlit/chainlit): Build Conversational AI in minutes ⚡️
-- [BibiGPT-v1](https://github.com/JimmyLv/BibiGPT-v1): BibiGPT v1 · one-Click AI Summary for Audio/Video & Chat with Learning Content: Bilibili | YouTube | Tweet丨TikTok丨Dropbox丨Google Drive丨Local files | Websites丨Podcasts | Meetings | Lectures, etc. 音视频内容 AI 一键总结 & 对话：哔哩哔哩丨YouTube丨推特丨小红书丨抖音丨快手丨百度网盘丨阿里云盘丨网页丨播客丨会议丨本地文件等 (原 BiliGPT 省流神器 & AI课代表)
-- [openchat](https://github.com/imoneoi/openchat): OpenChat: Advancing Open-source Language Models with Imperfect Data
-- [law-cn-ai](https://github.com/lvwzhen/law-cn-ai): ⚖️ AI 法律助手
-- [awesome-chatgpt](https://github.com/sindresorhus/awesome-chatgpt): 🤖 Awesome list for ChatGPT — an artificial intelligence chatbot developed by OpenAI
-- [CogVLM](https://github.com/THUDM/CogVLM): a state-of-the-art-level open visual language model | 多模态预训练模型
-- [superagent](https://github.com/homanp/superagent): 🥷 The Open Source AI Assistant Framework & API
-- [Doctor-Dignity](https://github.com/llSourcell/Doctor-Dignity): Doctor Dignity is an LLM that can pass the US Medical Licensing Exam. It works offline, it's cross-platform, & your health data stays private.
-- [ChatGLM-Tuning](https://github.com/mymusise/ChatGLM-Tuning): 基于ChatGLM-6B + LoRA的Fintune方案
-- [CopilotKit](https://github.com/CopilotKit/CopilotKit): AI Copilot infrastructure for React apps 🤖 AI-powered Textareas, in-app AI chatbots (with context-awareness & actions), LangChain support, and more! 
-- [paper-qa](https://github.com/whitead/paper-qa): LLM Chain for answering questions from documents with citations
-- [h2o-llmstudio](https://github.com/h2oai/h2o-llmstudio): H2O LLM Studio - a framework and no-code GUI for fine-tuning LLMs. Documentation: https://h2oai.github.io/h2o-llmstudio/
-- [Linly](https://github.com/CVI-SZU/Linly): Chinese-LLaMA 1&2、Chinese-Falcon 基础模型；ChatFlow中文对话模型；中文OpenLLaMA模型；NLP预训练/指令微调数据集
-- [Live](https://github.com/YueChan/Live): 收集于互联网的一些高清直播源。
-- [big-AGI](https://github.com/enricoros/big-AGI): 💬 Personal AI application powered by GPT-4 and beyond, with AI personas, AGI functions, text-to-image, voice, response streaming, code highlighting and execution, PDF import, presets for developers, much more. Deploy and gift #big-AGI-energy! Using Next.js, React, Joy.
+- [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT): AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
+- [node](https://github.com/base-org/node): Everything required to run your own Base node
+- [gpt4all](https://github.com/nomic-ai/gpt4all): gpt4all: run open-source LLMs anywhere
+- [gpt4free](https://github.com/xtekky/gpt4free): The official gpt4free repository | various collection of powerful language models
+- [privateGPT](https://github.com/imartinez/privateGPT): Interact with your documents using the power of GPT, 100% privately, no data leaks
+- [ollama](https://github.com/ollama/ollama): Get up and running with Llama 2, Mistral, Gemma, and other large language models.
+- [open-interpreter](https://github.com/KillianLucas/open-interpreter): A natural language interface for computers
+- [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B): ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型
+- [manifesto](https://github.com/opentofu/manifesto): The OpenTF Manifesto expresses concern over HashiCorp's switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool's return to a truly open-source license.
+- [DragGAN](https://github.com/XingangPan/DragGAN): Official Code for DragGAN (SIGGRAPH 2023)
+- [Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor): A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.
+- [JARVIS](https://github.com/microsoft/JARVIS): JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf
+- [gpt-pilot](https://github.com/Pythagora-io/gpt-pilot): Dev tool that writes scalable apps from scratch while the developer oversees the implementation
+- [Flowise](https://github.com/FlowiseAI/Flowise): Drag & drop UI to build your customized LLM flow
+- [cursor](https://github.com/getcursor/cursor): An AI-powered code editor based on VSCode 🤖
+- [my-tv](https://github.com/lizongying/my-tv): 我的电视 电视直播软件，安装即可使用
+- [babyagi](https://github.com/yoheinakajima/babyagi): None
+- [mojo](https://github.com/modularml/mojo): The Mojo Programming Language
+- [ChatPaper](https://github.com/kaixindelele/ChatPaper): Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文全文总结+专业翻译+润色+审稿+审稿回复
+- [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS): 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
+- [Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca): 中文LLaMA&Alpaca大语言模型+本地CPU/GPU训练部署 (Chinese LLaMA & Alpaca LLMs)
+- [mlc-llm](https://github.com/mlc-ai/mlc-llm): Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.
+- [StableLM](https://github.com/Stability-AI/StableLM): StableLM: Stability AI Language Models
+- [langflow](https://github.com/logspace-ai/langflow): ⛓️ Langflow is a dynamic graph where each node is an executable unit. Its modular and interactive design fosters rapid experimentation and prototyping, pushing hard on the limits of creativity.
+- [LLaVA](https://github.com/haotian-liu/LLaVA): [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
+- [ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT): GUI for ChatGPT API and many LLMs. Supports agents, file-based QA, GPT finetuning and query with web search. All with a neat UI.
+- [gkd](https://github.com/gkd-kit/gkd): 基于无障碍+高级选择器+订阅规则的自定义屏幕点击 Android APP | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
+- [AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone): Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation
+- [GPT_API_free](https://github.com/chatanywhere/GPT_API_free): Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（免费），ChatGPT国内可用免费转发API，直连无需代理。可以搭配ChatBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。
+- [mlx](https://github.com/ml-explore/mlx): MLX: An array framework for Apple silicon
