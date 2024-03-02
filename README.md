@@ -1,32 +1,32 @@
 # Trending Repositories
 
 - [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT): AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
-- [node](https://github.com/base-org/node): Everything required to run your own Base node
-- [gpt4all](https://github.com/nomic-ai/gpt4all): gpt4all: run open-source LLMs anywhere
-- [gpt4free](https://github.com/xtekky/gpt4free): The official gpt4free repository | various collection of powerful language models
-- [privateGPT](https://github.com/imartinez/privateGPT): Interact with your documents using the power of GPT, 100% privately, no data leaks
 - [ollama](https://github.com/ollama/ollama): Get up and running with Llama 2, Mistral, Gemma, and other large language models.
 - [open-interpreter](https://github.com/KillianLucas/open-interpreter): A natural language interface for computers
-- [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B): ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型
 - [manifesto](https://github.com/opentofu/manifesto): The OpenTF Manifesto expresses concern over HashiCorp's switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool's return to a truly open-source license.
 - [DragGAN](https://github.com/XingangPan/DragGAN): Official Code for DragGAN (SIGGRAPH 2023)
 - [Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor): A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.
-- [JARVIS](https://github.com/microsoft/JARVIS): JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf
-- [gpt-pilot](https://github.com/Pythagora-io/gpt-pilot): Dev tool that writes scalable apps from scratch while the developer oversees the implementation
 - [Flowise](https://github.com/FlowiseAI/Flowise): Drag & drop UI to build your customized LLM flow
-- [cursor](https://github.com/getcursor/cursor): An AI-powered code editor based on VSCode 🤖
-- [my-tv](https://github.com/lizongying/my-tv): 我的电视 电视直播软件，安装即可使用
-- [babyagi](https://github.com/yoheinakajima/babyagi): None
 - [mojo](https://github.com/modularml/mojo): The Mojo Programming Language
 - [ChatPaper](https://github.com/kaixindelele/ChatPaper): Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文全文总结+专业翻译+润色+审稿+审稿回复
-- [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS): 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
-- [Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca): 中文LLaMA&Alpaca大语言模型+本地CPU/GPU训练部署 (Chinese LLaMA & Alpaca LLMs)
 - [mlc-llm](https://github.com/mlc-ai/mlc-llm): Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.
 - [StableLM](https://github.com/Stability-AI/StableLM): StableLM: Stability AI Language Models
 - [langflow](https://github.com/logspace-ai/langflow): ⛓️ Langflow is a dynamic graph where each node is an executable unit. Its modular and interactive design fosters rapid experimentation and prototyping, pushing hard on the limits of creativity.
 - [LLaVA](https://github.com/haotian-liu/LLaVA): [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
 - [ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT): GUI for ChatGPT API and many LLMs. Supports agents, file-based QA, GPT finetuning and query with web search. All with a neat UI.
 - [gkd](https://github.com/gkd-kit/gkd): 基于无障碍+高级选择器+订阅规则的自定义屏幕点击 Android APP | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
-- [AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone): Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation
-- [GPT_API_free](https://github.com/chatanywhere/GPT_API_free): Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（免费），ChatGPT国内可用免费转发API，直连无需代理。可以搭配ChatBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。
-- [mlx](https://github.com/ml-explore/mlx): MLX: An array framework for Apple silicon
+- [llama-gpt](https://github.com/getumbrel/llama-gpt): A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support!
+- [OpenChatKit](https://github.com/togethercomputer/OpenChatKit): None
+- [uv](https://github.com/astral-sh/uv): An extremely fast Python package installer and resolver, written in Rust.
+- [prompt-engineering](https://github.com/brexhq/prompt-engineering): Tips and tricks for working with Large Language Models like OpenAI's GPT-4.
+- [nougat](https://github.com/facebookresearch/nougat): Implementation of Nougat Neural Optical Understanding for Academic Documents
+- [llama-recipes](https://github.com/facebookresearch/llama-recipes): Scripts for fine-tuning Llama2 with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization & question answering. Supporting a number of candid inference solutions such as HF TGI, VLLM for local or cloud deployment.Demo apps to showcase Llama2 for WhatsApp & Messenger
+- [promptflow](https://github.com/microsoft/promptflow): Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.
+- [PowerInfer](https://github.com/SJTU-IPADS/PowerInfer): High-speed Large Language Model Serving on PCs with Consumer-grade GPUs
+- [CodeGeeX2](https://github.com/THUDM/CodeGeeX2): CodeGeeX2: A More Powerful Multilingual Code Generation Model
+- [search_with_lepton](https://github.com/leptonai/search_with_lepton): Building a quick conversation-based search demo with Lepton AI.
+- [TinyLlama](https://github.com/jzhang38/TinyLlama): The TinyLlama project is an open endeavor to pretrain a 1.1B Llama model on 3 trillion tokens.
+- [ChatLaw](https://github.com/PKU-YuanGroup/ChatLaw): 中文法律大模型
+- [openplayground](https://github.com/nat/openplayground): An LLM playground you can run on your laptop
+- [instruct-pix2pix](https://github.com/timothybrooks/instruct-pix2pix): None
+- [OpenGFW](https://github.com/apernet/OpenGFW): OpenGFW is a flexible, easy-to-use, open source implementation of GFW (Great Firewall of China) on Linux
