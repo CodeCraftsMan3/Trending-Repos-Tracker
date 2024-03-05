@@ -1,32 +1,32 @@
 # Trending Repositories
 
-- [ui](https://github.com/shadcn-ui/ui): Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
-- [MetaGPT](https://github.com/geekan/MetaGPT): 🌟 The Multi-Agent Framework: Given one line Requirement, return PRD, Design, Tasks, Repo
 - [TaskMatrix](https://github.com/moymix/TaskMatrix): None
 - [stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca): Code and documentation to train Stanford's Alpaca models, and generate the data.
-- [openai-translator](https://github.com/openai-translator/openai-translator): 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用    -    Browser extension and cross-platform desktop application for translation based on ChatGPT API.
 - [alpaca-lora](https://github.com/tloen/alpaca-lora): Instruct-tune LLaMA on consumer hardware
-- [dify](https://github.com/langgenius/dify): An Open-Source Assistants API and GPTs alternative. Dify.AI is an LLM application development platform. It integrates the concepts of Backend as a Service and LLMOps, covering the core tech stack required for building generative AI-native applications, including a built-in RAG engine.
-- [ChatGLM2-6B](https://github.com/THUDM/ChatGLM2-6B): ChatGLM2-6B: An Open Bilingual Chat LLM | 开源双语对话语言模型
 - [gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain): GPT4 & LangChain Chatbot for large PDF docs
-- [carbonyl](https://github.com/fathyb/carbonyl): Chromium running inside your terminal
-- [DocsGPT](https://github.com/arc53/DocsGPT): GPT-powered chat for documentation, chat with your documents
 - [Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch): ISG lets you use YouTube as cloud storage for ANY files, not just video
-- [one-api](https://github.com/songquanpeng/one-api): OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2 & Gemini、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a single API for all LLMs, and features an English UI.
 - [python-mastery](https://github.com/dabeaz-course/python-mastery): Advanced Python Mastery (course by @dabeaz)
-- [llamafile](https://github.com/Mozilla-Ocho/llamafile): Distribute and run LLMs with a single file.
-- [roomGPT](https://github.com/Nutlope/roomGPT): Upload a photo of your room to generate your dream room with AI.
 - [chathub](https://github.com/chathub-dev/chathub): All-in-one chatbot client
 - [Whisky](https://github.com/Whisky-App/Whisky): A modern Wine wrapper for macOS built with SwiftUI
-- [go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai): 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。
-- [tachyon](https://github.com/kroma-network/tachyon): Modular ZK(Zero Knowledge) backend accelerated by GPU
-- [open-webui](https://github.com/open-webui/open-webui): User-friendly WebUI for LLMs (Formerly Ollama WebUI)
-- [shell_gpt](https://github.com/TheR1D/shell_gpt): A command-line productivity tool powered by AI large language models like GPT-4, will help you accomplish your tasks faster and more efficiently.
-- [TypeChat](https://github.com/microsoft/TypeChat): TypeChat is a library that makes it easy to build natural language interfaces using types.
-- [dinov2](https://github.com/facebookresearch/dinov2): PyTorch code and models for the DINOv2 self-supervised learning method.
-- [XAgent](https://github.com/OpenBMB/XAgent): An Autonomous LLM Agent for Complex Task Solving
-- [smallchat](https://github.com/antirez/smallchat): A minimal programming example for a chat server
-- [VALL-E-X](https://github.com/Plachtaa/VALL-E-X): An open source implementation of Microsoft's VALL-E X zero-shot TTS model. Demo is available in https://plachtaa.github.io
 - [ai-collection](https://github.com/ai-collection/ai-collection): The Generative AI Landscape - A Collection of Awesome Generative AI Applications
-- [yolov9](https://github.com/WongKinYiu/yolov9): Implementation of paper - YOLOv9: Learning What You Want to Learn Using Programmable Gradient Information
-- [google-indexing-script](https://github.com/goenning/google-indexing-script): Script to get your site indexed on Google in less than 48 hours
+- [aliyunpan](https://github.com/gaozhangmin/aliyunpan): 小白羊网盘 - Powered by 阿里云盘。
+- [spring-reading](https://github.com/xuchengsheng/spring-reading): 涵盖了 Spring 框架的核心概念和关键功能，包括控制反转（IOC）容器的使用，面向切面编程（AOP）的原理与实践，事务管理的方式与实现，Spring MVC 的流程与控制器工作机制，以及 Spring 中数据访问、安全、Boot 自动配置等方面的深入研究。此外，它还包含了 Spring 事件机制的应用、高级主题如缓存抽象和响应式编程，以及对 Spring 源码的编程风格与设计模式的深入探讨。
+- [neuralangelo](https://github.com/NVlabs/neuralangelo): Official implementation of "Neuralangelo: High-Fidelity Neural Surface Reconstruction" (CVPR 2023)
+- [whisper-jax](https://github.com/sanchit-gandhi/whisper-jax): JAX implementation of OpenAI's Whisper model for up to 70x speed-up on TPU.
+- [GPT-4-LLM](https://github.com/Instruction-Tuning-with-GPT-4/GPT-4-LLM): Instruction Tuning with GPT-4
+- [Auto-GPT-Plugins](https://github.com/Significant-Gravitas/Auto-GPT-Plugins): Plugins for Auto-GPT
+- [gateway](https://github.com/Portkey-AI/gateway): A Blazing Fast AI Gateway. Route to 100+ LLMs with 1 fast & friendly API.
+- [StyleTTS2](https://github.com/yl4579/StyleTTS2): StyleTTS 2: Towards Human-Level Text-to-Speech through Style Diffusion and Adversarial Training with Large Speech Language Models
+- [lora-scripts](https://github.com/Akegarasu/lora-scripts): LoRA & Dreambooth training scripts & GUI use kohya-ss's trainer, for diffusion model.
+- [hotscript](https://github.com/gvergnaud/hotscript): A library of composable functions for the type-level! Transform your TypeScript types in any way you want using functions you already know.
+- [starlight](https://github.com/withastro/starlight): 🌟 Build beautiful, accessible, high-performance documentation websites with Astro
+- [ChatGPTAPIFree](https://github.com/ayaka14732/ChatGPTAPIFree): A simple and open-source proxy API that allows you to access OpenAI's ChatGPT API for free!
+- [postgres_lsp](https://github.com/supabase/postgres_lsp): A Language Server for Postgres
+- [Folia](https://github.com/PaperMC/Folia): Fork of Paper which adds regionised multithreading to the dedicated server.
+- [computerraria](https://github.com/misprit7/computerraria): A fully compliant RISC-V computer made inside the game Terraria
+- [clickvote](https://github.com/github-20k/clickvote): Add upvotes, likes, and reviews to any context ⭐️
+- [ChatGPT_JCM](https://github.com/202252197/ChatGPT_JCM): OpenAI管理界面，聚合了OpenAI的所有接口进行界面操作(所有模型、图片、音频、微调、文件)等，支持Markdown格式(公式、图表，表格)等，后期会一点一点的将OpenAI接口进行接入大家支持一下，右上角点个Star，我会一直更新下去，大家一起学习，一起加油，一起努力，一起成长。
+- [PicaComic](https://github.com/wgh136/PicaComic): A comic app built with Flutter, supporting multiple comic sources.
+- [mergekit](https://github.com/arcee-ai/mergekit): Tools for merging pretrained large language models.
+- [python-web](https://github.com/mouredev/python-web): Curso para aprender desarrollo frontend Web con Python puro desde cero. Elaborado durante las emisiones en directo desde Twitch de MoureDev.
+- [mail-server](https://github.com/stalwartlabs/mail-server): Secure & Modern All-in-One Mail Server (IMAP, JMAP, SMTP)
