@@ -1,32 +1,32 @@
 # Trending Repositories
 
-- [TaskMatrix](https://github.com/moymix/TaskMatrix): None
-- [stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca): Code and documentation to train Stanford's Alpaca models, and generate the data.
-- [alpaca-lora](https://github.com/tloen/alpaca-lora): Instruct-tune LLaMA on consumer hardware
-- [gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain): GPT4 & LangChain Chatbot for large PDF docs
-- [Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch): ISG lets you use YouTube as cloud storage for ANY files, not just video
-- [python-mastery](https://github.com/dabeaz-course/python-mastery): Advanced Python Mastery (course by @dabeaz)
-- [chathub](https://github.com/chathub-dev/chathub): All-in-one chatbot client
-- [Whisky](https://github.com/Whisky-App/Whisky): A modern Wine wrapper for macOS built with SwiftUI
-- [ai-collection](https://github.com/ai-collection/ai-collection): The Generative AI Landscape - A Collection of Awesome Generative AI Applications
-- [aliyunpan](https://github.com/gaozhangmin/aliyunpan): 小白羊网盘 - Powered by 阿里云盘。
-- [spring-reading](https://github.com/xuchengsheng/spring-reading): 涵盖了 Spring 框架的核心概念和关键功能，包括控制反转（IOC）容器的使用，面向切面编程（AOP）的原理与实践，事务管理的方式与实现，Spring MVC 的流程与控制器工作机制，以及 Spring 中数据访问、安全、Boot 自动配置等方面的深入研究。此外，它还包含了 Spring 事件机制的应用、高级主题如缓存抽象和响应式编程，以及对 Spring 源码的编程风格与设计模式的深入探讨。
-- [neuralangelo](https://github.com/NVlabs/neuralangelo): Official implementation of "Neuralangelo: High-Fidelity Neural Surface Reconstruction" (CVPR 2023)
-- [whisper-jax](https://github.com/sanchit-gandhi/whisper-jax): JAX implementation of OpenAI's Whisper model for up to 70x speed-up on TPU.
-- [GPT-4-LLM](https://github.com/Instruction-Tuning-with-GPT-4/GPT-4-LLM): Instruction Tuning with GPT-4
-- [Auto-GPT-Plugins](https://github.com/Significant-Gravitas/Auto-GPT-Plugins): Plugins for Auto-GPT
-- [gateway](https://github.com/Portkey-AI/gateway): A Blazing Fast AI Gateway. Route to 100+ LLMs with 1 fast & friendly API.
-- [StyleTTS2](https://github.com/yl4579/StyleTTS2): StyleTTS 2: Towards Human-Level Text-to-Speech through Style Diffusion and Adversarial Training with Large Speech Language Models
-- [lora-scripts](https://github.com/Akegarasu/lora-scripts): LoRA & Dreambooth training scripts & GUI use kohya-ss's trainer, for diffusion model.
-- [hotscript](https://github.com/gvergnaud/hotscript): A library of composable functions for the type-level! Transform your TypeScript types in any way you want using functions you already know.
-- [starlight](https://github.com/withastro/starlight): 🌟 Build beautiful, accessible, high-performance documentation websites with Astro
-- [ChatGPTAPIFree](https://github.com/ayaka14732/ChatGPTAPIFree): A simple and open-source proxy API that allows you to access OpenAI's ChatGPT API for free!
-- [postgres_lsp](https://github.com/supabase/postgres_lsp): A Language Server for Postgres
-- [Folia](https://github.com/PaperMC/Folia): Fork of Paper which adds regionised multithreading to the dedicated server.
-- [computerraria](https://github.com/misprit7/computerraria): A fully compliant RISC-V computer made inside the game Terraria
-- [clickvote](https://github.com/github-20k/clickvote): Add upvotes, likes, and reviews to any context ⭐️
-- [ChatGPT_JCM](https://github.com/202252197/ChatGPT_JCM): OpenAI管理界面，聚合了OpenAI的所有接口进行界面操作(所有模型、图片、音频、微调、文件)等，支持Markdown格式(公式、图表，表格)等，后期会一点一点的将OpenAI接口进行接入大家支持一下，右上角点个Star，我会一直更新下去，大家一起学习，一起加油，一起努力，一起成长。
-- [PicaComic](https://github.com/wgh136/PicaComic): A comic app built with Flutter, supporting multiple comic sources.
-- [mergekit](https://github.com/arcee-ai/mergekit): Tools for merging pretrained large language models.
-- [python-web](https://github.com/mouredev/python-web): Curso para aprender desarrollo frontend Web con Python puro desde cero. Elaborado durante las emisiones en directo desde Twitch de MoureDev.
-- [mail-server](https://github.com/stalwartlabs/mail-server): Secure & Modern All-in-One Mail Server (IMAP, JMAP, SMTP)
+- [ComfyUI](https://github.com/comfyanonymous/ComfyUI): The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.
+- [Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat): Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM 等语言模型的本地知识库问答 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM) QA app with langchain 
+- [lobe-chat](https://github.com/lobehub/lobe-chat): 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Perplexity / Bedrock / Azure / Mistral / Ollama ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT chat application.
+- [semantic-kernel](https://github.com/microsoft/semantic-kernel): Integrate cutting-edge LLM technology quickly and easily into your apps
+- [monaspace](https://github.com/githubnext/monaspace): An innovative superfamily of fonts for code
+- [developer](https://github.com/smol-ai/developer): the first library to let you embed a developer agent in your own app!
+- [intel-one-mono](https://github.com/intel/intel-one-mono): Intel One Mono font repository
+- [gitbutler](https://github.com/gitbutlerapp/gitbutler): The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
+- [dspy](https://github.com/stanfordnlp/dspy): DSPy: The framework for programming—not prompting—foundation models
+- [Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models): :sparkles::sparkles:Latest Papers and Datasets on Multimodal Large Language Models, and Their Evaluation.
+- [ai](https://github.com/vercel/ai): Build AI-powered applications with React, Svelte, Vue, and Solid
+- [sonner](https://github.com/emilkowalski/sonner): An opinionated toast component for React.
+- [awesome-langchain](https://github.com/kyrolabs/awesome-langchain): 😎 Awesome list of tools and projects with the awesome LangChain framework
+- [DevOpsGPT](https://github.com/kuafuai/DevOpsGPT): Multi agent system for AI-driven software development. Combine LLM with DevOps tools to convert natural language requirements into working software. Supports any development language and extends the existing code.
+- [wenda](https://github.com/wenda-LLM/wenda): 闻达：一个LLM调用平台。目标为针对特定环境的高效内容生成，同时考虑个人和中小企业的计算资源局限性，以及知识安全和私密性问题
+- [EMO](https://github.com/HumanAIGC/EMO): None
+- [open-resume](https://github.com/xitanggg/open-resume): OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
+- [OpenChat](https://github.com/openchatai/OpenChat): LLMs custom-chatbots console ⚡
+- [gpt-fast](https://github.com/pytorch-labs/gpt-fast): Simple and efficient pytorch-native transformer text generation in <1000 LOC of python.
+- [promptbase](https://github.com/microsoft/promptbase): All things prompt engineering
+- [docuseal](https://github.com/docusealco/docuseal): Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
+- [multidiffusion-upscaler-for-automatic1111](https://github.com/pkuliyi2015/multidiffusion-upscaler-for-automatic1111): Tiled Diffusion and VAE optimize, licensed under CC BY-NC-SA 4.0
+- [llm-numbers](https://github.com/ray-project/llm-numbers): Numbers every LLM developer should know
+- [Sigma-Web-Dev-Course](https://github.com/CodeWithHarry/Sigma-Web-Dev-Course): Source Code for Sigma Web Development Course
+- [epic-stack](https://github.com/epicweb-dev/epic-stack): This is a Full Stack app starter with the foundational things setup and configured for you to hit the ground running on your next EPIC idea.
+- [pr-agent](https://github.com/Codium-ai/pr-agent): 🚀CodiumAI PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
+- [mm-cot](https://github.com/amazon-science/mm-cot): Official implementation for "Multimodal Chain-of-Thought Reasoning in Language Models" (stay tuned and more will be updated)
+- [lollms-webui](https://github.com/ParisNeo/lollms-webui): Lord of Large Language Models Web User Interface
+- [Luotuo-Chinese-LLM](https://github.com/LC1332/Luotuo-Chinese-LLM): 骆驼(Luotuo): Open Sourced Chinese Language Models. Developed by 陈启源 @ 华中师范大学 & 李鲁鲁 @ 商汤科技 & 冷子昂 @ 商汤科技
+- [NearDrop](https://github.com/grishka/NearDrop): An unofficial Google Nearby Share app for macOS
