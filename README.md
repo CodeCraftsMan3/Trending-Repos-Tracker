@@ -1,32 +1,32 @@
 # Trending Repositories
 
-- [ComfyUI](https://github.com/comfyanonymous/ComfyUI): The most powerful and modular stable diffusion GUI, api and backend with a graph/nodes interface.
-- [Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat): Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM 等语言模型的本地知识库问答 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM) QA app with langchain 
-- [lobe-chat](https://github.com/lobehub/lobe-chat): 🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Perplexity / Bedrock / Azure / Mistral / Ollama ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT chat application.
-- [semantic-kernel](https://github.com/microsoft/semantic-kernel): Integrate cutting-edge LLM technology quickly and easily into your apps
-- [monaspace](https://github.com/githubnext/monaspace): An innovative superfamily of fonts for code
-- [developer](https://github.com/smol-ai/developer): the first library to let you embed a developer agent in your own app!
-- [intel-one-mono](https://github.com/intel/intel-one-mono): Intel One Mono font repository
-- [gitbutler](https://github.com/gitbutlerapp/gitbutler): The GitButler version control client, backed by Git, powered by Tauri/Rust/Svelte
-- [dspy](https://github.com/stanfordnlp/dspy): DSPy: The framework for programming—not prompting—foundation models
-- [Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models): :sparkles::sparkles:Latest Papers and Datasets on Multimodal Large Language Models, and Their Evaluation.
-- [ai](https://github.com/vercel/ai): Build AI-powered applications with React, Svelte, Vue, and Solid
-- [sonner](https://github.com/emilkowalski/sonner): An opinionated toast component for React.
-- [awesome-langchain](https://github.com/kyrolabs/awesome-langchain): 😎 Awesome list of tools and projects with the awesome LangChain framework
-- [DevOpsGPT](https://github.com/kuafuai/DevOpsGPT): Multi agent system for AI-driven software development. Combine LLM with DevOps tools to convert natural language requirements into working software. Supports any development language and extends the existing code.
-- [wenda](https://github.com/wenda-LLM/wenda): 闻达：一个LLM调用平台。目标为针对特定环境的高效内容生成，同时考虑个人和中小企业的计算资源局限性，以及知识安全和私密性问题
-- [EMO](https://github.com/HumanAIGC/EMO): None
-- [open-resume](https://github.com/xitanggg/open-resume): OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
-- [OpenChat](https://github.com/openchatai/OpenChat): LLMs custom-chatbots console ⚡
-- [gpt-fast](https://github.com/pytorch-labs/gpt-fast): Simple and efficient pytorch-native transformer text generation in <1000 LOC of python.
-- [promptbase](https://github.com/microsoft/promptbase): All things prompt engineering
-- [docuseal](https://github.com/docusealco/docuseal): Open source DocuSign alternative. Create, fill, and sign digital documents ✍️
-- [multidiffusion-upscaler-for-automatic1111](https://github.com/pkuliyi2015/multidiffusion-upscaler-for-automatic1111): Tiled Diffusion and VAE optimize, licensed under CC BY-NC-SA 4.0
-- [llm-numbers](https://github.com/ray-project/llm-numbers): Numbers every LLM developer should know
-- [Sigma-Web-Dev-Course](https://github.com/CodeWithHarry/Sigma-Web-Dev-Course): Source Code for Sigma Web Development Course
-- [epic-stack](https://github.com/epicweb-dev/epic-stack): This is a Full Stack app starter with the foundational things setup and configured for you to hit the ground running on your next EPIC idea.
-- [pr-agent](https://github.com/Codium-ai/pr-agent): 🚀CodiumAI PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
-- [mm-cot](https://github.com/amazon-science/mm-cot): Official implementation for "Multimodal Chain-of-Thought Reasoning in Language Models" (stay tuned and more will be updated)
-- [lollms-webui](https://github.com/ParisNeo/lollms-webui): Lord of Large Language Models Web User Interface
-- [Luotuo-Chinese-LLM](https://github.com/LC1332/Luotuo-Chinese-LLM): 骆驼(Luotuo): Open Sourced Chinese Language Models. Developed by 陈启源 @ 华中师范大学 & 李鲁鲁 @ 商汤科技 & 冷子昂 @ 商汤科技
-- [NearDrop](https://github.com/grishka/NearDrop): An unofficial Google Nearby Share app for macOS
+- [Flowise](https://github.com/FlowiseAI/Flowise): Drag & drop UI to build your customized LLM flow
+- [mojo](https://github.com/modularml/mojo): The Mojo Programming Language
+- [ChatPaper](https://github.com/kaixindelele/ChatPaper): Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文全文总结+专业翻译+润色+审稿+审稿回复
+- [langflow](https://github.com/logspace-ai/langflow): ⛓️ Langflow is a dynamic graph where each node is an executable unit. Its modular and interactive design fosters rapid experimentation and prototyping, pushing hard on the limits of creativity.
+- [LLaVA](https://github.com/haotian-liu/LLaVA): [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
+- [AudioGPT](https://github.com/AIGC-Audio/AudioGPT): AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head
+- [BingGPT](https://github.com/dice2o/BingGPT): Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)
+- [uv](https://github.com/astral-sh/uv): An extremely fast Python package installer and resolver, written in Rust.
+- [prompt-engineering](https://github.com/brexhq/prompt-engineering): Tips and tricks for working with Large Language Models like OpenAI's GPT-4.
+- [promptflow](https://github.com/microsoft/promptflow): Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.
+- [PowerInfer](https://github.com/SJTU-IPADS/PowerInfer): High-speed Large Language Model Serving on PCs with Consumer-grade GPUs
+- [LangChain-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide): LangChain 的中文入门教程
+- [TinyLlama](https://github.com/jzhang38/TinyLlama): The TinyLlama project is an open endeavor to pretrain a 1.1B Llama model on 3 trillion tokens.
+- [openplayground](https://github.com/nat/openplayground): An LLM playground you can run on your laptop
+- [RealChar](https://github.com/Shaunwei/RealChar): 🎙️🤖Create, Customize and Talk to your AI Character/Companion in Realtime (All in One Codebase!). Have a natural seamless conversation with AI everywhere (mobile, web and terminal) using LLM OpenAI GPT3.5/4, Anthropic Claude2, Chroma Vector DB, Whisper Speech2Text, ElevenLabs Text2Speech🎙️🤖
+- [Baichuan-7B](https://github.com/baichuan-inc/Baichuan-7B): A large-scale 7B pretraining language model developed by BaiChuan-Inc.
+- [awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api): Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota.
+- [serge](https://github.com/serge-chat/serge): A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
+- [LLaMA-Adapter](https://github.com/OpenGVLab/LLaMA-Adapter): [ICLR 2024] Fine-tuning LLaMA to follow Instructions within 1 Hour and 1.2M Parameters
+- [background-removal-js](https://github.com/imgly/background-removal-js): Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns. Explore an interactive demo.
+- [gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer): None
+- [Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt): Free prompt engineering online course. ChatGPT and Midjourney tutorials are now included!
+- [90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity): This repository contains a 90-day cybersecurity study plan, along with resources and materials for learning various cybersecurity concepts and technologies. The plan is organized into daily tasks, covering topics such as Network+, Security+, Linux, Python, Traffic Analysis, Git, ELK, AWS, Azure, and Hacking. The repository also includes a `LEARN.md
+- [awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt): A list of totally open alternatives to ChatGPT
+- [TaskWeaver](https://github.com/microsoft/TaskWeaver): A code-first agent framework for seamlessly planning and executing data analytics tasks. 
+- [RedPajama-Data](https://github.com/togethercomputer/RedPajama-Data): The RedPajama-Data repository contains code for preparing large datasets for training large language models.
+- [Chinese-Vicuna](https://github.com/Facico/Chinese-Vicuna): Chinese-Vicuna: A Chinese Instruction-following LLaMA-based Model —— 一个中文低资源的llama+lora方案，结构参考alpaca
+- [BlenderGPT](https://github.com/gd3kr/BlenderGPT): Use commands in English to control Blender with OpenAI's GPT-4
+- [tree-of-thought-llm](https://github.com/princeton-nlp/tree-of-thought-llm): [NeurIPS 2023] Tree of Thoughts: Deliberate Problem Solving with Large Language Models
+- [ai-getting-started](https://github.com/a16z-infra/ai-getting-started): A Javascript AI getting started stack for weekend projects, including image/text models, vector stores, auth, and deployment configs
