@@ -1,32 +1,32 @@
 # Trending Repositories
 
+- [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT): AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
+- [ollama](https://github.com/ollama/ollama): Get up and running with Llama 2, Mistral, Gemma, and other large language models.
+- [open-interpreter](https://github.com/KillianLucas/open-interpreter): A natural language interface for computers
+- [manifesto](https://github.com/opentofu/manifesto): The OpenTF Manifesto expresses concern over HashiCorp's switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool's return to a truly open-source license.
+- [DragGAN](https://github.com/XingangPan/DragGAN): Official Code for DragGAN (SIGGRAPH 2023)
+- [Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor): A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.
 - [Flowise](https://github.com/FlowiseAI/Flowise): Drag & drop UI to build your customized LLM flow
+- [chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin): The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.
 - [mojo](https://github.com/modularml/mojo): The Mojo Programming Language
 - [ChatPaper](https://github.com/kaixindelele/ChatPaper): Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文全文总结+专业翻译+润色+审稿+审稿回复
+- [mlc-llm](https://github.com/mlc-ai/mlc-llm): Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.
+- [StableLM](https://github.com/Stability-AI/StableLM): StableLM: Stability AI Language Models
 - [langflow](https://github.com/logspace-ai/langflow): ⛓️ Langflow is a dynamic graph where each node is an executable unit. Its modular and interactive design fosters rapid experimentation and prototyping, pushing hard on the limits of creativity.
 - [LLaVA](https://github.com/haotian-liu/LLaVA): [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
-- [AudioGPT](https://github.com/AIGC-Audio/AudioGPT): AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head
-- [BingGPT](https://github.com/dice2o/BingGPT): Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)
+- [gkd](https://github.com/gkd-kit/gkd): 基于无障碍+高级选择器+订阅规则的自定义屏幕点击 Android APP | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
+- [ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT): GUI for ChatGPT API and many LLMs. Supports agents, file-based QA, GPT finetuning and query with web search. All with a neat UI.
+- [llama-gpt](https://github.com/getumbrel/llama-gpt): A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support!
+- [OpenChatKit](https://github.com/togethercomputer/OpenChatKit): None
+- [web-llm](https://github.com/mlc-ai/web-llm): Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.
 - [uv](https://github.com/astral-sh/uv): An extremely fast Python package installer and resolver, written in Rust.
+- [llama-recipes](https://github.com/facebookresearch/llama-recipes): Scripts for fine-tuning Llama2 with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization & question answering. Supporting a number of candid inference solutions such as HF TGI, VLLM for local or cloud deployment.Demo apps to showcase Llama2 for WhatsApp & Messenger
 - [prompt-engineering](https://github.com/brexhq/prompt-engineering): Tips and tricks for working with Large Language Models like OpenAI's GPT-4.
+- [nougat](https://github.com/facebookresearch/nougat): Implementation of Nougat Neural Optical Understanding for Academic Documents
 - [promptflow](https://github.com/microsoft/promptflow): Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.
+- [sweep](https://github.com/sweepai/sweep): Sweep: AI-powered Junior Developer for small features and bug fixes.
+- [yazi](https://github.com/sxyazi/yazi): 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [PowerInfer](https://github.com/SJTU-IPADS/PowerInfer): High-speed Large Language Model Serving on PCs with Consumer-grade GPUs
-- [LangChain-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide): LangChain 的中文入门教程
+- [CodeGeeX2](https://github.com/THUDM/CodeGeeX2): CodeGeeX2: A More Powerful Multilingual Code Generation Model
+- [search_with_lepton](https://github.com/leptonai/search_with_lepton): Building a quick conversation-based search demo with Lepton AI.
 - [TinyLlama](https://github.com/jzhang38/TinyLlama): The TinyLlama project is an open endeavor to pretrain a 1.1B Llama model on 3 trillion tokens.
-- [openplayground](https://github.com/nat/openplayground): An LLM playground you can run on your laptop
-- [RealChar](https://github.com/Shaunwei/RealChar): 🎙️🤖Create, Customize and Talk to your AI Character/Companion in Realtime (All in One Codebase!). Have a natural seamless conversation with AI everywhere (mobile, web and terminal) using LLM OpenAI GPT3.5/4, Anthropic Claude2, Chroma Vector DB, Whisper Speech2Text, ElevenLabs Text2Speech🎙️🤖
-- [Baichuan-7B](https://github.com/baichuan-inc/Baichuan-7B): A large-scale 7B pretraining language model developed by BaiChuan-Inc.
-- [awesome-chatgpt-api](https://github.com/reorx/awesome-chatgpt-api): Curated list of apps and tools that not only use the new ChatGPT API, but also allow users to configure their own API keys, enabling free and on-demand usage of their own quota.
-- [serge](https://github.com/serge-chat/serge): A web interface for chatting with Alpaca through llama.cpp. Fully dockerized, with an easy to use API.
-- [LLaMA-Adapter](https://github.com/OpenGVLab/LLaMA-Adapter): [ICLR 2024] Fine-tuning LLaMA to follow Instructions within 1 Hour and 1.2M Parameters
-- [background-removal-js](https://github.com/imgly/background-removal-js): Remove backgrounds from images directly in the browser environment with ease and no additional costs or privacy concerns. Explore an interactive demo.
-- [gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer): None
-- [Learning-Prompt](https://github.com/thinkingjimmy/Learning-Prompt): Free prompt engineering online course. ChatGPT and Midjourney tutorials are now included!
-- [90DaysOfCyberSecurity](https://github.com/farhanashrafdev/90DaysOfCyberSecurity): This repository contains a 90-day cybersecurity study plan, along with resources and materials for learning various cybersecurity concepts and technologies. The plan is organized into daily tasks, covering topics such as Network+, Security+, Linux, Python, Traffic Analysis, Git, ELK, AWS, Azure, and Hacking. The repository also includes a `LEARN.md
-- [awesome-totally-open-chatgpt](https://github.com/nichtdax/awesome-totally-open-chatgpt): A list of totally open alternatives to ChatGPT
-- [TaskWeaver](https://github.com/microsoft/TaskWeaver): A code-first agent framework for seamlessly planning and executing data analytics tasks. 
-- [RedPajama-Data](https://github.com/togethercomputer/RedPajama-Data): The RedPajama-Data repository contains code for preparing large datasets for training large language models.
-- [Chinese-Vicuna](https://github.com/Facico/Chinese-Vicuna): Chinese-Vicuna: A Chinese Instruction-following LLaMA-based Model —— 一个中文低资源的llama+lora方案，结构参考alpaca
-- [BlenderGPT](https://github.com/gd3kr/BlenderGPT): Use commands in English to control Blender with OpenAI's GPT-4
-- [tree-of-thought-llm](https://github.com/princeton-nlp/tree-of-thought-llm): [NeurIPS 2023] Tree of Thoughts: Deliberate Problem Solving with Large Language Models
-- [ai-getting-started](https://github.com/a16z-infra/ai-getting-started): A Javascript AI getting started stack for weekend projects, including image/text models, vector stores, auth, and deployment configs
