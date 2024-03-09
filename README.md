@@ -1,32 +1,32 @@
 # Trending Repositories
 
-- [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT): AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
-- [ollama](https://github.com/ollama/ollama): Get up and running with Llama 2, Mistral, Gemma, and other large language models.
-- [open-interpreter](https://github.com/KillianLucas/open-interpreter): A natural language interface for computers
-- [manifesto](https://github.com/opentofu/manifesto): The OpenTF Manifesto expresses concern over HashiCorp's switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool's return to a truly open-source license.
-- [DragGAN](https://github.com/XingangPan/DragGAN): Official Code for DragGAN (SIGGRAPH 2023)
-- [Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor): A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.
-- [Flowise](https://github.com/FlowiseAI/Flowise): Drag & drop UI to build your customized LLM flow
-- [chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin): The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.
-- [mojo](https://github.com/modularml/mojo): The Mojo Programming Language
-- [ChatPaper](https://github.com/kaixindelele/ChatPaper): Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文全文总结+专业翻译+润色+审稿+审稿回复
-- [mlc-llm](https://github.com/mlc-ai/mlc-llm): Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.
-- [StableLM](https://github.com/Stability-AI/StableLM): StableLM: Stability AI Language Models
-- [langflow](https://github.com/logspace-ai/langflow): ⛓️ Langflow is a dynamic graph where each node is an executable unit. Its modular and interactive design fosters rapid experimentation and prototyping, pushing hard on the limits of creativity.
-- [LLaVA](https://github.com/haotian-liu/LLaVA): [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
-- [gkd](https://github.com/gkd-kit/gkd): 基于无障碍+高级选择器+订阅规则的自定义屏幕点击 Android APP | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
-- [ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT): GUI for ChatGPT API and many LLMs. Supports agents, file-based QA, GPT finetuning and query with web search. All with a neat UI.
-- [llama-gpt](https://github.com/getumbrel/llama-gpt): A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support!
-- [OpenChatKit](https://github.com/togethercomputer/OpenChatKit): None
-- [web-llm](https://github.com/mlc-ai/web-llm): Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.
-- [uv](https://github.com/astral-sh/uv): An extremely fast Python package installer and resolver, written in Rust.
-- [llama-recipes](https://github.com/facebookresearch/llama-recipes): Scripts for fine-tuning Llama2 with composable FSDP & PEFT methods to cover single/multi-node GPUs. Supports default & custom datasets for applications such as summarization & question answering. Supporting a number of candid inference solutions such as HF TGI, VLLM for local or cloud deployment.Demo apps to showcase Llama2 for WhatsApp & Messenger
-- [prompt-engineering](https://github.com/brexhq/prompt-engineering): Tips and tricks for working with Large Language Models like OpenAI's GPT-4.
-- [nougat](https://github.com/facebookresearch/nougat): Implementation of Nougat Neural Optical Understanding for Academic Documents
-- [promptflow](https://github.com/microsoft/promptflow): Build high-quality LLM apps - from prototyping, testing to production deployment and monitoring.
-- [sweep](https://github.com/sweepai/sweep): Sweep: AI-powered Junior Developer for small features and bug fixes.
-- [yazi](https://github.com/sxyazi/yazi): 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
-- [PowerInfer](https://github.com/SJTU-IPADS/PowerInfer): High-speed Large Language Model Serving on PCs with Consumer-grade GPUs
-- [CodeGeeX2](https://github.com/THUDM/CodeGeeX2): CodeGeeX2: A More Powerful Multilingual Code Generation Model
-- [search_with_lepton](https://github.com/leptonai/search_with_lepton): Building a quick conversation-based search demo with Lepton AI.
-- [TinyLlama](https://github.com/jzhang38/TinyLlama): The TinyLlama project is an open endeavor to pretrain a 1.1B Llama model on 3 trillion tokens.
+- [good-repo](https://github.com/adamdottv/good-repo): Preeeeetty, pretty good
+- [generative-agents](https://github.com/mkturkcan/generative-agents): An attempt to build a working, locally-running cheap version of Generative Agents: Interactive Simulacra of Human Behavior
+- [Hotshot-XL](https://github.com/hotshotco/Hotshot-XL): ✨ Hotshot-XL: State-of-the-art AI text-to-GIF model trained to work alongside Stable Diffusion XL
+- [raven](https://github.com/daveshap/raven): RAVEN (Realtime Assistant Voice Enabled Network) Open Source Software (OSS) community repo
+- [llm_agents](https://github.com/mpaepper/llm_agents): Build agents which are controlled by LLMs
+- [protocol-oracle](https://github.com/Wu-Jinzhou/protocol-oracle): A simulation tool for democratic governance protocols built on OpenAI API
+- [tinyvector](https://github.com/0hq/tinyvector): A tiny nearest-neighbor embedding database built with SQLite and Pytorch. (In development!)
+- [babyagi-asi](https://github.com/oliveirabruno01/babyagi-asi): BabyAGI: an Autonomous and Self-Improving agent, or BASI
+- [Youtube2Webpage](https://github.com/obra/Youtube2Webpage): I learn much better from text than from videos
+- [SwingAnimation](https://github.com/TopWidgets/SwingAnimation): 小组件平移动画 | Widget on the Move, A Playful Animation
+- [workgpt](https://github.com/team-openpm/workgpt): A GPT agent framework for invoking APIs
+- [alphadev](https://github.com/google-deepmind/alphadev): None
+- [rektor-db](https://github.com/codediodeio/rektor-db): Rektor Vector Database
+- [InstructGLM](https://github.com/yanqiangmiffy/InstructGLM): ChatGLM-6B 指令学习|指令数据|Instruct
+- [Data_Engineering_Simplified](https://github.com/JagadeeshwaranM/Data_Engineering_Simplified): None
+- [icer_compression](https://github.com/TheRealOrange/icer_compression): Progressive, error tolerant, wavelet-based image compression algorithm
+- [ml_timeline](https://github.com/osanseviero/ml_timeline): None
+- [yf-boot](https://github.com/yf-team/yf-boot): 开箱即用的前后端一体化解决方案，前端基于Vue3+Element Plus，服务端基于SpringBoot+MyBatis+Shiro，拥有完整的用户角色权限系统，代码格式规范，可以快速上手！
+- [searchGPT](https://github.com/michaelthwan/searchGPT): Grounded search engine (i.e. with source reference) based on LLM / ChatGPT / OpenAI API. It supports web search, file content search etc.
+- [StellarSolver](https://github.com/pentilm/StellarSolver): 🌌 High-Performance N-Body Simulation with CUDA and Barnes-Hut Algorithm. 一个努力的，一个延续了近二百个文明的努力，为解决三体问题的努力，寻找太阳运行规律的努力。
+- [2019Legal-AI-Challenge-Legal-Case-Element-Recognition-solution](https://github.com/wangxupeng/2019Legal-AI-Challenge-Legal-Case-Element-Recognition-solution): Completed this competition in collaboration with Jiang Yan(https://github.com/jy1993) and Guan Shuicheng(https://github.com/guanshuicheng).
+- [controlnet-colab](https://github.com/camenduru/controlnet-colab): None
+- [Offensivesecurity-Checklists](https://github.com/CyberSecurityUP/Offensivesecurity-Checklists): Checklists for Testing Security environment
+- [a1111-sd-webui-locon](https://github.com/KohakuBlueleaf/a1111-sd-webui-locon): A extension for loading LyCORIS model in sd-webui
+- [template](https://github.com/retrohacker/template): A simple framework for webapps
+- [el-cptn](https://github.com/cptn-io/el-cptn): cptn.io is an open-source platform that helps develop and deploy integrations and data pipelines quickly and easily.
+- [Tidier.jl](https://github.com/TidierOrg/Tidier.jl): Meta-package for data analysis in Julia, modeled after the R tidyverse.
+- [companies-with-remote-positions-available-for-iranians](https://github.com/komeilmehranfar/companies-with-remote-positions-available-for-iranians): List of companies with remote positions which hire Iranian experts
+- [prem-app](https://github.com/premAI-io/prem-app):  Prem provides a unified environment to develop AI applications and deploy AI models on your infrastructure
+- [TravelApp-KMP](https://github.com/SEAbdulbasit/TravelApp-KMP): JetBrains Compose Multiplatform UI App (Android, iOS, Desktop, Web). MVVM - Kotlin MultiPlatform (KMP)
