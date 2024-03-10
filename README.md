@@ -1,32 +1,32 @@
 # Trending Repositories
 
-- [good-repo](https://github.com/adamdottv/good-repo): Preeeeetty, pretty good
-- [generative-agents](https://github.com/mkturkcan/generative-agents): An attempt to build a working, locally-running cheap version of Generative Agents: Interactive Simulacra of Human Behavior
-- [Hotshot-XL](https://github.com/hotshotco/Hotshot-XL): ✨ Hotshot-XL: State-of-the-art AI text-to-GIF model trained to work alongside Stable Diffusion XL
-- [raven](https://github.com/daveshap/raven): RAVEN (Realtime Assistant Voice Enabled Network) Open Source Software (OSS) community repo
-- [llm_agents](https://github.com/mpaepper/llm_agents): Build agents which are controlled by LLMs
-- [protocol-oracle](https://github.com/Wu-Jinzhou/protocol-oracle): A simulation tool for democratic governance protocols built on OpenAI API
-- [tinyvector](https://github.com/0hq/tinyvector): A tiny nearest-neighbor embedding database built with SQLite and Pytorch. (In development!)
-- [babyagi-asi](https://github.com/oliveirabruno01/babyagi-asi): BabyAGI: an Autonomous and Self-Improving agent, or BASI
-- [Youtube2Webpage](https://github.com/obra/Youtube2Webpage): I learn much better from text than from videos
-- [SwingAnimation](https://github.com/TopWidgets/SwingAnimation): 小组件平移动画 | Widget on the Move, A Playful Animation
-- [workgpt](https://github.com/team-openpm/workgpt): A GPT agent framework for invoking APIs
-- [alphadev](https://github.com/google-deepmind/alphadev): None
-- [rektor-db](https://github.com/codediodeio/rektor-db): Rektor Vector Database
-- [InstructGLM](https://github.com/yanqiangmiffy/InstructGLM): ChatGLM-6B 指令学习|指令数据|Instruct
-- [Data_Engineering_Simplified](https://github.com/JagadeeshwaranM/Data_Engineering_Simplified): None
-- [icer_compression](https://github.com/TheRealOrange/icer_compression): Progressive, error tolerant, wavelet-based image compression algorithm
-- [ml_timeline](https://github.com/osanseviero/ml_timeline): None
-- [yf-boot](https://github.com/yf-team/yf-boot): 开箱即用的前后端一体化解决方案，前端基于Vue3+Element Plus，服务端基于SpringBoot+MyBatis+Shiro，拥有完整的用户角色权限系统，代码格式规范，可以快速上手！
-- [searchGPT](https://github.com/michaelthwan/searchGPT): Grounded search engine (i.e. with source reference) based on LLM / ChatGPT / OpenAI API. It supports web search, file content search etc.
-- [StellarSolver](https://github.com/pentilm/StellarSolver): 🌌 High-Performance N-Body Simulation with CUDA and Barnes-Hut Algorithm. 一个努力的，一个延续了近二百个文明的努力，为解决三体问题的努力，寻找太阳运行规律的努力。
-- [2019Legal-AI-Challenge-Legal-Case-Element-Recognition-solution](https://github.com/wangxupeng/2019Legal-AI-Challenge-Legal-Case-Element-Recognition-solution): Completed this competition in collaboration with Jiang Yan(https://github.com/jy1993) and Guan Shuicheng(https://github.com/guanshuicheng).
-- [controlnet-colab](https://github.com/camenduru/controlnet-colab): None
-- [Offensivesecurity-Checklists](https://github.com/CyberSecurityUP/Offensivesecurity-Checklists): Checklists for Testing Security environment
-- [a1111-sd-webui-locon](https://github.com/KohakuBlueleaf/a1111-sd-webui-locon): A extension for loading LyCORIS model in sd-webui
-- [template](https://github.com/retrohacker/template): A simple framework for webapps
-- [el-cptn](https://github.com/cptn-io/el-cptn): cptn.io is an open-source platform that helps develop and deploy integrations and data pipelines quickly and easily.
-- [Tidier.jl](https://github.com/TidierOrg/Tidier.jl): Meta-package for data analysis in Julia, modeled after the R tidyverse.
-- [companies-with-remote-positions-available-for-iranians](https://github.com/komeilmehranfar/companies-with-remote-positions-available-for-iranians): List of companies with remote positions which hire Iranian experts
-- [prem-app](https://github.com/premAI-io/prem-app):  Prem provides a unified environment to develop AI applications and deploy AI models on your infrastructure
-- [TravelApp-KMP](https://github.com/SEAbdulbasit/TravelApp-KMP): JetBrains Compose Multiplatform UI App (Android, iOS, Desktop, Web). MVVM - Kotlin MultiPlatform (KMP)
+- [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B): ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型
+- [mlx](https://github.com/ml-explore/mlx): MLX: An array framework for Apple silicon
+- [chatGPTBox](https://github.com/josStorer/chatGPTBox): Integrating ChatGPT into your browser deeply, everything you need is here
+- [pygwalker](https://github.com/Kanaries/pygwalker): PyGWalker: Turn your pandas dataframe into an interactive UI for visual analysis
+- [open_llama](https://github.com/openlm-research/open_llama): OpenLLaMA, a permissively licensed open source reproduction of Meta AI’s LLaMA 7B trained on the RedPajama dataset
+- [magika](https://github.com/google/magika): Detect file content types with deep learning
+- [consistency_models](https://github.com/openai/consistency_models): Official repo for consistency models.
+- [freegpt-webui](https://github.com/ramonvc/freegpt-webui): GPT 3.5/4 with a Chat Web UI. No API key required.
+- [pinduoduo_backdoor](https://github.com/davinci1010/pinduoduo_backdoor): 拼多多apk内嵌提权代码，及动态下发dex分析
+- [vaul](https://github.com/emilkowalski/vaul): An unstyled drawer component for React.
+- [node-chatgpt-api](https://github.com/waylaidwanderer/node-chatgpt-api): A client implementation for ChatGPT and Bing AI. Available as a Node.js module, REST API server, and CLI app.
+- [openmoonray](https://github.com/dreamworksanimation/openmoonray): MoonRay is DreamWorks’ open-source, award-winning, state-of-the-art production MCRT renderer.
+- [AppAgent](https://github.com/mnotgod96/AppAgent): AppAgent: Multimodal Agents as Smartphone Users, an LLM-based multimodal agent framework designed to operate smartphone apps.
+- [turbopilot](https://github.com/ravenscroftj/turbopilot): Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU
+- [AnyDoor](https://github.com/ali-vilab/AnyDoor): Official implementations for paper: Anydoor: zero-shot object-level image customization
+- [simpleaichat](https://github.com/minimaxir/simpleaichat): Python package for easily interfacing with chat apps, with robust features and minimal code complexity.
+- [ChatDoctor](https://github.com/Kent0n-Li/ChatDoctor): None
+- [floatui](https://github.com/MarsX-dev/floatui): Beautiful and responsive UI components and templates for React and Vue (soon) with Tailwind CSS.
+- [ZyPlayer](https://github.com/Hiram-Wong/ZyPlayer): 跨平台桌面端视频资源播放器,免费高颜值.
+- [rift](https://github.com/morph-labs/rift): Rift: an AI-native language server for your personal AI software engineer
+- [REALITY](https://github.com/XTLS/REALITY): THE NEXT FUTURE
+- [RehabilitationGuide](https://github.com/AnsonZnl/RehabilitationGuide): 颈椎病腰突康复指南，为程序员群体提供简单可靠的康复指南。
+- [March7thAssistant](https://github.com/moesnow/March7thAssistant): 崩坏：星穹铁道全自动 三月七小助手
+- [LangChain-ChatGLM-Webui](https://github.com/X-D-Lab/LangChain-ChatGLM-Webui): 基于LangChain和ChatGLM-6B等系列LLM的针对本地知识库的自动问答
+- [AutoGPT-Next-Web](https://github.com/ConnectAI-E/AutoGPT-Next-Web): 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用
+- [Degrees-of-Lewdity-Chinese-Localization](https://github.com/Eltirosto/Degrees-of-Lewdity-Chinese-Localization): Degrees of Lewdity 游戏的授权中文社区本地化版本
+- [Remembering-Haoel](https://github.com/megaease/Remembering-Haoel): 记录您对左耳朵耗子（陈皓）的点滴回忆
+- [UFO](https://github.com/microsoft/UFO): A UI-Focused Agent for Windows OS Interaction.
+- [speechgpt](https://github.com/hahahumble/speechgpt): 💬 SpeechGPT is a web application that enables you to converse with ChatGPT.
+- [FluentUI](https://github.com/zhuzichu520/FluentUI): FluentUI for QML
