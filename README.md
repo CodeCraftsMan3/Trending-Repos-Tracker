@@ -1,32 +1,32 @@
 # Trending Repositories
 
-- [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B): ChatGLM-6B: An Open Bilingual Dialogue Language Model | 开源双语对话语言模型
-- [mlx](https://github.com/ml-explore/mlx): MLX: An array framework for Apple silicon
-- [chatGPTBox](https://github.com/josStorer/chatGPTBox): Integrating ChatGPT into your browser deeply, everything you need is here
-- [pygwalker](https://github.com/Kanaries/pygwalker): PyGWalker: Turn your pandas dataframe into an interactive UI for visual analysis
-- [open_llama](https://github.com/openlm-research/open_llama): OpenLLaMA, a permissively licensed open source reproduction of Meta AI’s LLaMA 7B trained on the RedPajama dataset
-- [magika](https://github.com/google/magika): Detect file content types with deep learning
-- [consistency_models](https://github.com/openai/consistency_models): Official repo for consistency models.
-- [freegpt-webui](https://github.com/ramonvc/freegpt-webui): GPT 3.5/4 with a Chat Web UI. No API key required.
-- [pinduoduo_backdoor](https://github.com/davinci1010/pinduoduo_backdoor): 拼多多apk内嵌提权代码，及动态下发dex分析
-- [vaul](https://github.com/emilkowalski/vaul): An unstyled drawer component for React.
-- [node-chatgpt-api](https://github.com/waylaidwanderer/node-chatgpt-api): A client implementation for ChatGPT and Bing AI. Available as a Node.js module, REST API server, and CLI app.
-- [openmoonray](https://github.com/dreamworksanimation/openmoonray): MoonRay is DreamWorks’ open-source, award-winning, state-of-the-art production MCRT renderer.
-- [AppAgent](https://github.com/mnotgod96/AppAgent): AppAgent: Multimodal Agents as Smartphone Users, an LLM-based multimodal agent framework designed to operate smartphone apps.
-- [turbopilot](https://github.com/ravenscroftj/turbopilot): Turbopilot is an open source large-language-model based code completion engine that runs locally on CPU
-- [AnyDoor](https://github.com/ali-vilab/AnyDoor): Official implementations for paper: Anydoor: zero-shot object-level image customization
-- [simpleaichat](https://github.com/minimaxir/simpleaichat): Python package for easily interfacing with chat apps, with robust features and minimal code complexity.
-- [ChatDoctor](https://github.com/Kent0n-Li/ChatDoctor): None
-- [floatui](https://github.com/MarsX-dev/floatui): Beautiful and responsive UI components and templates for React and Vue (soon) with Tailwind CSS.
-- [ZyPlayer](https://github.com/Hiram-Wong/ZyPlayer): 跨平台桌面端视频资源播放器,免费高颜值.
-- [rift](https://github.com/morph-labs/rift): Rift: an AI-native language server for your personal AI software engineer
-- [REALITY](https://github.com/XTLS/REALITY): THE NEXT FUTURE
-- [RehabilitationGuide](https://github.com/AnsonZnl/RehabilitationGuide): 颈椎病腰突康复指南，为程序员群体提供简单可靠的康复指南。
-- [March7thAssistant](https://github.com/moesnow/March7thAssistant): 崩坏：星穹铁道全自动 三月七小助手
-- [LangChain-ChatGLM-Webui](https://github.com/X-D-Lab/LangChain-ChatGLM-Webui): 基于LangChain和ChatGLM-6B等系列LLM的针对本地知识库的自动问答
-- [AutoGPT-Next-Web](https://github.com/ConnectAI-E/AutoGPT-Next-Web): 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.一键免费部署你的私人AutoGPT 网页应用
-- [Degrees-of-Lewdity-Chinese-Localization](https://github.com/Eltirosto/Degrees-of-Lewdity-Chinese-Localization): Degrees of Lewdity 游戏的授权中文社区本地化版本
-- [Remembering-Haoel](https://github.com/megaease/Remembering-Haoel): 记录您对左耳朵耗子（陈皓）的点滴回忆
-- [UFO](https://github.com/microsoft/UFO): A UI-Focused Agent for Windows OS Interaction.
-- [speechgpt](https://github.com/hahahumble/speechgpt): 💬 SpeechGPT is a web application that enables you to converse with ChatGPT.
-- [FluentUI](https://github.com/zhuzichu520/FluentUI): FluentUI for QML
+- [ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web): A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
+- [llama.cpp](https://github.com/ggerganov/llama.cpp): LLM inference in C/C++
+- [screenshot-to-code](https://github.com/abi/screenshot-to-code): Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
+- [segment-anything](https://github.com/facebookresearch/segment-anything): The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
+- [chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web): 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
+- [AgentGPT](https://github.com/reworkd/AgentGPT): 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
+- [maybe](https://github.com/maybe-finance/maybe): The OS for your personal finances
+- [llm-course](https://github.com/mlabonne/llm-course): Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
+- [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui): AI chat for every model.
+- [MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4): Open-sourced codes for MiniGPT-4 and MiniGPT-v2 (https://minigpt-4.github.io, https://minigpt-v2.github.io/)
+- [roop](https://github.com/s0md3v/roop): one-click face swap
+- [so-vits-svc](https://github.com/svc-develop-team/so-vits-svc): SoftVC VITS Singing Voice Conversion
+- [chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin): The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.
+- [localGPT](https://github.com/PromtEngineer/localGPT): Chat with your documents on your local device using GPT models. No data leaves your device and 100% private. 
+- [LocalAI](https://github.com/mudler/LocalAI): :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. It allows to generate Text, Audio, Video, Images. Also with voice cloning capabilities.
+- [gpt-crawler](https://github.com/BuilderIO/gpt-crawler): Crawl a site to generate knowledge files to create your own custom GPT from a URL
+- [Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI): Voice data <= 10 mins can also be used to train a good VC model!
+- [carrot](https://github.com/xx025/carrot): Free ChatGPT Site List 这儿为你准备了众多免费好用的ChatGPT镜像站点
+- [vllm](https://github.com/vllm-project/vllm): A high-throughput and memory-efficient inference and serving engine for LLMs
+- [awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt): 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated. 
+- [OpenVoice](https://github.com/myshell-ai/OpenVoice): Instant voice cloning by MyShell.
+- [generative_agents](https://github.com/joonspk-research/generative_agents): Generative Agents: Interactive Simulacra of Human Behavior
+- [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory): Unify Efficient Fine-tuning of 100+ LLMs
+- [draw-a-ui](https://github.com/SawyerHood/draw-a-ui): Draw a mockup and generate html for it
+- [shap-e](https://github.com/openai/shap-e): Generate 3D objects conditioned on text or images
+- [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev): Continuation of Clash Verge - A Clash Meta GUI based on Tauri (Windows, MacOS, Linux)
+- [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch): Implementing a ChatGPT-like LLM from scratch, step by step
+- [FastGPT](https://github.com/labring/FastGPT): FastGPT is a knowledge-based platform built on the LLM, offers out-of-the-box data processing and model invocation capabilities, allows for workflow orchestration through Flow visualization!
+- [dolly](https://github.com/databrickslabs/dolly): Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform
+- [rye](https://github.com/astral-sh/rye): a Hassle-Free Python Experience
