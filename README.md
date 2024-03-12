@@ -1,32 +1,32 @@
 # Trending Repositories
 
-- [ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web): A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
-- [llama.cpp](https://github.com/ggerganov/llama.cpp): LLM inference in C/C++
-- [screenshot-to-code](https://github.com/abi/screenshot-to-code): Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
-- [segment-anything](https://github.com/facebookresearch/segment-anything): The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
-- [chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web): 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
-- [AgentGPT](https://github.com/reworkd/AgentGPT): 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
-- [maybe](https://github.com/maybe-finance/maybe): The OS for your personal finances
-- [llm-course](https://github.com/mlabonne/llm-course): Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
-- [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui): AI chat for every model.
-- [MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4): Open-sourced codes for MiniGPT-4 and MiniGPT-v2 (https://minigpt-4.github.io, https://minigpt-v2.github.io/)
-- [roop](https://github.com/s0md3v/roop): one-click face swap
-- [so-vits-svc](https://github.com/svc-develop-team/so-vits-svc): SoftVC VITS Singing Voice Conversion
-- [chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin): The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.
-- [localGPT](https://github.com/PromtEngineer/localGPT): Chat with your documents on your local device using GPT models. No data leaves your device and 100% private. 
-- [LocalAI](https://github.com/mudler/LocalAI): :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. It allows to generate Text, Audio, Video, Images. Also with voice cloning capabilities.
-- [gpt-crawler](https://github.com/BuilderIO/gpt-crawler): Crawl a site to generate knowledge files to create your own custom GPT from a URL
-- [Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI): Voice data <= 10 mins can also be used to train a good VC model!
-- [carrot](https://github.com/xx025/carrot): Free ChatGPT Site List 这儿为你准备了众多免费好用的ChatGPT镜像站点
-- [vllm](https://github.com/vllm-project/vllm): A high-throughput and memory-efficient inference and serving engine for LLMs
-- [awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt): 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated. 
-- [OpenVoice](https://github.com/myshell-ai/OpenVoice): Instant voice cloning by MyShell.
-- [generative_agents](https://github.com/joonspk-research/generative_agents): Generative Agents: Interactive Simulacra of Human Behavior
-- [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory): Unify Efficient Fine-tuning of 100+ LLMs
-- [draw-a-ui](https://github.com/SawyerHood/draw-a-ui): Draw a mockup and generate html for it
-- [shap-e](https://github.com/openai/shap-e): Generate 3D objects conditioned on text or images
-- [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev): Continuation of Clash Verge - A Clash Meta GUI based on Tauri (Windows, MacOS, Linux)
-- [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch): Implementing a ChatGPT-like LLM from scratch, step by step
-- [FastGPT](https://github.com/labring/FastGPT): FastGPT is a knowledge-based platform built on the LLM, offers out-of-the-box data processing and model invocation capabilities, allows for workflow orchestration through Flow visualization!
-- [dolly](https://github.com/databrickslabs/dolly): Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform
-- [rye](https://github.com/astral-sh/rye): a Hassle-Free Python Experience
+- [node](https://github.com/base-org/node): Everything required to run your own Base node
+- [privateGPT](https://github.com/imartinez/privateGPT): Interact with your documents using the power of GPT, 100% privately, no data leaks
+- [JARVIS](https://github.com/microsoft/JARVIS): JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf
+- [cursor](https://github.com/getcursor/cursor): An AI-powered code editor based on VSCode 🤖
+- [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS): 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
+- [Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca): 中文LLaMA&Alpaca大语言模型+本地CPU/GPU训练部署 (Chinese LLaMA & Alpaca LLMs)
+- [GPT_API_free](https://github.com/chatanywhere/GPT_API_free): Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（免费），ChatGPT国内可用免费转发API，直连无需代理。可以搭配ChatBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。
+- [AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone): Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation
+- [MOSS](https://github.com/OpenMOSS/MOSS): An open-source tool-augmented conversational language model from Fudan University
+- [Chat2DB](https://github.com/chat2db/Chat2DB): 🔥 🔥 🔥 An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.
+- [deploy](https://github.com/pandora-next/deploy): Pandora Cloud + Pandora Server + Shared Chat + BackendAPI Proxy + Chat2API + Signup Free = PandoraNext. New GPTs(Gizmo) UI, All in one!
+- [Qwen](https://github.com/QwenLM/Qwen): The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud.
+- [AnimateDiff](https://github.com/guoyww/AnimateDiff): Official implementation of AnimateDiff.
+- [faster-whisper](https://github.com/SYSTRAN/faster-whisper): Faster Whisper transcription with CTranslate2
+- [LMFlow](https://github.com/OptimalScale/LMFlow): An Extensible Toolkit for Finetuning and Inference of Large Foundation Models. Large Models for All.
+- [dm-ticket](https://github.com/ClassmateLin/dm-ticket): 大麦网自动购票, 支持docker一键部署。Damai automatically purchases tickets, running in docker container.
+- [NekoBoxForAndroid](https://github.com/MatsuriDayo/NekoBoxForAndroid): NekoBox for Android / sing-box / universal proxy toolchain for Android
+- [DARC](https://github.com/Project-DARC/DARC): Decentralized Autonomous Regulated Company (DARC), a company virtual machine that runs on any EVM-compatible blockchain, with on-chain law system, multi-level tokens and dividends mechanism.
+- [Whisper](https://github.com/Const-me/Whisper): High-performance GPGPU inference of OpenAI's Whisper automatic speech recognition (ASR) model
+- [bilingual_book_maker](https://github.com/yihong0618/bilingual_book_maker): Make bilingual epub books Using AI translate
+- [3x-ui](https://github.com/MHSanaei/3x-ui): Xray panel supporting multi-protocol multi-user expire day & traffic & ip limit (Vmess & Vless & Trojan &  ShadowSocks & Wireguard)
+- [hiddify-next](https://github.com/hiddify/hiddify-next): Multi-platform auto-proxy client, supporting Sing-box, X-ray, TUIC, Hysteria, Reality, Trojan, SSH etc. It’s an open-source, secure and ad-free.
+- [IPTV](https://github.com/joevess/IPTV): IPTV直播源抓取 自动整合好趣网直播源+TVBox直播源+其他网上直播源 择取分辨率、速度最佳视频流 定期更新
+- [EmotiVoice](https://github.com/netease-youdao/EmotiVoice): EmotiVoice 😊: a Multi-Voice and Prompt-Controlled TTS Engine
+- [E2B](https://github.com/e2b-dev/E2B): Cloud Runtime for AI Agents
+- [lit-llama](https://github.com/Lightning-AI/lit-llama): Implementation of the LLaMA language model based on nanoGPT. Supports flash attention, Int8 and GPTQ 4bit quantization, LoRA and LLaMA-Adapter fine-tuning, pre-training. Apache 2.0-licensed.
+- [bob-plugin-openai-translator](https://github.com/openai-translator/bob-plugin-openai-translator): 基于 ChatGPT API 的文本翻译、文本润色、语法纠错 Bob 插件，让我们一起迎接不需要巴别塔的新时代！Licensed under CC BY-NC-SA 4.0
+- [opencommit](https://github.com/di-sukharev/opencommit): Auto-generate impressive commits with AI in 1 second 🤯🔫
+- [typehero](https://github.com/typehero/typehero): Connect, collaborate, and grow with a community of TypeScript developers
+- [DragGAN](https://github.com/OpenGVLab/DragGAN): Unofficial Implementation of DragGAN - "Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold" （DragGAN 全功能实现，在线Demo，本地部署试用，代码、模型已全部开源，支持Windows, macOS, Linux）
