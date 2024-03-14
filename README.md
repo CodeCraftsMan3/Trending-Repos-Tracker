@@ -1,32 +1,32 @@
 # Trending Repositories
 
-- [llama](https://github.com/facebookresearch/llama): Inference code for LLaMA models
-- [FastChat](https://github.com/lm-sys/FastChat): An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
-- [bark](https://github.com/suno-ai/bark): 🔊 Text-Prompted Generative Audio Model
-- [ControlNet](https://github.com/lllyasviel/ControlNet): Let us control diffusion models!
-- [MiniGPT-4](https://github.com/Vision-CAIR/MiniGPT-4): Open-sourced codes for MiniGPT-4 and MiniGPT-v2 (https://minigpt-4.github.io, https://minigpt-v2.github.io/)
-- [roop](https://github.com/s0md3v/roop): one-click face swap
-- [multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene): A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage
-- [generative_agents](https://github.com/joonspk-research/generative_agents): Generative Agents: Interactive Simulacra of Human Behavior
-- [SuperAGI](https://github.com/TransformerOptimus/SuperAGI): <⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
-- [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT): 这是一款提高ChatGPT的数据安全能力和效率的插件。并且免费共享大量创新功能，如：自动刷新、保持活跃、数据安全、取消审计、克隆对话、言无不尽、净化页面、展示大屏、展示全屏、拦截跟踪、日新月异等。让我们的AI体验无比安全、顺畅、丝滑、高效、简洁。
-- [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM): Awesome-LLM: a curated list of Large Language Model
-- [Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything): Grounded-SAM: Marrying Grounding-DINO with Segment Anything & Stable Diffusion & Recognize Anything - Automatically Detect , Segment and Generate Anything
-- [clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev): Continuation of Clash Verge - A Clash Meta GUI based on Tauri (Windows, MacOS, Linux)
-- [dolly](https://github.com/databrickslabs/dolly): Databricks’ Dolly, a large language model trained on the Databricks Machine Learning Platform
-- [DB-GPT](https://github.com/eosphoros-ai/DB-GPT): AI Native Data App Development framework with AWEL(Agentic Workflow Expression Language) and Agents
-- [the-algorithm-ml](https://github.com/twitter/the-algorithm-ml): Source code for Twitter's Recommendation Algorithm
-- [open-llms](https://github.com/eugeneyan/open-llms): 📋 A list of open LLMs available for commercial use.
-- [awesome-chatgpt-zh](https://github.com/yzfly/awesome-chatgpt-zh): ChatGPT 中文指南🔥，ChatGPT 中文调教指南，指令指南，应用开发指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up! 🚀
-- [gorilla](https://github.com/ShishirPatil/gorilla): Gorilla: An API store for LLMs
-- [anything-llm](https://github.com/Mintplex-Labs/anything-llm): A multi-user ChatGPT for any LLMs and vector database. Unlimited documents, messages, and storage in one privacy-focused app. Now available as a desktop application!
-- [prompt-engineering-for-developers](https://github.com/datawhalechina/prompt-engineering-for-developers): 面向开发者的 LLM 入门教程，吴恩达大模型系列课程中文版
-- [WizardLM](https://github.com/nlpxucan/WizardLM): LLMs build upon Evol Insturct: WizardLM, WizardCoder, WizardMath
-- [OpenLLM](https://github.com/bentoml/OpenLLM): Operating LLMs in production
-- [oxc](https://github.com/oxc-project/oxc): ⚓ A collection of JavaScript tools written in Rust.
-- [StableStudio](https://github.com/Stability-AI/StableStudio): Community interface for generative AI
-- [mistral-src](https://github.com/mistralai/mistral-src): Reference implementation of Mistral AI 7B v0.1 model.
-- [EdgeGPT](https://github.com/acheong08/EdgeGPT): Reverse engineered API of Microsoft's Bing Chat AI
-- [chatgpt-demo](https://github.com/anse-app/chatgpt-demo): Minimal web UI for ChatGPT. 
-- [ts-reset](https://github.com/total-typescript/ts-reset): A 'CSS reset' for TypeScript, improving types for common JavaScript API's
-- [IF](https://github.com/deep-floyd/IF): None
+- [wenda](https://github.com/wenda-LLM/wenda): 闻达：一个LLM调用平台。目标为针对特定环境的高效内容生成，同时考虑个人和中小企业的计算资源局限性，以及知识安全和私密性问题
+- [mm-cot](https://github.com/amazon-science/mm-cot): Official implementation for "Multimodal Chain-of-Thought Reasoning in Language Models" (stay tuned and more will be updated)
+- [pgrok](https://github.com/pgrok/pgrok): Poor man's ngrok - a multi-tenant HTTP/TCP reverse tunnel solution through SSH remote port forwarding
+- [scribble-diffusion](https://github.com/replicate/scribble-diffusion): Turn your rough sketch into a refined image using AI
+- [heshijun_v_360](https://github.com/hax/heshijun_v_360): 贺师俊与360的劳动争议诉讼
+- [Portal](https://github.com/lxfater/Portal): None
+- [my_notes](https://github.com/merveenoyan/my_notes): My small cheatsheets for data science, ML, computer science and more.
+- [OpenAGI](https://github.com/agiresearch/OpenAGI): OpenAGI: When LLM Meets Domain Experts
+- [bing-chat-for-all-browsers](https://github.com/anaclumos/bing-chat-for-all-browsers): Enable Bing ChatGPT on Chrome and Firefox
+- [nextjs-openai-doc-search](https://github.com/supabase-community/nextjs-openai-doc-search): Template for building your own custom ChatGPT style doc search powered by Next.js, OpenAI, and Supabase.
+- [Open-Assistant](https://github.com/YORG-AI/Open-Assistant): YORG Open Source Version
+- [Bard](https://github.com/acheong08/Bard): Python SDK/API for reverse engineered Google Bard
+- [AlpacaDataCleaned](https://github.com/gururise/AlpacaDataCleaned): Alpaca dataset from Stanford, cleaned and curated
+- [CodeCursor](https://github.com/Helixform/CodeCursor): An extension for using Cursor in Visual Studio Code. 
+- [chatgpt-ui](https://github.com/WongSaang/chatgpt-ui): A ChatGPT web client that supports multiple users, multiple languages, and multiple database connections for persistent data storage. Provides Docker images and quick deployment scripts.
+- [datalens](https://github.com/datalens-tech/datalens): A modern, scalable analytics system
+- [Data-Copilot](https://github.com/zwq2018/Data-Copilot): Data-Copilot: Bridging Billions of Data and Humans with Autonomous Workflow
+- [tapio-eth](https://github.com/nutsfinance/tapio-eth): None
+- [languagemodels](https://github.com/jncraton/languagemodels): Explore large language models in 512MB of RAM
+- [Dromedary](https://github.com/IBM/Dromedary): Dromedary: towards helpful, ethical and reliable LLMs.
+- [NextScan](https://github.com/tongcheng-security-team/NextScan): 飞刃是一套完整的企业级黑盒漏洞扫描系统，集成漏洞扫描、漏洞管理、扫描资产、爬虫等服务。 拥有强大的漏洞检测引擎和丰富的插件库，覆盖多种漏洞类型和应用程序框架。
+- [Word-As-Image](https://github.com/Shiriluz/Word-As-Image): None
+- [sd-webui-lora-block-weight](https://github.com/hako-mikan/sd-webui-lora-block-weight): None
+- [subsai](https://github.com/abdeladim-s/subsai): 🎞️ Subtitles generation tool (Web-UI + CLI + Python package) powered by OpenAI's Whisper and its variants 🎞️
+- [sudolang-llm-support](https://github.com/paralleldrive/sudolang-llm-support): SudoLang LLM Support for VSCode
+- [spotlight](https://github.com/Renumics/spotlight): Interactively explore unstructured datasets from your dataframe.
+- [babel-plugin-glowup-vibes](https://github.com/christina-de-martinez/babel-plugin-glowup-vibes): the most goated babel plugin
+- [gptrpg](https://github.com/dzoba/gptrpg): A demo of an GPT-based agent existing in an RPG-like environment
+- [lzCloudSecurity](https://github.com/EvilAnne/lzCloudSecurity): 《云安全攻防入门》教材
+- [langchain-chat-nextjs](https://github.com/zahidkhawaja/langchain-chat-nextjs): Next.js frontend for LangChain Chat.
