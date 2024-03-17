@@ -1,32 +1,32 @@
 # Trending Repositories
 
-- [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT): AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.
-- [ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web): A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
-- [llama.cpp](https://github.com/ggerganov/llama.cpp): LLM inference in C/C++
-- [ollama](https://github.com/ollama/ollama): Get up and running with Llama 2, Mistral, Gemma, and other large language models.
-- [open-interpreter](https://github.com/KillianLucas/open-interpreter): A natural language interface for computers
-- [manifesto](https://github.com/opentofu/manifesto): The OpenTF Manifesto expresses concern over HashiCorp's switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool's return to a truly open-source license.
-- [DragGAN](https://github.com/XingangPan/DragGAN): Official Code for DragGAN (SIGGRAPH 2023)
-- [chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web): 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
-- [Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor): A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.
-- [so-vits-svc](https://github.com/svc-develop-team/so-vits-svc): SoftVC VITS Singing Voice Conversion
-- [Flowise](https://github.com/FlowiseAI/Flowise): Drag & drop UI to build your customized LLM flow
-- [chatgpt-retrieval-plugin](https://github.com/openai/chatgpt-retrieval-plugin): The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.
-- [ChatPaper](https://github.com/kaixindelele/ChatPaper): Use ChatGPT to summarize the arXiv papers. 全流程加速科研，利用chatgpt进行论文全文总结+专业翻译+润色+审稿+审稿回复
-- [mojo](https://github.com/modularml/mojo): The Mojo Programming Language
-- [mlc-llm](https://github.com/mlc-ai/mlc-llm): Enable everyone to develop, optimize and deploy AI models natively on everyone's devices.
-- [StableLM](https://github.com/Stability-AI/StableLM): StableLM: Stability AI Language Models
-- [langflow](https://github.com/logspace-ai/langflow): ⛓️ Langflow is a dynamic graph where each node is an executable unit. Its modular and interactive design fosters rapid experimentation and prototyping, pushing hard on the limits of creativity.
-- [LLaVA](https://github.com/haotian-liu/LLaVA): [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
-- [gkd](https://github.com/gkd-kit/gkd): 基于无障碍+高级选择器+订阅规则的自定义屏幕点击 Android APP | An Android APP with custom screen tapping based on Accessibility, Advanced Selectors, and Subscription Rules
-- [ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT): GUI for ChatGPT API and many LLMs. Supports agents, file-based QA, GPT finetuning and query with web search. All with a neat UI.
-- [LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory): Unify Efficient Fine-tuning of 100+ LLMs
-- [FastGPT](https://github.com/labring/FastGPT): FastGPT is a knowledge-based platform built on the LLM, offers out-of-the-box data processing and model invocation capabilities, allows for workflow orchestration through Flow visualization!
-- [rye](https://github.com/astral-sh/rye): a Hassle-Free Python Experience
-- [LiTiaotiao-Custom-Rules](https://github.com/Snoopy1866/LiTiaotiao-Custom-Rules): 李跳跳自定义规则
-- [llama-gpt](https://github.com/getumbrel/llama-gpt): A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support!
-- [OpenChatKit](https://github.com/togethercomputer/OpenChatKit): None
-- [FlexGen](https://github.com/FMInference/FlexGen): Running large language models on a single GPU for throughput-oriented scenarios.
-- [continue](https://github.com/continuedev/continue): ⏩ The easiest way to code with any LLM—Continue is an open-source autopilot for VS Code and JetBrains
-- [web-llm](https://github.com/mlc-ai/web-llm): Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.
-- [Llama-Chinese](https://github.com/LlamaFamily/Llama-Chinese): Llama中文社区，最好的中文Llama大模型，完全开源可商用
+- [qr-designer](https://github.com/kochrt/qr-designer): QR designer web app with a novel method of designing qr codes that does not take advantage of error correction
+- [DragGAN](https://github.com/JiauZhang/DragGAN): Implementation of DragGAN: Interactive Point-based Manipulation on the Generative Image Manifold
+- [pinduoduo_backdoor_detailed_report](https://github.com/davincifans101/pinduoduo_backdoor_detailed_report): Maybe the most detailed analysis of pdd  backdoors
+- [glidesort](https://github.com/orlp/glidesort): A Rust implementation of Glidesort, my stable adaptive quicksort/mergesort hybrid sorting algorithm. 
+- [GPTeacher](https://github.com/teknium1/GPTeacher): A collection of modular datasets generated by GPT-4, General-Instruct - Roleplay-Instruct - Code-Instruct - and Toolformer
+- [chatglm_finetuning](https://github.com/ssbuild/chatglm_finetuning): chatglm 6b finetuning and alpaca finetuning
+- [telegram-chatgpt-concierge-bot](https://github.com/RafalWilinski/telegram-chatgpt-concierge-bot): Interact with OpenAI's ChatGPT via Telegram and Voice.
+- [afet-org](https://github.com/acikyazilimagi/afet-org): None
+- [fractureiser](https://github.com/fractureiser-investigation/fractureiser): Information about the fractureiser malware
+- [ChatGPT-to-API](https://github.com/acheong08/ChatGPT-to-API): Scalable unofficial ChatGPT API for production.
+- [Tracking-Anything-with-DEVA](https://github.com/hkchengrex/Tracking-Anything-with-DEVA): [ICCV 2023] Tracking Anything with Decoupled Video Segmentation
+- [kubectl-ai](https://github.com/sozercan/kubectl-ai): ✨ Kubectl plugin for OpenAI GPT
+- [carefree-drawboard](https://github.com/carefree0910/carefree-drawboard): 🎨 Infinite Drawboard in Python
+- [chatgpt-pgvector](https://github.com/gannonh/chatgpt-pgvector): ChatGTP (gpt3.5-turbo) starter app
+- [tuneflow-py](https://github.com/tuneflow/tuneflow-py): 🧠+🎧 Build your music algorithms and AI models with the next-gen DAW 🔥
+- [LLM-Adapters](https://github.com/AGI-Edgerunners/LLM-Adapters): Code for our EMNLP 2023 Paper: "LLM-Adapters: An Adapter Family for Parameter-Efficient Fine-Tuning of Large Language Models"
+- [Hypervisor-101-in-Rust](https://github.com/tandasat/Hypervisor-101-in-Rust): The materials of "Hypervisor 101 in Rust", a one-day long course, to quickly learn hardware-assisted virtualization technology and its application for high-performance fuzzing on Intel/AMD processors.
+- [ReplitLM](https://github.com/replit/ReplitLM): Inference code and configs for the ReplitLM model family
+- [Block-Pornographic-Replies](https://github.com/slarkvan/Block-Pornographic-Replies): 屏蔽推特回复下的黄推。Block pornographic replies below the tweet.
+- [entaoai](https://github.com/akshata29/entaoai): Chat and Ask on your own data.  Accelerator to quickly upload your own enterprise data and use OpenAI services to chat to that uploaded data and ask questions
+- [chatgpt-md](https://github.com/bramses/chatgpt-md): A (nearly) seamless integration of ChatGPT into Obsidian.
+- [Wukong_ProjectManagement](https://github.com/WuKongOpenSource/Wukong_ProjectManagement): 悟空项目管理-基于Spring Cloud Alibaba微服务架构 +vue ElementUI的前后端分离项目管理系统
+- [ControlNet-for-Diffusers](https://github.com/haofanwang/ControlNet-for-Diffusers): Transfer the ControlNet with any basemodel in diffusers🔥
+- [infiniteGPT](https://github.com/emmethalm/infiniteGPT): InfiniteGPT is a Python script that lets you input an unlimited size text into the OpenAI API. No more tedious copy & pasting. Long live multithreading!
+- [MixtralKit](https://github.com/open-compass/MixtralKit): A toolkit for inference and evaluation of 'mixtral-8x7b-32kseqlen' from Mistral AI
+- [motor-os](https://github.com/moturus/motor-os): A simple, fast, and secure operating system for the cloud.
+- [pyobd](https://github.com/barracuda-fsh/pyobd): open source obd2 car diagnostics program - reuploaded 
+- [visual_anagrams](https://github.com/dangeng/visual_anagrams): Code for the paper "Visual Anagrams: Generating Multi-View Optical Illusions with Diffusion Models"
+- [code-racer](https://github.com/webdevcody/code-racer): None
+- [badtodo](https://github.com/ockeghem/badtodo): None
