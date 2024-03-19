@@ -1,32 +1,32 @@
 # Trending Repositories
 
-- [Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat): Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM 等语言模型的本地知识库问答 | Langchain-Chatchat (formerly langchain-ChatGLM), local knowledge based LLM (like ChatGLM) QA app with langchain 
-- [monaspace](https://github.com/githubnext/monaspace): An innovative superfamily of fonts for code
-- [Awesome-Multimodal-Large-Language-Models](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models): :sparkles::sparkles:Latest Papers and Datasets on Multimodal Large Language Models, and Their Evaluation.
-- [awesome-langchain](https://github.com/kyrolabs/awesome-langchain): 😎 Awesome list of tools and projects with the awesome LangChain framework
-- [open-resume](https://github.com/xitanggg/open-resume): OpenResume is a powerful open-source resume builder and resume parser. https://open-resume.com/
-- [OpenChat](https://github.com/openchatai/OpenChat): LLMs custom-chatbots console ⚡
-- [promptbase](https://github.com/microsoft/promptbase): All things prompt engineering
-- [Sigma-Web-Dev-Course](https://github.com/CodeWithHarry/Sigma-Web-Dev-Course): Source Code for Sigma Web Development Course
-- [llm-numbers](https://github.com/ray-project/llm-numbers): Numbers every LLM developer should know
-- [pr-agent](https://github.com/Codium-ai/pr-agent): 🚀CodiumAI PR-Agent: An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
-- [mm-cot](https://github.com/amazon-science/mm-cot): Official implementation for "Multimodal Chain-of-Thought Reasoning in Language Models" (stay tuned and more will be updated)
-- [Luotuo-Chinese-LLM](https://github.com/LC1332/Luotuo-Chinese-LLM): 骆驼(Luotuo): Open Sourced Chinese Language Models. Developed by 陈启源 @ 华中师范大学 & 李鲁鲁 @ 商汤科技 & 冷子昂 @ 商汤科技
-- [NearDrop](https://github.com/grishka/NearDrop): An unofficial Google Nearby Share app for macOS
-- [OLMo](https://github.com/allenai/OLMo): Modeling, training, eval, and inference code for OLMo
-- [uploadthing](https://github.com/pingdotgg/uploadthing): File uploads for modern web devs
-- [PPHC](https://github.com/johnlui/PPHC): 📙《高并发的哲学原理》开源图书（CC BY-NC-ND）https://pphc.lvwenhan.com
-- [arroyo](https://github.com/ArroyoSystems/arroyo): Distributed stream processing engine in Rust
-- [pgrok](https://github.com/pgrok/pgrok): Poor man's ngrok - a multi-tenant HTTP/TCP reverse tunnel solution through SSH remote port forwarding
-- [scribble-diffusion](https://github.com/replicate/scribble-diffusion): Turn your rough sketch into a refined image using AI
-- [Open-AnimateAnyone](https://github.com/guoqincode/Open-AnimateAnyone): Unofficial Implementation of Animate Anyone
-- [chatblade](https://github.com/npiv/chatblade): A CLI Swiss Army Knife for ChatGPT
-- [ubicloud](https://github.com/ubicloud/ubicloud): Open, free, and portable cloud. Elastic compute, block storage (non replicated), virtual networking, managed Postgres, and IAM services in public beta.
-- [gptcommit](https://github.com/zurawiki/gptcommit): A git prepare-commit-msg hook for authoring commit messages with GPT-3.
-- [chat-with-gpt](https://github.com/cogentapps/chat-with-gpt): An open-source ChatGPT app with a voice
-- [mentat](https://github.com/AbanteAI/mentat): Mentat - The AI Coding Assistant 
-- [RasaGPT](https://github.com/paulpierre/RasaGPT): 💬 RasaGPT is the first headless LLM chatbot platform built on top of Rasa and Langchain. Built w/ Rasa, FastAPI, Langchain, LlamaIndex, SQLModel, pgvector, ngrok, telegram
-- [StableSwarmUI](https://github.com/Stability-AI/StableSwarmUI): StableSwarmUI, A Modular Stable Diffusion Web-User-Interface, with an emphasis on making powertools easily accessible, high performance, and extensibility.
-- [coze-discord-proxy](https://github.com/deanxv/coze-discord-proxy): 代理Discord对话Coze-Bot，实现以API形式请求GPT4模型，提供对话、文生图、图生文、知识库检索等功能。
-- [MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2): Automate the process of making money online.
-- [SolidGPT](https://github.com/AI-Citizen/SolidGPT): Effortlessly build, host, and maintain SaaS with AI.
+- [the-algorithm](https://github.com/twitter/the-algorithm): Source code for Twitter's Recommendation Algorithm
+- [gpt_academic](https://github.com/binary-husky/gpt_academic): 为GPT/GLM等LLM大语言模型提供实用化交互接口，特别优化论文阅读/润色/写作体验，模块化设计，支持自定义快捷按钮&函数插件，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持chatglm3等本地模型。接入通义千问, deepseekcoder, 讯飞星火, 文心一言, llama2, rwkv, claude2, moss等。
+- [Fooocus](https://github.com/lllyasviel/Fooocus): Focus on prompting and generating
+- [WeChatMsg](https://github.com/LC044/WeChatMsg): 提取微信聊天记录，将其导出成HTML、Word、CSV文档永久保存，对聊天记录进行分析生成年度聊天报告
+- [generative-models](https://github.com/Stability-AI/generative-models): Generative Models by Stability AI
+- [audiocraft](https://github.com/facebookresearch/audiocraft): Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning.
+- [pingora](https://github.com/cloudflare/pingora): A library for building fast, reliable and evolvable network services.
+- [tabby](https://github.com/TabbyML/tabby): Self-hosted AI coding assistant
+- [evals](https://github.com/openai/evals): Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.
+- [ChatALL](https://github.com/sunner/ChatALL):  Concurrently chat with ChatGPT, Bing Chat, Bard, Alpaca, Vicuna, Claude, ChatGLM, MOSS, 讯飞星火, 文心一言 and more, discover the best answers
+- [FinGPT](https://github.com/AI4Finance-Foundation/FinGPT): FinGPT: Open-Source Financial Large Language Models!  Revolutionize 🔥    We release the trained model on HuggingFace.
+- [langchainjs](https://github.com/langchain-ai/langchainjs): 🦜🔗 Build context-aware reasoning applications 🦜🔗
+- [AudioGPT](https://github.com/AIGC-Audio/AudioGPT): AudioGPT: Understanding and Generating Speech, Music, Sound, and Talking Head
+- [BingGPT](https://github.com/dice2o/BingGPT): Desktop application of new Bing's AI-powered chat (Windows, macOS and Linux)
+- [InstantID](https://github.com/InstantID/InstantID): InstantID : Zero-shot Identity-Preserving Generation in Seconds 🔥
+- [LibreChat](https://github.com/danny-avila/LibreChat): Enhanced ChatGPT Clone: Features OpenAI, Assistants API, Azure, Groq, GPT-4 Vision, Mistral, Bing, Anthropic, OpenRouter, Google Gemini, AI model switching, message search, langchain, DALL-E-3, ChatGPT Plugins, OpenAI Functions, Secure Multi-User System, Presets, completely open-source for self-hosting. More features in development
+- [kamal](https://github.com/basecamp/kamal): Deploy web apps anywhere.
+- [fabric](https://github.com/danielmiessler/fabric): fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
+- [LLMsPracticalGuide](https://github.com/Mooler0410/LLMsPracticalGuide): A curated list of practical guide resources of LLMs (LLMs Tree, Examples, Papers)
+- [LLMSurvey](https://github.com/RUCAIBox/LLMSurvey): The official GitHub page for the survey paper "A Survey of Large Language Models".
+- [inshellisense](https://github.com/microsoft/inshellisense): IDE style command line auto complete
+- [aicommits](https://github.com/Nutlope/aicommits): A CLI that writes your git commit messages for you with AI
+- [chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt): A collection of GPT system prompts and various prompt injection/leaking knowledge.
+- [LangChain-Chinese-Getting-Started-Guide](https://github.com/liaokongVFX/LangChain-Chinese-Getting-Started-Guide): LangChain 的中文入门教程
+- [Open-Sora](https://github.com/hpcaitech/Open-Sora): Open-Sora: Democratizing Efficient Video Production for All
+- [ChatGPT-AutoExpert](https://github.com/spdustin/ChatGPT-AutoExpert): 🚀🧠💬 Supercharged Custom Instructions for ChatGPT (non-coding) and ChatGPT Advanced Data Analysis (coding). 
+- [consistency_models](https://github.com/openai/consistency_models): Official repo for consistency models.
+- [rolldown](https://github.com/rolldown/rolldown): Fast Rust bundler for JavaScript with Rollup-compatible API.
+- [system-design](https://github.com/systemdesign42/system-design): Building the best system design resource in the internet
+- [Baichuan-7B](https://github.com/baichuan-inc/Baichuan-7B): A large-scale 7B pretraining language model developed by BaiChuan-Inc.
