@@ -1,32 +1,32 @@
 # Trending Repositories
 
-- [llama](https://github.com/meta-llama/llama): Inference code for Llama models
-- [FastChat](https://github.com/lm-sys/FastChat): An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
-- [bark](https://github.com/suno-ai/bark): 🔊 Text-Prompted Generative Audio Model
-- [ControlNet](https://github.com/lllyasviel/ControlNet): Let us control diffusion models!
-- [multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene): A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage
-- [SuperAGI](https://github.com/TransformerOptimus/SuperAGI): <⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
-- [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT): 这是一款提高ChatGPT的数据安全能力和效率的插件。并且免费共享大量创新功能，如：自动刷新、保持活跃、数据安全、取消审计、克隆对话、言无不尽、净化页面、展示大屏、展示全屏、拦截跟踪、日新月异等。让我们的AI体验无比安全、顺畅、丝滑、高效、简洁。
-- [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM): Awesome-LLM: a curated list of Large Language Model
-- [Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything): Grounded-SAM: Marrying Grounding-DINO with Segment Anything & Stable Diffusion & Recognize Anything - Automatically Detect , Segment and Generate Anything
-- [open-llms](https://github.com/eugeneyan/open-llms): 📋 A list of open LLMs available for commercial use.
-- [awesome-chatgpt-zh](https://github.com/yzfly/awesome-chatgpt-zh): ChatGPT 中文指南🔥，ChatGPT 中文调教指南，指令指南，应用开发指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up! 🚀
-- [gorilla](https://github.com/ShishirPatil/gorilla): Gorilla: An API store for LLMs
-- [OpenLLM](https://github.com/bentoml/OpenLLM): Operating LLMs in production
-- [WizardLM](https://github.com/nlpxucan/WizardLM): LLMs build upon Evol Insturct: WizardLM, WizardCoder, WizardMath
-- [oxc](https://github.com/oxc-project/oxc): ⚓ A collection of JavaScript tools written in Rust.
-- [EdgeGPT](https://github.com/acheong08/EdgeGPT): Reverse engineered API of Microsoft's Bing Chat AI
-- [ts-reset](https://github.com/total-typescript/ts-reset): A 'CSS reset' for TypeScript, improving types for common JavaScript API's
-- [BELLE](https://github.com/LianjiaTech/BELLE): BELLE: Be Everyone's Large Language model Engine（开源中文对话大模型）
-- [llrt](https://github.com/awslabs/llrt): LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.
-- [BetterChatGPT](https://github.com/ztjhz/BetterChatGPT): An amazing UI for OpenAI's ChatGPT (Website + Windows + MacOS + Linux)
-- [devpod](https://github.com/loft-sh/devpod): Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
-- [Yi](https://github.com/01-ai/Yi): A series of large language models trained from scratch by developers @01-ai
-- [street-fighter-ai](https://github.com/linyiLYi/street-fighter-ai): This is an AI agent for Street Fighter II Champion Edition.
-- [companion-app](https://github.com/a16z-infra/companion-app): AI companions with memory: a lightweight stack to create and host your own AI companions
-- [Bard-API](https://github.com/dsdanielpark/Bard-API): The unofficial python package that returns response of Google Bard through cookie value.
-- [clash-nyanpasu](https://github.com/LibNyanpasu/clash-nyanpasu): Clash Nyanpasu! (∠・ω< )⌒☆​
-- [InternLM](https://github.com/InternLM/InternLM): Official release of InternLM2 7B and 20B base and chat models. 200K context support
-- [1brc](https://github.com/gunnarmorling/1brc): 1️⃣🐝🏎️ The One Billion Row Challenge -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java
-- [GroundingDINO](https://github.com/IDEA-Research/GroundingDINO): Official implementation of the paper "Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection"
-- [chat-langchain](https://github.com/langchain-ai/chat-langchain): None
+- [gptcommit](https://github.com/zurawiki/gptcommit): A git prepare-commit-msg hook for authoring commit messages with GPT-3.
+- [bing-chat-for-all-browsers](https://github.com/anaclumos/bing-chat-for-all-browsers): Enable Bing ChatGPT on Chrome and Firefox
+- [Open-Assistant](https://github.com/YORG-AI/Open-Assistant): YORG Open Source Version
+- [CodeCursor](https://github.com/Helixform/CodeCursor): An extension for using Cursor in Visual Studio Code. 
+- [axflow](https://github.com/axflow/axflow): The TypeScript framework for AI development
+- [langchain-chat-nextjs](https://github.com/zahidkhawaja/langchain-chat-nextjs): Next.js frontend for LangChain Chat.
+- [works](https://github.com/saharan/works): The code of several works on oimo.io/works
+- [MuJing](https://github.com/tangshimin/MuJing): 幕境 - 使用自己感兴趣的电影、美剧或文档，生成词库（单词本）。在记忆单词时，可以用键盘打字，练习拼写并观看相关的视频片段，以便更好的理解和记忆单词。播放电影时，以弹幕的形式复习词库中的单词。
+- [InternLM-techreport](https://github.com/InternLM/InternLM-techreport): None
+- [promptr](https://github.com/ferrislucas/promptr): Promptr is a CLI tool that lets you use plain English to instruct GPT3 or GPT4 to make changes to your codebase. 
+- [protocol-oracle](https://github.com/Wu-Jinzhou/protocol-oracle): A simulation tool for democratic governance protocols built on OpenAI API
+- [hyperimport](https://github.com/tr1ckydev/hyperimport): ⚡ Import c, rust, zig etc. files in your TypeScript code and more.
+- [doomenstein-3d](https://github.com/jdah/doomenstein-3d): Wolfenstein/DOOM style software renderers
+- [documate](https://github.com/AirCodeLabs/documate): Embed AI chat dialog into your doc site to answer user questions based on your own content.
+- [coding-competitions-archive](https://github.com/google/coding-competitions-archive): Google Coding Competitions problem archive
+- [main](https://github.com/Not-Quite-RARBG/main): Not Quite RARBG's main website.
+- [unlazy](https://github.com/johannschopplich/unlazy): 🪧 Universal lazy loading library for placeholder images leveraging native browser APIs
+- [langchain-supabase-website-chatbot](https://github.com/mayooear/langchain-supabase-website-chatbot): Build a chatgpt chatbot for your website using LangChain, Supabase, Typescript, Openai, and Next.js. 
+- [pyrometer](https://github.com/nascentxyz/pyrometer): A tool for analyzing the security and parameters of a solidity smart contract
+- [Data_Engineering_Simplified](https://github.com/JagadeeshwaranM/Data_Engineering_Simplified): None
+- [goji](https://github.com/RobinYang11/goji): goji_ui react vue components 
+- [wallet](https://github.com/Uniswap/wallet): Uniswap Wallet is the simplest, safest, and most powerful self-custodial crypto wallet. It is developed by the Uniswap Labs team, inventors of the Uniswap Protocol.
+- [open-runde](https://github.com/lauridskern/open-runde): A soft, rounded variant of Inter
+- [webcrumbs](https://github.com/webcrumbs-community/webcrumbs): Create and modify Node.js websites and applications with an admin interface and powerful themes and plugins, enriched by the community. 🌟 Star to support our work!
+- [yf-boot](https://github.com/yf-team/yf-boot): 开箱即用的前后端一体化解决方案，前端基于Vue3+Element Plus，服务端基于SpringBoot+MyBatis+Shiro，拥有完整的用户角色权限系统，代码格式规范，可以快速上手！
+- [ai-anything](https://github.com/KeJunMao/ai-anything): 💞 Anyone can create GPT tools 人人都能创建 GPT 工具
+- [Long-Context](https://github.com/abacusai/Long-Context): This repository contains code and tooling for the Abacus.AI LLM Context Expansion project. Also included are evaluation scripts and benchmark tasks that evaluate a model’s information retrieval capabilities with context expansion. We also include key experimental results and instructions for reproducing and building on them.
+- [NacosExploitGUI](https://github.com/charonlight/NacosExploitGUI): Nacos漏洞综合利用GUI工具，集成了默认口令漏洞、SQL注入漏洞、身份认证绕过漏洞、反序列化漏洞的检测及其利用
+- [gpt-travel-advisor](https://github.com/dabit3/gpt-travel-advisor): reference architecture for building a travel application with GPT3
+- [NAM_models](https://github.com/pelennor2170/NAM_models): A repository collecting model files for Neural Amp Modeler (NAM) all in one place
