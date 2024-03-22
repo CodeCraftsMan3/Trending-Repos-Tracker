@@ -1,32 +1,32 @@
 # Trending Repositories
 
-- [gptcommit](https://github.com/zurawiki/gptcommit): A git prepare-commit-msg hook for authoring commit messages with GPT-3.
-- [bing-chat-for-all-browsers](https://github.com/anaclumos/bing-chat-for-all-browsers): Enable Bing ChatGPT on Chrome and Firefox
-- [Open-Assistant](https://github.com/YORG-AI/Open-Assistant): YORG Open Source Version
-- [CodeCursor](https://github.com/Helixform/CodeCursor): An extension for using Cursor in Visual Studio Code. 
-- [axflow](https://github.com/axflow/axflow): The TypeScript framework for AI development
-- [langchain-chat-nextjs](https://github.com/zahidkhawaja/langchain-chat-nextjs): Next.js frontend for LangChain Chat.
-- [works](https://github.com/saharan/works): The code of several works on oimo.io/works
-- [MuJing](https://github.com/tangshimin/MuJing): 幕境 - 使用自己感兴趣的电影、美剧或文档，生成词库（单词本）。在记忆单词时，可以用键盘打字，练习拼写并观看相关的视频片段，以便更好的理解和记忆单词。播放电影时，以弹幕的形式复习词库中的单词。
-- [InternLM-techreport](https://github.com/InternLM/InternLM-techreport): None
-- [promptr](https://github.com/ferrislucas/promptr): Promptr is a CLI tool that lets you use plain English to instruct GPT3 or GPT4 to make changes to your codebase. 
-- [protocol-oracle](https://github.com/Wu-Jinzhou/protocol-oracle): A simulation tool for democratic governance protocols built on OpenAI API
-- [hyperimport](https://github.com/tr1ckydev/hyperimport): ⚡ Import c, rust, zig etc. files in your TypeScript code and more.
-- [doomenstein-3d](https://github.com/jdah/doomenstein-3d): Wolfenstein/DOOM style software renderers
-- [documate](https://github.com/AirCodeLabs/documate): Embed AI chat dialog into your doc site to answer user questions based on your own content.
-- [coding-competitions-archive](https://github.com/google/coding-competitions-archive): Google Coding Competitions problem archive
-- [main](https://github.com/Not-Quite-RARBG/main): Not Quite RARBG's main website.
-- [unlazy](https://github.com/johannschopplich/unlazy): 🪧 Universal lazy loading library for placeholder images leveraging native browser APIs
-- [langchain-supabase-website-chatbot](https://github.com/mayooear/langchain-supabase-website-chatbot): Build a chatgpt chatbot for your website using LangChain, Supabase, Typescript, Openai, and Next.js. 
-- [pyrometer](https://github.com/nascentxyz/pyrometer): A tool for analyzing the security and parameters of a solidity smart contract
-- [Data_Engineering_Simplified](https://github.com/JagadeeshwaranM/Data_Engineering_Simplified): None
-- [goji](https://github.com/RobinYang11/goji): goji_ui react vue components 
-- [wallet](https://github.com/Uniswap/wallet): Uniswap Wallet is the simplest, safest, and most powerful self-custodial crypto wallet. It is developed by the Uniswap Labs team, inventors of the Uniswap Protocol.
-- [open-runde](https://github.com/lauridskern/open-runde): A soft, rounded variant of Inter
-- [webcrumbs](https://github.com/webcrumbs-community/webcrumbs): Create and modify Node.js websites and applications with an admin interface and powerful themes and plugins, enriched by the community. 🌟 Star to support our work!
-- [yf-boot](https://github.com/yf-team/yf-boot): 开箱即用的前后端一体化解决方案，前端基于Vue3+Element Plus，服务端基于SpringBoot+MyBatis+Shiro，拥有完整的用户角色权限系统，代码格式规范，可以快速上手！
-- [ai-anything](https://github.com/KeJunMao/ai-anything): 💞 Anyone can create GPT tools 人人都能创建 GPT 工具
-- [Long-Context](https://github.com/abacusai/Long-Context): This repository contains code and tooling for the Abacus.AI LLM Context Expansion project. Also included are evaluation scripts and benchmark tasks that evaluate a model’s information retrieval capabilities with context expansion. We also include key experimental results and instructions for reproducing and building on them.
-- [NacosExploitGUI](https://github.com/charonlight/NacosExploitGUI): Nacos漏洞综合利用GUI工具，集成了默认口令漏洞、SQL注入漏洞、身份认证绕过漏洞、反序列化漏洞的检测及其利用
-- [gpt-travel-advisor](https://github.com/dabit3/gpt-travel-advisor): reference architecture for building a travel application with GPT3
-- [NAM_models](https://github.com/pelennor2170/NAM_models): A repository collecting model files for Neural Amp Modeler (NAM) all in one place
+- [node](https://github.com/base-org/node): Everything required to run your own Base node
+- [private-gpt](https://github.com/zylon-ai/private-gpt): Interact with your documents using the power of GPT, 100% privately, no data leaks
+- [segment-anything](https://github.com/facebookresearch/segment-anything): The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
+- [maybe](https://github.com/maybe-finance/maybe): The OS for your personal finances
+- [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui): AI chat for every model.
+- [JARVIS](https://github.com/microsoft/JARVIS): JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf
+- [cursor](https://github.com/getcursor/cursor): An AI-powered code editor based on VSCode 🤖
+- [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS): 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
+- [localGPT](https://github.com/PromtEngineer/localGPT): Chat with your documents on your local device using GPT models. No data leaves your device and 100% private. 
+- [LocalAI](https://github.com/mudler/LocalAI): :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. It allows to generate Text, Audio, Video, Images. Also with voice cloning capabilities.
+- [Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI): Voice data <= 10 mins can also be used to train a good VC model!
+- [Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca): 中文LLaMA&Alpaca大语言模型+本地CPU/GPU训练部署 (Chinese LLaMA & Alpaca LLMs)
+- [carrot](https://github.com/xx025/carrot): Free ChatGPT Site List 这儿为你准备了众多免费好用的ChatGPT镜像站点
+- [awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt): 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated. 
+- [OpenVoice](https://github.com/myshell-ai/OpenVoice): Instant voice cloning by MyShell.
+- [GPT_API_free](https://github.com/chatanywhere/GPT_API_free): Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（免费），ChatGPT国内可用免费转发API，直连无需代理。可以搭配ChatBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。
+- [AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone): Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation
+- [draw-a-ui](https://github.com/SawyerHood/draw-a-ui): Draw a mockup and generate html for it
+- [Chat2DB](https://github.com/chat2db/Chat2DB): 🔥 🔥 🔥 An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.
+- [MOSS](https://github.com/OpenMOSS/MOSS): An open-source tool-augmented conversational language model from Fudan University
+- [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch): Implementing a ChatGPT-like LLM from scratch, step by step
+- [deploy](https://github.com/pandora-next/deploy): Pandora Cloud + Pandora Server + Shared Chat + BackendAPI Proxy + Chat2API + Signup Free = PandoraNext. New GPTs(Gizmo) UI, All in one!
+- [pandas-ai](https://github.com/Sinaptik-AI/pandas-ai): Chat with your database (SQL, CSV, pandas, polars, mongodb, noSQL, etc). PandasAI makes data analysis conversational using LLMs (GPT 3.5 / 4, Anthropic, VertexAI) and RAG.
+- [puter](https://github.com/HeyPuter/puter): 🌐 The Internet OS!
+- [Qwen](https://github.com/QwenLM/Qwen): The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud.
+- [Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook): The Startup CTO's Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams
+- [MediaCrawler](https://github.com/NanmiCoder/MediaCrawler): 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫
+- [biome](https://github.com/biomejs/biome): A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
+- [danswer](https://github.com/danswer-ai/danswer): Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.
+- [ML-Papers-of-the-Week](https://github.com/dair-ai/ML-Papers-of-the-Week): 🔥Highlighting the top ML papers every week.
