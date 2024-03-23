@@ -1,32 +1,32 @@
 # Trending Repositories
 
-- [node](https://github.com/base-org/node): Everything required to run your own Base node
-- [private-gpt](https://github.com/zylon-ai/private-gpt): Interact with your documents using the power of GPT, 100% privately, no data leaks
-- [segment-anything](https://github.com/facebookresearch/segment-anything): The repository provides code for running inference with the SegmentAnything Model (SAM), links for downloading the trained model checkpoints, and example notebooks that show how to use the model.
-- [maybe](https://github.com/maybe-finance/maybe): The OS for your personal finances
-- [chatbot-ui](https://github.com/mckaywrigley/chatbot-ui): AI chat for every model.
-- [JARVIS](https://github.com/microsoft/JARVIS): JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf
-- [cursor](https://github.com/getcursor/cursor): An AI-powered code editor based on VSCode 🤖
-- [GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS): 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
-- [localGPT](https://github.com/PromtEngineer/localGPT): Chat with your documents on your local device using GPT models. No data leaves your device and 100% private. 
-- [LocalAI](https://github.com/mudler/LocalAI): :robot: The free, Open Source OpenAI alternative. Self-hosted, community-driven and local-first. Drop-in replacement for OpenAI running on consumer-grade hardware. No GPU required. Runs gguf, transformers, diffusers and many more models architectures. It allows to generate Text, Audio, Video, Images. Also with voice cloning capabilities.
-- [Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI): Voice data <= 10 mins can also be used to train a good VC model!
-- [Chinese-LLaMA-Alpaca](https://github.com/ymcui/Chinese-LLaMA-Alpaca): 中文LLaMA&Alpaca大语言模型+本地CPU/GPU训练部署 (Chinese LLaMA & Alpaca LLMs)
-- [carrot](https://github.com/xx025/carrot): Free ChatGPT Site List 这儿为你准备了众多免费好用的ChatGPT镜像站点
-- [awesome-free-chatgpt](https://github.com/LiLittleCat/awesome-free-chatgpt): 🆓免费的 ChatGPT 镜像网站列表，持续更新。List of free ChatGPT mirror sites, continuously updated. 
-- [OpenVoice](https://github.com/myshell-ai/OpenVoice): Instant voice cloning by MyShell.
-- [GPT_API_free](https://github.com/chatanywhere/GPT_API_free): Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（免费），ChatGPT国内可用免费转发API，直连无需代理。可以搭配ChatBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。
-- [AnimateAnyone](https://github.com/HumanAIGC/AnimateAnyone): Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation
-- [draw-a-ui](https://github.com/SawyerHood/draw-a-ui): Draw a mockup and generate html for it
-- [Chat2DB](https://github.com/chat2db/Chat2DB): 🔥 🔥 🔥 An intelligent and versatile general-purpose SQL client and reporting tool for databases which integrates ChatGPT capabilities.
-- [MOSS](https://github.com/OpenMOSS/MOSS): An open-source tool-augmented conversational language model from Fudan University
-- [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch): Implementing a ChatGPT-like LLM from scratch, step by step
-- [deploy](https://github.com/pandora-next/deploy): Pandora Cloud + Pandora Server + Shared Chat + BackendAPI Proxy + Chat2API + Signup Free = PandoraNext. New GPTs(Gizmo) UI, All in one!
-- [pandas-ai](https://github.com/Sinaptik-AI/pandas-ai): Chat with your database (SQL, CSV, pandas, polars, mongodb, noSQL, etc). PandasAI makes data analysis conversational using LLMs (GPT 3.5 / 4, Anthropic, VertexAI) and RAG.
-- [puter](https://github.com/HeyPuter/puter): 🌐 The Internet OS!
-- [Qwen](https://github.com/QwenLM/Qwen): The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud.
-- [Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook): The Startup CTO's Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams
-- [MediaCrawler](https://github.com/NanmiCoder/MediaCrawler): 小红书笔记 | 评论爬虫、抖音视频 | 评论爬虫、快手视频 | 评论爬虫、B 站视频 ｜ 评论爬虫、微博帖子 ｜ 评论爬虫
-- [biome](https://github.com/biomejs/biome): A toolchain for web projects, aimed to provide functionalities to maintain them. Biome offers formatter and linter, usable via CLI and LSP.
-- [danswer](https://github.com/danswer-ai/danswer): Gen-AI Chat for Teams - Think ChatGPT if it had access to your team's unique knowledge.
-- [ML-Papers-of-the-Week](https://github.com/dair-ai/ML-Papers-of-the-Week): 🔥Highlighting the top ML papers every week.
+- [woo-besluit-broncode-digid-app](https://github.com/MinBZK/woo-besluit-broncode-digid-app): None
+- [nlw-12-spacetime-ignite](https://github.com/rocketseat-education/nlw-12-spacetime-ignite): Aplicação de recordação de memórias desenvolvida no NLW 12
+- [qpaperOS](https://github.com/qewer33/qpaperOS): Smartwatch firmware for the LILYGO T-Wrist E-Paper ESP32 development board
+- [remcu-chip-sdks](https://github.com/remotemcu/remcu-chip-sdks): Array of MCU's driver SDKs prepared for effortless remote management of the MCU's peripherals
+- [slamplay](https://github.com/luigifreda/slamplay): slamplay is a collection of powerful tools to start playing and experimenting with SLAM in C++
+- [TorchProject](https://github.com/PeiranLi0930/TorchProject): None
+- [downfall](https://github.com/flowyroll/downfall): None
+- [totp](https://github.com/epicweb-dev/totp): Support Two Factor Authentication (2FA) in your application with ease.
+- [c.php](https://github.com/tsoding/c.php): C to Python compiler in PHP
+- [HugNLP](https://github.com/wjn1996/HugNLP): HugNLP is a unified and comprehensive NLP library based on HuggingFace Transformer. Please hugging for NLP now!😊 HugNLP will released to @HugAILab
+- [ziplm](https://github.com/Futrell/ziplm): None
+- [api](https://github.com/instant-dev/api): Instant API: Build type-safe web APIs with JavaScript
+- [a](https://github.com/ddddddeon/a): CLI tool to generate code from GPT3
+- [KMPTemplate](https://github.com/Kashif-E/KMPTemplate): A KMP Template targeting Multiplatform Compose Android, IOS and Desktop. Get started with zero effort.
+- [app-icon-badge](https://github.com/obytes/app-icon-badge): 🧩 Expo plugin/library to add badges for your app icon: banner, ribbon, and fully customizable.
+- [tuneAI](https://github.com/emmethalm/tuneAI): TuneAI or "autoFinetune" is an effortless way to fine tune an OpenAI model based on YouTube or text input. Automating transcript cleaning & prompt-completion pair generation.
+- [toolformer-zero](https://github.com/minosvasilias/toolformer-zero): React app implementing OpenAI and Google APIs to re-create behavior of the toolformer paper.
+- [vmdiff-prototype](https://github.com/vmdiff/vmdiff-prototype): Diff and display virtual machine snapshots
+- [Christmas](https://github.com/Maldev-Academy/Christmas): None
+- [xrpc](https://github.com/yj8023xx/xrpc): A lightweight, high throughput, and low latency RPC framework that supports the RDMA protocol
+- [AGRoL](https://github.com/facebookresearch/AGRoL): Code release for "Avatars Grow Legs Generating Smooth Human Motion from Sparse Tracking Inputs with Diffusion Model", CVPR 2023
+- [Bunki](https://github.com/Keith-Cancel/Bunki): A simple C coroutine library.
+- [dns-detector](https://github.com/sun0day/dns-detector): A nodejs cli tool to resolve host's IPs
+- [array-algorithms](https://github.com/clibraries/array-algorithms): Unintrusive algorithms for C arrays OR a C implementation of <algorithm> from C++
+- [VecTextSearch](https://github.com/szpnygo/VecTextSearch): 一个99%由OpenAI ChatGPT开发的项目。A project that is 99% developed by OpenAI ChatGPT.
+- [es-gpt](https://github.com/hunkim/es-gpt): None
+- [view.py](https://github.com/ZeroIntensity/view.py): The Batteries-Detachable Web Framework
+- [hcgf](https://github.com/hscspring/hcgf): Humanable Chat Generative-model Fine-tuning | LLM微调
+- [faker-js-ui](https://github.com/jofftiquez/faker-js-ui): Use Faker.js UI to easiliy generate fake (but realistic) data for testing and development using Faker.js.
+- [chatgpt-in-terminal](https://github.com/xiaoxx970/chatgpt-in-terminal): Use ChatGPT in terminal
