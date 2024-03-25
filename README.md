@@ -1,32 +1,32 @@
 # Trending Repositories
 
-- [Baichuan-7B](https://github.com/baichuan-inc/Baichuan-7B): A large-scale 7B pretraining language model developed by BaiChuan-Inc.
-- [OpenGpt](https://github.com/futantan/OpenGpt): Create your own ChatGPT App in seconds.
-- [LLMZoo](https://github.com/FreedomIntelligence/LLMZoo): ⚡LLM Zoo is a project that provides data, models, and evaluation benchmark for large language models.⚡
-- [raddebugger](https://github.com/EpicGamesExt/raddebugger): A native, user-mode, multi-process, graphical debugger.
-- [Semaphore](https://github.com/everythingishacked/Semaphore): A full-body keyboard using gestures to type through computer vision
-- [sidra-contracts](https://github.com/SidraChain/sidra-contracts): Genesis Smart Contracts for Sidra Chain
-- [viper](https://github.com/cvlab-columbia/viper): Code for the paper "ViperGPT: Visual Inference via Python Execution for Reasoning"
-- [compose-multiplatform-ios-android-template](https://github.com/JetBrains/compose-multiplatform-ios-android-template): Compose Multiplatform iOS+Android Application project template
-- [Multimodal-GPT](https://github.com/open-mmlab/Multimodal-GPT): Multimodal-GPT
-- [good-repo](https://github.com/adamdottv/good-repo): Preeeeetty, pretty good
-- [ChatGPTProxy](https://github.com/acheong08/ChatGPTProxy): Simple Cloudflare bypass for ChatGPT
-- [textbase](https://github.com/cofactoryai/textbase): ✨ Textbase is a simple framework for building AI chatbots. ✨
-- [ChatPDF](https://github.com/Anil-matcha/ChatPDF): Chat with any PDF. Easily upload the PDF documents you'd like to chat with. Instant answers. Ask questions, extract information, and summarize documents with AI. Sources included.
-- [ChatWaifu_Mobile](https://github.com/Voine/ChatWaifu_Mobile): 移动版二次元 AI 老婆聊天器
-- [Wukong_Accounting](https://github.com/WuKongOpenSource/Wukong_Accounting): 悟空财务管理系统（悟空FS） 实现凭证管理、账簿管理、资产负债表、现金流量表、利润表等管理。开启数智财务新时代。
-- [llama.go](https://github.com/gotzmann/llama.go): llama.go is like llama.cpp in pure Golang!
-- [yarn](https://github.com/jquesnelle/yarn): YaRN: Efficient Context Window Extension of Large Language Models
-- [placemark](https://github.com/placemark/placemark): A flexible web-based editor, converter, visualization tool, for geospatial data
-- [Skywork](https://github.com/SkyworkAI/Skywork): Skywork series models are pre-trained on 3.2TB of high-quality multilingual (mainly Chinese and English) and code data. We have open-sourced the model, training data, evaluation data, evaluation methods, etc.       天工系列模型在3.2TB高质量多语言和代码数据上进行预训练。我们开源了模型参数，训练数据，评估数据，评估方法。
-- [awesome_LLMs_interview_notes](https://github.com/jackaduma/awesome_LLMs_interview_notes): LLMs interview notes and answers:该仓库主要记录大模型（LLMs）算法工程师相关的面试题和参考答案
-- [remote-storage](https://github.com/FrigadeHQ/remote-storage): remoteStorage is a simple library that combines the localStorage API with a remote server to persist data across sessions. It works as a simple key value database store and backend with support for React, Next.js, Vue, Node, and any Javascript stack
-- [MotionCtrl](https://github.com/TencentARC/MotionCtrl): MotionCtrl: A Unified and Flexible Motion Controller for Video Generation
-- [unit-minions](https://github.com/unit-mesh/unit-minions): 《AI 研发提效研究：自己动手训练 LoRA》，包含 Llama  （Alpaca LoRA）模型、ChatGLM （ChatGLM Tuning）相关 Lora 的训练。训练内容：用户故事生成、测试代码生成、代码辅助生成、文本转 SQL、文本生成代码……
-- [WebCPM](https://github.com/thunlp/WebCPM): Official codes for ACL 2023 paper "WebCPM: Interactive Web Search for Chinese Long-form Question Answering"
-- [Video-Encode](https://github.com/Brendan-Kirtlan/Video-Encode): Encodes a file into a video format to store on a cloud video hosting service
-- [ai-vocabulary-builder](https://github.com/piglei/ai-vocabulary-builder): 一个使用了 AI 技术的智能生词本工具，特色功能：自动添加生词、读故事助记单词。
-- [CutLER](https://github.com/facebookresearch/CutLER): Code release for "Cut and Learn for Unsupervised Object Detection and Instance Segmentation" and "VideoCutLER: Surprisingly Simple Unsupervised Video Instance Segmentation"
-- [Terminator](https://github.com/ZeroMemoryEx/Terminator): Reproducing Spyboy technique to terminate all EDR/XDR/AVs processes
-- [aimless.js](https://github.com/ChrisCavs/aimless.js): The missing JavaScript randomness library.
-- [BatteryBoi](https://github.com/thebarbican19/BatteryBoi): The battery app your Mac's been dreaming about behind your back.
+- [ruby-glossary](https://github.com/tenderlove/ruby-glossary): Just a glossary of terms I've found in Ruby source code
+- [next-13-layout-transitions](https://github.com/lmatteis/next-13-layout-transitions): None
+- [ChatNote](https://github.com/OpenSourceDavy/ChatNote): AI powered tools playground
+- [p1touch](https://github.com/xperiments/p1touch): Bambulab P1 Series Touch Screen
+- [KD](https://github.com/HiangX/KD): None
+- [ReaPer](https://github.com/oslabs-beta/ReaPer): DevTool to analyze the performance of user interface and single-page applications based on the React frontend library
+- [ImageFlow](https://github.com/one-piece-official/ImageFlow): Node Image Effect Component By OpenGl ES
+- [recommender-system-algorithms](https://github.com/hc-sun/recommender-system-algorithms): Recommender System Algorithms
+- [Design_patterns](https://github.com/Apricity001/Design_patterns): 使用C++实现的23种设计模式
+- [PRIME](https://github.com/openmedlab/PRIME): None
+- [awesome-web3-contracts](https://github.com/6boris/awesome-web3-contracts): Holds the contracts that web3 developers use on a daily basis, including Ethernaut, Uniswap,Damn Vulnerable DeFi  etc.
+- [GnomeSort](https://github.com/classroom-ufersa/GnomeSort): None
+- [chat-knows](https://github.com/YidaHu/chat-knows): Chat-Knows is an intelligent question-answering service implemented based on a local knowledge base. It utilizes techniques such as document vectorization and vector search to provide answers to questions for ChatGPT and provide relevant reference documents.
+- [creekrouter_for_android](https://github.com/creekrouter/creekrouter_for_android): None
+- [by](https://github.com/jeremyevans/by): Ruby Library Preloader
+- [faraday_loop](https://github.com/sutrolabs/faraday_loop): A lightweight, generic retry utility extracted from the Faraday Ruby project
+- [lint-rpc-framework](https://github.com/hiparker/lint-rpc-framework): 一个轻量级Java RPC 框架, 底层采用Netty实现, 模拟Dubbo运行模式(闲来无事 练习一下)
+- [tensorrt_scatter](https://github.com/wy17646051/tensorrt_scatter): TensorRT Plugin of corresponding PyTorch Scatter operators.
+- [AMPN](https://github.com/zqx951102/AMPN): We submitted our paper to Information Sciences
+- [leisql](https://github.com/leiysky/leisql): A SQL database
+- [bugs](https://github.com/reddit/bugs): opinionated jira client for 80% of a devs jira usage
+- [ObservableConverter](https://github.com/Lickability/ObservableConverter): A SwiftPM command plugin to convert SwiftUI code to Observable
+- [patex-tutorial](https://github.com/patex-ecosystem/patex-tutorial): None
+- [commitgpt](https://github.com/ZPVIP/commitgpt): A CLI AI that writes git commit messages for you
+- [Groceries](https://github.com/Sophiestication/Groceries): None
+- [robot-teleop](https://github.com/KubeEdge4Robotics/robot-teleop): None
+- [Chat-app](https://github.com/safil-badarudeen/Chat-app): None
+- [list_of_star_repositories](https://github.com/marciodanielll/list_of_star_repositories): Minha lista de repositório favoritos (starts) no Github! 🐱‍💻
+- [edgegpt](https://github.com/KeJunMao/edgegpt): The reverse engineering the chat feature of the new version of Bing.新必应聊天功能的逆向工程
+- [eat_tensorflow2_in_30_days](https://github.com/zhu-yu-peng/eat_tensorflow2_in_30_days): 本教程用于深度学习的基础阶段学习，采用的API框架为tensorflow 框架
