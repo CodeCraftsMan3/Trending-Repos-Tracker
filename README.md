@@ -1,32 +1,32 @@
 # Trending Repositories
 
-- [ruby-glossary](https://github.com/tenderlove/ruby-glossary): Just a glossary of terms I've found in Ruby source code
-- [next-13-layout-transitions](https://github.com/lmatteis/next-13-layout-transitions): None
-- [ChatNote](https://github.com/OpenSourceDavy/ChatNote): AI powered tools playground
-- [p1touch](https://github.com/xperiments/p1touch): Bambulab P1 Series Touch Screen
-- [KD](https://github.com/HiangX/KD): None
-- [ReaPer](https://github.com/oslabs-beta/ReaPer): DevTool to analyze the performance of user interface and single-page applications based on the React frontend library
-- [ImageFlow](https://github.com/one-piece-official/ImageFlow): Node Image Effect Component By OpenGl ES
-- [recommender-system-algorithms](https://github.com/hc-sun/recommender-system-algorithms): Recommender System Algorithms
-- [Design_patterns](https://github.com/Apricity001/Design_patterns): 使用C++实现的23种设计模式
-- [PRIME](https://github.com/openmedlab/PRIME): None
-- [awesome-web3-contracts](https://github.com/6boris/awesome-web3-contracts): Holds the contracts that web3 developers use on a daily basis, including Ethernaut, Uniswap,Damn Vulnerable DeFi  etc.
-- [GnomeSort](https://github.com/classroom-ufersa/GnomeSort): None
-- [chat-knows](https://github.com/YidaHu/chat-knows): Chat-Knows is an intelligent question-answering service implemented based on a local knowledge base. It utilizes techniques such as document vectorization and vector search to provide answers to questions for ChatGPT and provide relevant reference documents.
-- [creekrouter_for_android](https://github.com/creekrouter/creekrouter_for_android): None
-- [by](https://github.com/jeremyevans/by): Ruby Library Preloader
-- [faraday_loop](https://github.com/sutrolabs/faraday_loop): A lightweight, generic retry utility extracted from the Faraday Ruby project
-- [lint-rpc-framework](https://github.com/hiparker/lint-rpc-framework): 一个轻量级Java RPC 框架, 底层采用Netty实现, 模拟Dubbo运行模式(闲来无事 练习一下)
-- [tensorrt_scatter](https://github.com/wy17646051/tensorrt_scatter): TensorRT Plugin of corresponding PyTorch Scatter operators.
-- [AMPN](https://github.com/zqx951102/AMPN): We submitted our paper to Information Sciences
-- [leisql](https://github.com/leiysky/leisql): A SQL database
-- [bugs](https://github.com/reddit/bugs): opinionated jira client for 80% of a devs jira usage
-- [ObservableConverter](https://github.com/Lickability/ObservableConverter): A SwiftPM command plugin to convert SwiftUI code to Observable
-- [patex-tutorial](https://github.com/patex-ecosystem/patex-tutorial): None
-- [commitgpt](https://github.com/ZPVIP/commitgpt): A CLI AI that writes git commit messages for you
-- [Groceries](https://github.com/Sophiestication/Groceries): None
-- [robot-teleop](https://github.com/KubeEdge4Robotics/robot-teleop): None
-- [Chat-app](https://github.com/safil-badarudeen/Chat-app): None
-- [list_of_star_repositories](https://github.com/marciodanielll/list_of_star_repositories): Minha lista de repositório favoritos (starts) no Github! 🐱‍💻
-- [edgegpt](https://github.com/KeJunMao/edgegpt): The reverse engineering the chat feature of the new version of Bing.新必应聊天功能的逆向工程
-- [eat_tensorflow2_in_30_days](https://github.com/zhu-yu-peng/eat_tensorflow2_in_30_days): 本教程用于深度学习的基础阶段学习，采用的API框架为tensorflow 框架
+- [llama](https://github.com/meta-llama/llama): Inference code for Llama models
+- [FastChat](https://github.com/lm-sys/FastChat): An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
+- [bark](https://github.com/suno-ai/bark): 🔊 Text-Prompted Generative Audio Model
+- [ControlNet](https://github.com/lllyasviel/ControlNet): Let us control diffusion models!
+- [multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene): A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage
+- [SuperAGI](https://github.com/TransformerOptimus/SuperAGI): <⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
+- [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT): 这是一款提高ChatGPT的数据安全能力和效率的插件。并且免费共享大量创新功能，如：自动刷新、保持活跃、数据安全、取消审计、克隆对话、言无不尽、净化页面、展示大屏、展示全屏、拦截跟踪、日新月异等。让我们的AI体验无比安全、顺畅、丝滑、高效、简洁。
+- [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM): Awesome-LLM: a curated list of Large Language Model
+- [Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything): Grounded-SAM: Marrying Grounding-DINO with Segment Anything & Stable Diffusion & Recognize Anything - Automatically Detect , Segment and Generate Anything
+- [open-llms](https://github.com/eugeneyan/open-llms): 📋 A list of open LLMs available for commercial use.
+- [awesome-chatgpt-zh](https://github.com/yzfly/awesome-chatgpt-zh): ChatGPT 中文指南🔥，ChatGPT 中文调教指南，指令指南，应用开发指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up! 🚀
+- [gorilla](https://github.com/ShishirPatil/gorilla): Gorilla: An API store for LLMs
+- [OpenLLM](https://github.com/bentoml/OpenLLM): Operating LLMs in production
+- [oxc](https://github.com/oxc-project/oxc): ⚓ A collection of JavaScript tools written in Rust.
+- [WizardLM](https://github.com/nlpxucan/WizardLM): LLMs build upon Evol Insturct: WizardLM, WizardCoder, WizardMath
+- [EdgeGPT](https://github.com/acheong08/EdgeGPT): Reverse engineered API of Microsoft's Bing Chat AI
+- [ts-reset](https://github.com/total-typescript/ts-reset): A 'CSS reset' for TypeScript, improving types for common JavaScript API's
+- [llrt](https://github.com/awslabs/llrt): LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.
+- [BELLE](https://github.com/LianjiaTech/BELLE): BELLE: Be Everyone's Large Language model Engine（开源中文对话大模型）
+- [devpod](https://github.com/loft-sh/devpod): Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
+- [Yi](https://github.com/01-ai/Yi): A series of large language models trained from scratch by developers @01-ai
+- [street-fighter-ai](https://github.com/linyiLYi/street-fighter-ai): This is an AI agent for Street Fighter II Champion Edition.
+- [companion-app](https://github.com/a16z-infra/companion-app): AI companions with memory: a lightweight stack to create and host your own AI companions
+- [clash-nyanpasu](https://github.com/LibNyanpasu/clash-nyanpasu): Clash Nyanpasu～(∠・ω< )⌒☆​
+- [InternLM](https://github.com/InternLM/InternLM): Official release of InternLM2 7B and 20B base and chat models. 200K context support
+- [1brc](https://github.com/gunnarmorling/1brc): 1️⃣🐝🏎️ The One Billion Row Challenge -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java
+- [GroundingDINO](https://github.com/IDEA-Research/GroundingDINO): Official implementation of the paper "Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection"
+- [chat-langchain](https://github.com/langchain-ai/chat-langchain): None
+- [llama-dl](https://github.com/shawwn/llama-dl): High-speed download of LLaMA, Facebook's 65B parameter GPT model
+- [nofwl](https://github.com/lencx/nofwl): NoFWL Desktop Application
