@@ -1,32 +1,32 @@
 # Trending Repositories
 
-- [llama](https://github.com/meta-llama/llama): Inference code for Llama models
-- [FastChat](https://github.com/lm-sys/FastChat): An open platform for training, serving, and evaluating large language models. Release repo for Vicuna and Chatbot Arena.
-- [bark](https://github.com/suno-ai/bark): 🔊 Text-Prompted Generative Audio Model
-- [ControlNet](https://github.com/lllyasviel/ControlNet): Let us control diffusion models!
-- [multipleWindow3dScene](https://github.com/bgstaal/multipleWindow3dScene): A quick example of how one can "synchronize" a 3d scene across multiple windows using three.js and localStorage
-- [SuperAGI](https://github.com/TransformerOptimus/SuperAGI): <⚡️> SuperAGI - A dev-first open source autonomous AI agent framework. Enabling developers to build, manage & run useful autonomous agents quickly and reliably.
-- [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT): 这是一款提高ChatGPT的数据安全能力和效率的插件。并且免费共享大量创新功能，如：自动刷新、保持活跃、数据安全、取消审计、克隆对话、言无不尽、净化页面、展示大屏、展示全屏、拦截跟踪、日新月异等。让我们的AI体验无比安全、顺畅、丝滑、高效、简洁。
-- [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM): Awesome-LLM: a curated list of Large Language Model
-- [Grounded-Segment-Anything](https://github.com/IDEA-Research/Grounded-Segment-Anything): Grounded-SAM: Marrying Grounding-DINO with Segment Anything & Stable Diffusion & Recognize Anything - Automatically Detect , Segment and Generate Anything
-- [open-llms](https://github.com/eugeneyan/open-llms): 📋 A list of open LLMs available for commercial use.
-- [awesome-chatgpt-zh](https://github.com/yzfly/awesome-chatgpt-zh): ChatGPT 中文指南🔥，ChatGPT 中文调教指南，指令指南，应用开发指南，精选资源清单，更好的使用 chatGPT 让你的生产力 up up up! 🚀
-- [gorilla](https://github.com/ShishirPatil/gorilla): Gorilla: An API store for LLMs
-- [OpenLLM](https://github.com/bentoml/OpenLLM): Operating LLMs in production
-- [oxc](https://github.com/oxc-project/oxc): ⚓ A collection of JavaScript tools written in Rust.
-- [WizardLM](https://github.com/nlpxucan/WizardLM): LLMs build upon Evol Insturct: WizardLM, WizardCoder, WizardMath
-- [EdgeGPT](https://github.com/acheong08/EdgeGPT): Reverse engineered API of Microsoft's Bing Chat AI
-- [ts-reset](https://github.com/total-typescript/ts-reset): A 'CSS reset' for TypeScript, improving types for common JavaScript API's
-- [llrt](https://github.com/awslabs/llrt): LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.
-- [BELLE](https://github.com/LianjiaTech/BELLE): BELLE: Be Everyone's Large Language model Engine（开源中文对话大模型）
-- [devpod](https://github.com/loft-sh/devpod): Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
-- [Yi](https://github.com/01-ai/Yi): A series of large language models trained from scratch by developers @01-ai
-- [street-fighter-ai](https://github.com/linyiLYi/street-fighter-ai): This is an AI agent for Street Fighter II Champion Edition.
-- [companion-app](https://github.com/a16z-infra/companion-app): AI companions with memory: a lightweight stack to create and host your own AI companions
-- [clash-nyanpasu](https://github.com/LibNyanpasu/clash-nyanpasu): Clash Nyanpasu～(∠・ω< )⌒☆​
-- [InternLM](https://github.com/InternLM/InternLM): Official release of InternLM2 7B and 20B base and chat models. 200K context support
-- [1brc](https://github.com/gunnarmorling/1brc): 1️⃣🐝🏎️ The One Billion Row Challenge -- A fun exploration of how quickly 1B rows from a text file can be aggregated with Java
-- [GroundingDINO](https://github.com/IDEA-Research/GroundingDINO): Official implementation of the paper "Grounding DINO: Marrying DINO with Grounded Pre-Training for Open-Set Object Detection"
-- [chat-langchain](https://github.com/langchain-ai/chat-langchain): None
-- [llama-dl](https://github.com/shawwn/llama-dl): High-speed download of LLaMA, Facebook's 65B parameter GPT model
-- [nofwl](https://github.com/lencx/nofwl): NoFWL Desktop Application
+- [EX-chatGPT](https://github.com/circlestarzero/EX-chatGPT): Let ChatGPT truly learn how to go online and call APIs! 'EX-ChatGPT' can rival and even surpass NewBing
+- [oke-free](https://github.com/Rapha-Borges/oke-free): Uma maneira fácil de garantir seu próprio cluster Kubernetes gratuitamente e para sempre
+- [Blackout](https://github.com/ZeroMemoryEx/Blackout): kill anti-malware protected processes ( BYOVD) (Microsoft Won )
+- [botlib](https://github.com/antirez/botlib): C Telegram bot framework
+- [Auto-GPT-Plugin-Template](https://github.com/Significant-Gravitas/Auto-GPT-Plugin-Template): A starting point for developing your own plug-in for Auto-GPT
+- [MOSS](https://github.com/txsun1997/MOSS): MOSS is a conversational language model like ChatGPT.
+- [seait](https://github.com/diStyApps/seait): SEAIT is a user-friendly application that simplifies the installation process of AI-related projects
+- [Everything-LLMs-And-Robotics](https://github.com/jrin771/Everything-LLMs-And-Robotics): The world's largest GitHub Repository for LLMs + Robotics
+- [rektor-db](https://github.com/codediodeio/rektor-db): Rektor Vector Database
+- [InstructGLM](https://github.com/yanqiangmiffy/InstructGLM): ChatGLM-6B 指令学习|指令数据|Instruct
+- [NacosRce](https://github.com/c0olw/NacosRce): Nacos JRaft Hessian 反序列化 RCE 加载字节码 注入内存马 不出网利用
+- [goji](https://github.com/RobinYang11/goji): goji_ui react vue components 
+- [scipy2023-deeplearning](https://github.com/rasbt/scipy2023-deeplearning): None
+- [LLaMA_MPS](https://github.com/jankais3r/LLaMA_MPS): Run LLaMA (and Stanford-Alpaca) inference on Apple Silicon GPUs.
+- [MVDream](https://github.com/MV-Dream/MVDream): code page placeholder
+- [InsightEngineering](https://github.com/DebugPrivilege/InsightEngineering): Hardcore Debugging
+- [ControlLoRA](https://github.com/HighCWu/ControlLoRA): ControlLoRA: A Lightweight Neural Network To Control Stable Diffusion Spatial Information
+- [InstructCV](https://github.com/AlaaLab/InstructCV): [ ICLR 2024 ] Official Codebase for "InstructCV: Instruction-Tuned Text-to-Image Diffusion Models as Vision Generalists"
+- [openai-go](https://github.com/rakyll/openai-go): Go client libraries for OpenAI
+- [KRBUACBypass](https://github.com/wh0amitz/KRBUACBypass): UAC Bypass By Abusing Kerberos Tickets
+- [data-contract-template](https://github.com/paypal/data-contract-template): Template for a data contract used in a data mesh.
+- [samsung-frame-art](https://github.com/ow/samsung-frame-art): A small script that makes it easy to fling a folder of images onto the Samsung Frame TV
+- [permuto_sdf](https://github.com/RaduAlexandru/permuto_sdf): Code for our CVPR'23 paper - "PermutoSDF: Fast Multi-View Reconstruction with Implicit Surfaces using Permutohedral Lattices"
+- [binder-trace](https://github.com/foundryzero/binder-trace): Binder Trace is a tool for intercepting and parsing Android Binder messages. Think of it as "Wireshark for Binder".
+- [programming-notes](https://github.com/luguosong/programming-notes): Programming Learning Blog
+- [recurrent-memory-transformer-pytorch](https://github.com/lucidrains/recurrent-memory-transformer-pytorch): Implementation of Recurrent Memory Transformer, Neurips 2022 paper, in Pytorch
+- [ossinsight-lite](https://github.com/pingcap/ossinsight-lite): 🚧[WIP] Yet another customizable free GitHub stats dashboard based on TiDB Serverless: https://ossinsight-lite.vercel.app, hand-drawn style.
+- [concoct](https://github.com/concoct-rs/concoct): A reactive runtime for embedded systems in Rust
+- [Collaborative-Diffusion](https://github.com/ziqihuangg/Collaborative-Diffusion): Collaborative Diffusion (CVPR 2023)
+- [youtube-gpt](https://github.com/davila7/youtube-gpt): Youtube GPT: OpenAI Whisper + Embedding + Davinci
